@@ -1,0 +1,1684 @@
+ticket_id,created_date,resolved_date,category,subcategory,priority,status,agent_name,department,sla_target_hours,sla_breached,customer_satisfaction
+TCK10095,2024-05-20 02:52,05-22-2024 08:28,ACC,Account Locked,Medium,Resolved,Priya Nair,Sales,24,Yes,
+TCK11502,2024-04-24 17:57,2024-04-24 19:33,EMAIL,Distribution List Issue,Critical,Resolved,Kiran Rao,Sales,4,No,
+TCK10576,06/02/2024 13:10,,Software,Application Crash,Medium,Open,Priya Nair,HR,24,,
+TCK10250,03/03/2024 15:26,05/03/2024 08:26,Access ,Password Reset,Low,Resolved,,Marketing,48,No,2
+TCK10983,02-07-2024 01:36,,Hard ware,Keyboard/Mouse,Medium,In Progress,Divya Menon,Legal,24,,
+TCK10685,05-27-2024 20:12,28/05/2024 12:41,Hardware ,Docking Station,Medium,Resolved,Sneha Iyer,Marketing,24,No,3
+TCK10271,02-01-2024 15:12,,HW,Laptop Issue,Medium,Open,Divya Menon,IT,24,,
+TCK11182,25/02/2024 05:36,2024-02-25 11:49,Emial,Email Not Syncing,High,Resolved,Divya Menon,Finance,8,No,4
+TCK10962,23/04/2024 06:03,23/04/2024 08:17,network,VPN Connectivity,High,Resolved,Divya Menon,Legal,8,No,4
+TCK10562,2024-05-17 02:01,2024-05-18 16:44,Software,Update Failure,Low,Closed,Kiran Rao,Procurement,48,No,4
+TCK10322,01-28-2024 23:26,01-29-2024 11:10,Access ,New Access Request,Critical,Resolved,Vikram Singh,Sales,4,Yes,5
+TCK11516,2024-04-02 15:06,04-03-2024 03:45,EMAIL,Spam/Phishing Report,Medium,Closed,Vikram Singh,Operations,24,No,1
+TCK11507,12-Jun-2024 12:46,2024-06-13 23:45,Software,,Low,Resolved,Rohan Mehta,Procurement,48,No,
+TCK11029,01/03/2024 03:53,2024-03-01 11:21,Softwear,Software Installation,Medium,Closed,Meera Pillai,Legal,24,No,2
+TCK11282,25-Apr-2024 19:00,26/04/2024 12:22,Softwear,Update Failure,Medium,Resolved,Kiran Rao,Procurement,24,No,4
+TCK10496,2024-05-10 17:50,2024-05-13 15:08,Netwrok,DNS Issue,Medium,Reopened,Meera Pillai,Procurement,24,Yes,
+TCK10876,05-20-2024 05:36,2024-05-20 13:35,Network ,DNS Issue,Medium,Resolved,Sneha Iyer,Procurement,24,No,
+TCK10821,07-Feb-2024 15:22,,ACC,Account Locked,High,Open,Sneha Iyer,Finance,8,,
+TCK11442,2024-04-29 22:23,04-29-2024 23:48,E-mail,Outlook Crash,Medium,Resolved,Aarav Sharma,Procurement,24,No,
+TCK10314,2024-04-08 02:07,2024-04-08 19:51,software,Compatibility Issue,Low,Resolved,Meera Pillai,Marketing,48,No,3
+TCK11390,2024-04-02 03:43,2024-04-06 04:24,Hardware,Docking Station,Low,Closed,Ananya Das,IT,48,Yes,
+TCK11633,2024-04-24 02:56,04-25-2024 20:11,SW,Software Installation,Low,Resolved,Vikram Singh,Sales,48,No,5
+TCK10064,2024-04-04 02:55,2024-04-04 20:58,SW,Update Failure,High,Resolved,Priya Nair,Sales,8,Yes,5
+TCK10861,05-19-2024 15:48,2024-05-19 19:44,Network ,Slow Internet,Medium,Closed,Divya Menon,IT,24,No,2
+TCK11601,2024-01-21 08:27,2024-01-21 10:56,Software ,Update Failure,Critical,Resolved,Kiran Rao,Legal,4,No,
+TCK10450,01-04-2024 01:12,08-Jan-2024 18:00,software,Application Crash,Low,Resolved,Priya Nair,HR,48,Yes,
+TCK11320,2024-03-21 15:45,2024-03-22 07:23,Access,Password Reset,Medium,Resolved,Aarav Sharma,HR,24,No,
+TCK11140,2024-04-25 10:15,04-25-2024 16:49,NW,LAN Down,High,Closed,Ananya Das,Marketing,8,No,3
+TCK11513,2024-06-28 03:38,28-Jun-2024 09:22,E-mail,Distribution List Issue,Medium,Resolved,Divya Menon,Operations,24,No,
+TCK10901,2024-05-23 15:10,23/05/2024 17:53,Acess,MFA Issue,Medium,Reopened,Sneha Iyer,Sales,24,No,
+TCK10239,2024-01-12 23:23,,Access,Account Locked,Low,In Progress,,HR,48,,
+TCK11236,2024-05-06 03:36,2024-05-06 06:57,Hard ware,Keyboard/Mouse,Medium,Closed,Ananya Das,IT,24,No,
+TCK10289,2024-03-20 13:36,2024-03-21 00:34,Network ,WiFi Issue,Medium,Resolved,Meera Pillai,Marketing,24,No,2
+TCK10783,25/02/2024 08:19,,email,Distribution List Issue,Medium,In Progress,Vikram Singh,Legal,24,,
+TCK10745,14/01/2024 23:46,2024-01-16 03:49,Access ,Account Locked,low,Resolved,Divya Menon,HR,48,No,
+TCK10461,12/06/2024 22:26,2024-06-15 15:58,Hardware,Docking Station,Medium,Resolved,Rohan Mehta,Finance,24,Yes,3
+TCK11141,10/05/2024 00:57,2024-05-12 19:57,ACC,New Access Request,Medium,Closed,Divya Menon,Operations,24,Yes,2
+TCK11350,20-Jan-2024 17:47,2024-01-20 23:08,Software ,Application Crash,Medium,Resolved,Aarav Sharma,Operations,24,No,3
+TCK11501,2024-05-19 21:12,20/05/2024 13:53,HW,Laptop Issue,Medium,Resolved,Sneha Iyer,Operations,24,No,1
+TCK10499,2024-04-12 22:45,,Netwrok,DNS Issue,Medium,In Progress,Kiran Rao,Operations,24,,
+TCK10911,02/02/2024 06:09,02-03-2024 01:46,Email,Distribution List Issue,High,Reopened,Ananya Das,Procurement,8,Yes,
+TCK10573,01-09-2024 18:55,2024-01-10 08:14,access,Account Locked,High,Resolved,Kiran Rao,Procurement,8,Yes,5
+TCK10352,2024-03-15 07:23,2024-03-20 01:55,Hardware ,Laptop Issue,Low,Closed,Rohan Mehta,Marketing,48,Yes,5
+TCK10978,2024-02-25 04:37,2024-02-25 20:57,Network ,LAN Down,Medium,Resolved,Divya Menon,Legal,24,No,
+TCK10074,03-26-2024 18:36,30-Mar-2024 02:41,ACC,MFA Issue,Low,Reopened,Divya Menon,Procurement,48,Yes,
+TCK10701,2024-02-02 15:58,,Softwear,Update Failure,Medium,Open,Aarav Sharma,Procurement,24,,
+TCK11528,11/03/2024 21:57,2024-03-12 04:11,Hardware,Keyboard/Mouse,High,Reopened,Kiran Rao,Marketing,8,No,
+TCK11568,2024-04-17 10:18,,Acess,Password Reset,Medium,In Progress,Kiran Rao,Procurement,24,,
+TCK10510,30/03/2024 23:50,2024-04-01 09:15,E-mail,Outlook Crash,Medium,Resolved,Vikram Singh,Procurement,24,Yes,1
+TCK10311,2024-02-08 03:36,,Network ,DNS Issue,High,In Progress,,Operations,8,,
+TCK11085,2024-01-30 02:35,2024-01-30 13:34,Software,Application Crash,Medium,Resolved,Arjun Reddy,Operations,24,No,2
+TCK11152,02/03/2024 00:19,03-03-2024 07:21,access,Permission Issue,Low,Resolved,Sneha Iyer,Procurement,48,No,1
+TCK10070,21/02/2024 11:05,02-21-2024 15:56,Software,Update Failure,High,Resolved,Arjun Reddy,Legal,8,No,3
+TCK10084,05-04-2024 14:33,2024-05-05 19:15,Hardware ,Laptop Issue,Medium,Closed,,IT,24,Yes,1
+TCK11548,17/01/2024 06:06,2024-01-17 12:58,software,Application Crash,High,Resolved,Aarav Sharma,Operations,8,No,5
+TCK10565,2024-01-21 14:19,,Hardware ,Printer Issue,Medium,In Progress,Priya Nair,Finance,24,,
+TCK10421,2024-06-08 06:02,,E-mail,Distribution List Issue,Medium,In Progress,Aarav Sharma,HR,24,,
+TCK10650,09/02/2024 15:39,2024-02-09 17:21,Emial,Outlook Crash,Critical,Reopened,Sneha Iyer,Procurement,4,No,
+TCK11146,2024-02-22 02:54,2024-02-22 19:04,HW,Laptop Issue,Medium,Resolved,Aarav Sharma,Sales,24,No,1
+TCK10487,2024-06-15 00:36,06-15-2024 02:43,email,Distribution List Issue,critical,Resolved,Priya Nair,Procurement,4,No,
+TCK11039,2024-05-07 03:36,2024-05-08 04:39,Email,Distribution List Issue,Low,Resolved,Sneha Iyer,IT,48,No,3
+TCK10457,2024-06-25 17:31,06-26-2024 03:26,Network,VPN Connectivity,Medium,Closed,Rohan Mehta,IT,24,No,4
+TCK11382,2024-01-16 06:19,2024-01-16 16:31,HW,Laptop Issue,Low,Resolved,Divya Menon,Legal,48,No,2
+TCK11621,28/06/2024 09:21,06-28-2024 10:23,NW,WiFi Issue,Critical,Resolved,Meera Pillai,Sales,4,No,
+TCK11210,24/04/2024 17:34,2024-04-27 20:57,Access ,Password Reset,low,Reopened,Priya Nair,Finance,48,Yes,
+TCK10728,2024-04-25 22:37,2024-04-26 05:14,Software,License Issue,Medium,Closed,Divya Menon,IT,24,No,5
+TCK10432,06-12-2024 13:53,2024-06-12 18:20,HW,Keyboard/Mouse,Medium,Resolved,Arjun Reddy,Operations,24,No,
+TCK10697,06-Jun-2024 08:49,06/06/2024 15:30,network,WiFi Issue,High,Resolved,Arjun Reddy,Legal,8,No,3
+TCK10840,2024-04-12 00:41,2024-04-12 05:08,Software ,Compatibility Issue,High,Resolved,Ananya Das,,8,No,1
+TCK10160,2024-06-24 07:45,2024-06-24 09:16,Email,Email Not Syncing,High,Closed,Ananya Das,Finance,8,No,
+TCK10707,11-Mar-2024 14:18,12/03/2024 11:25,Hardware,Laptop Issue,Medium,Reopened,Rohan Mehta,Sales,24,No,
+TCK10091,2024-01-19 02:29,2024-01-19 05:28,Access,Password Reset,High,Resolved,Aarav Sharma,Marketing,8,No,
+TCK11364,23-May-2024 04:44,,Hardware ,Printer Issue,Medium,Open,Ananya Das,Procurement,24,,
+TCK11337,2024-05-20 09:25,2024-05-20 21:05,Hard ware,Laptop Issue,Medium,Resolved,Rohan Mehta,IT,24,No,1
+TCK10263,2024-04-17 04:45,04-17-2024 14:55,Hardware,Keyboard/Mouse,Medium,Resolved,Arjun Reddy,Legal,24,No,1
+TCK10548,15-Jun-2024 12:55,15-Jun-2024 19:51,Network,DNS Issue,High,Resolved,Meera Pillai,Operations,8,No,1
+TCK11608,2024-03-26 09:56,2024-03-27 08:12,Softwear,Update Failure,Low,Resolved,Ananya Das,IT,48,No,3
+TCK11074,03-13-2024 12:06,2024-03-13 22:43,Software,Software Installation,Low,Resolved,Aarav Sharma,Sales,48,No,
+TCK10066,2024-01-27 12:10,,Software ,Compatibility Issue,High,Open,Rohan Mehta,Legal,8,,
+TCK11612,05-Jun-2024 18:00,2024-06-07 00:35,network,DNS Issue,Low,Resolved,Aarav Sharma,Finance,48,No,5
+TCK10030,02-21-2024 13:09,22/02/2024 04:25,Hardware,Printer Issue,Low,Resolved,Kiran Rao,Finance,48,No,4
+TCK10964,2024-02-13 13:21,2024-02-14 20:58,HW,Monitor Not Working,Low,Resolved,Priya Nair,Procurement,48,No,4
+TCK11584,2024-03-08 12:23,03-10-2024 00:17,hardware,Printer Issue,Low,Resolved,Aarav Sharma,IT,48,No,4
+TCK10855,2024-05-16 22:43,2024-05-18 14:18,HW,Docking Station,Low,Closed,Divya Menon,Marketing,48,No,
+TCK11520,2024-03-17 01:01,03-17-2024 05:43,ACC,MFA Issue,High,Resolved,,Legal,8,No,
+TCK10868,2024-03-13 18:18,2024-03-14 12:33,NW,Slow Internet,High,Closed,Aarav Sharma,HR,8,Yes,5
+TCK11318,02-Jan-2024 05:39,08/01/2024 04:16,ACC,Permission Issue,Low,Resolved,Meera Pillai,Operations,48,Yes,2
+TCK10754,2024-05-06 23:38,,Access ,New Access Request,Low,Open,Sneha Iyer,Procurement,48,,
+TCK10025,2024-05-03 17:09,03/05/2024 20:37,Hardware,Printer Issue,High,Reopened,Ananya Das,Finance,8,No,
+TCK11165,2024-03-31 07:28,,HW,Printer Issue,Low,Open,Meera Pillai,Legal,48,,
+TCK10156,2024-03-18 20:01,2024-03-19 02:31,Acess,MFA Issue,Low,Closed,Rohan Mehta,Operations,48,No,4
+TCK10714,2024-06-17 01:02,2024-06-17 02:12,Hard ware,Printer Issue,High,Resolved,Rohan Mehta,Legal,8,No,2
+TCK10438,2024-04-18 16:02,2024-04-18 17:37,Network,VPN Connectivity,Critical,Closed,Priya Nair,Operations,4,No,5
+TCK10331,08-May-2024 01:05,,software,Compatibility Issue,Critical,Open,Priya Nair,Procurement,4,,
+TCK10893,2024-01-08 00:07,,Software ,Software Installation,Critical,In Progress,Divya Menon,Finance,4,,
+TCK10134,19-Jan-2024 03:24,2024-01-19 23:46,network,LAN Down,Medium,Closed,Vikram Singh,Marketing,24,No,
+TCK11225,2024-02-09 19:10,2024-02-10 00:37,software,Update Failure,High,Closed,,Procurement,8,No,
+TCK11175,19/03/2024 14:04,2024-03-19 17:03,E-mail,Outlook Crash,Critical,Resolved,Arjun Reddy,IT,4,No,
+TCK11412,2024-03-05 08:28,05-Mar-2024 11:53,EMAIL,Outlook Crash,high,Resolved,Vikram Singh,Legal,8,No,3
+TCK11062,2024-02-17 17:02,,software,Update Failure,Low,Open,Priya Nair,Procurement,48,,
+TCK10750,13/02/2024 14:21,13/02/2024 21:27,Hardware ,Monitor Not Working,Critical,Resolved,Priya Nair,Finance,4,Yes,1
+TCK10073,30/04/2024 08:03,2024-04-30 12:27,Software,Compatibility Issue,High,Closed,Vikram Singh,Procurement,8,No,3
+TCK10623,03-05-2024 23:50,06/03/2024 00:52,ACC,Password Reset,Medium,Resolved,,Legal,24,No,1
+TCK10152,2024-02-25 18:39,2024-02-26 01:14,Acess,Account Locked,High,Resolved,Ananya Das,Sales,8,No,2
+TCK10037,2024-06-22 05:06,06-22-2024 22:14,Netwrok,DNS Issue,High,Closed,Divya Menon,Procurement,8,Yes,4
+TCK11395,2024-04-14 07:50,16/04/2024 02:04,software,Update Failure,Low,Closed,Vikram Singh,Finance,48,No,4
+TCK10902,2024-01-23 01:42,01-23-2024 03:21,software,Update Failure,High,Resolved,Kiran Rao,Legal,8,No,4
+TCK10858,04-24-2024 05:23,2024-04-26 17:54,Hardware ,Laptop Issue,Low,Resolved,Vikram Singh,Procurement,48,Yes,1
+TCK10283,2024-02-08 17:20,14/02/2024 07:29,Acess,Password Reset,Low,Closed,Ananya Das,Sales,48,Yes,
+TCK10082,31/01/2024 00:07,,EMAIL,Distribution List Issue,High,Open,Vikram Singh,Procurement,8,,
+TCK10205,2024-04-05 11:36,2024-04-07 12:17,Emial,Outlook Crash,Medium,Resolved,Aarav Sharma,IT,24,Yes,3
+TCK10621,2024-01-05 11:44,2024-01-05 15:48,E-mail,Spam/Phishing Report,High,Reopened,Ananya Das,Procurement,8,No,
+TCK10643,2024-02-21 13:54,02-21-2024 16:08,Access,Account Locked,Medium,Closed,Ananya Das,Finance,24,No,
+TCK11169,19/04/2024 23:23,04-20-2024 10:30,Email,Distribution List Issue,High,Closed,Sneha Iyer,Procurement,8,Yes,
+TCK10099,2024-03-19 15:35,21/03/2024 02:18,EMAIL,Outlook Crash,Low,Resolved,Arjun Reddy,Marketing,48,No,1
+TCK10646,2024-01-29 23:42,,Hardware ,Docking Station,Critical,Open,Rohan Mehta,IT,4,,
+TCK11586,2024-04-23 11:45,2024-04-25 00:12,Network ,LAN Down,Low,Closed,Arjun Reddy,Finance,48,No,4
+TCK10414,05-22-2024 18:08,23-May-2024 10:47,hardware,Docking Station,Medium,Resolved,Priya Nair,Procurement,24,No,4
+TCK10885,02-21-2024 12:19,2024-02-21 16:46,EMAIL,Spam/Phishing Report,Medium,Closed,Priya Nair,Finance,24,No,5
+TCK10280,2024-06-18 02:27,,Access ,New Access Request,Medium,Open,Priya Nair,IT,24,,
+TCK10088,01-07-2024 01:10,07/01/2024 10:08,E-mail,Outlook Crash,Medium,Resolved,Kiran Rao,Procurement,24,No,1
+TCK10545,2024-04-23 11:09,28-Apr-2024 11:48,Email,Mailbox Full,Low,Closed,Priya Nair,Finance,48,Yes,2
+TCK11116,03-10-2024 15:31,11/03/2024 15:02,E-mail,Spam/Phishing Report,Low,Closed,Meera Pillai,Marketing,48,No,5
+TCK10339,02-09-2024 07:00,02-14-2024 02:13,Acess,Account Locked,Low,Closed,Vikram Singh,HR,48,Yes,4
+TCK11188,2024-03-05 23:08,07/03/2024 12:29,Netwrok,VPN Connectivity,Medium,Resolved,,IT,24,Yes,
+TCK10752,2024-01-29 20:43,,Network,VPN Connectivity,High,In Progress,Priya Nair,HR,8,,
+TCK10343,2024-03-23 17:38,2024-03-25 06:38,Netwrok,LAN Down,Low,Closed,Sneha Iyer,Operations,48,No,
+TCK11589,2024-05-16 09:05,,Access,New Access Request,Medium,In Progress,Ananya Das,IT,24,,
+TCK11637,2024-06-02 15:05,,ACC,Permission Issue,Medium,Open,,Legal,24,,
+TCK10246,02/03/2024 18:00,,network,WiFi Issue,Low,In Progress,Divya Menon,Sales,48,,
+TCK10617,2024-05-29 02:58,,E-mail,Outlook Crash,Low,In Progress,,Finance,48,,
+TCK11499,03/03/2024 21:45,05/03/2024 03:25,E-mail,,Medium,Resolved,Priya Nair,Sales,24,Yes,5
+TCK10079,05/06/2024 05:39,2024-06-05 07:22,software,Update Failure,Critical,Closed,Priya Nair,Marketing,4,No,
+TCK11093,22/05/2024 09:59,2024-05-26 14:31,Software ,Compatibility Issue,Low,Resolved,Rohan Mehta,Legal,48,Yes,4
+TCK10961,19/05/2024 00:02,2024-05-19 20:50,E-mail,Mailbox Full,Low,Resolved,Rohan Mehta,HR,48,No,2
+TCK11068,11/05/2024 12:47,12/05/2024 10:14,hardware,Monitor Not Working,Medium,Resolved,Vikram Singh,Marketing,24,No,3
+TCK10778,2024-02-01 04:51,2024-02-02 00:37,Acess,MFA Issue,Medium,Reopened,Arjun Reddy,IT,24,No,
+TCK11109,2024-02-21 00:23,02-26-2024 22:51,Network,VPN Connectivity,Low,Closed,Priya Nair,Sales,48,Yes,4
+TCK10626,2024-05-14 15:18,2024-05-14 21:58,Hardware ,Printer Issue,High,Resolved,Rohan Mehta,,8,No,1
+TCK10183,16-Feb-2024 16:40,2024-02-21 11:13,Access,New Access Request,Low,Closed,Sneha Iyer,HR,48,Yes,
+TCK10732,08-May-2024 05:49,05-09-2024 02:29,hardware,Laptop Issue,Low,Closed,Aarav Sharma,HR,48,No,3
+TCK11233,2024-04-11 00:35,04-15-2024 05:48,access,Account Locked,Low,Closed,Ananya Das,,48,Yes,4
+TCK10325,2024-04-22 17:46,22/04/2024 23:44,HW,Laptop Issue,Low,Closed,Aarav Sharma,Finance,48,No,2
+TCK10264,04-19-2024 06:17,,Emial,Email Not Syncing,Critical,In Progress,Arjun Reddy,Marketing,4,,
+TCK10900,26-Apr-2024 06:17,26/04/2024 21:21,Software,License Issue,Medium,Resolved,Arjun Reddy,Procurement,24,No,3
+TCK10472,2024-01-05 22:12,2024-01-06 19:35,access,Account Locked,Low,Closed,Ananya Das,Operations,48,No,4
+TCK10542,02/06/2024 08:07,,SW,,Low,In Progress,Vikram Singh,HR,48,,
+TCK11402,17/04/2024 06:42,04-17-2024 11:33,email,Outlook Crash,High,Resolved,Divya Menon,Marketing,8,No,2
+TCK10740,02/06/2024 12:33,2024-06-08 11:36,SW,Software Installation,Low,Resolved,Priya Nair,Marketing,48,Yes,
+TCK10536,2024-06-01 20:22,2024-06-03 08:32,access,Permission Issue,Medium,Resolved,Rohan Mehta,Legal,24,Yes,
+TCK10704,05/02/2024 03:58,2024-02-05 23:27,ACC,Password Reset,High,Resolved,Priya Nair,Marketing,8,Yes,1
+TCK10891,26/01/2024 02:11,01-26-2024 17:55,Software,Compatibility Issue,Medium,Closed,Aarav Sharma,Marketing,24,No,3
+TCK11388,06/02/2024 06:15,06/02/2024 14:29,Hardware,Keyboard/Mouse,Low,Resolved,Kiran Rao,Procurement,48,No,
+TCK10748,2024-01-31 00:05,2024-01-31 12:00,access,New Access Request,Low,Resolved,Aarav Sharma,Sales,48,No,1
+TCK10050,10/04/2024 07:39,2024-04-10 23:21,Network ,LAN Down,Medium,Reopened,Divya Menon,Procurement,24,No,
+TCK10375,2024-01-07 03:54,2024-01-10 01:42,ACC,Permission Issue,Medium,Resolved,Divya Menon,Finance,24,Yes,5
+TCK10004,2024-01-14 12:09,2024-01-15 01:00,E-mail,Distribution List Issue,Low,Resolved,Rohan Mehta,Finance,48,No,4
+TCK10229,05-30-2024 03:58,2024-05-31 11:20,email,Mailbox Full,Low,Resolved,Kiran Rao,Sales,48,No,
+TCK10848,2024-02-21 01:54,2024-02-21 03:43,Hard ware,Keyboard/Mouse,Critical,Closed,Meera Pillai,Sales,4,No,2
+TCK11534,2024-02-24 17:02,2024-02-25 12:51,Netwrok,Slow Internet,High,Closed,Rohan Mehta,IT,8,Yes,
+TCK11439,04-Feb-2024 09:34,2024-02-05 01:11,Acess,Password Reset,Medium,Resolved,Rohan Mehta,Operations,24,No,
+TCK11171,2024-06-26 21:12,2024-06-29 16:54,Access ,MFA Issue,Low,Resolved,Divya Menon,Finance,48,Yes,2
+TCK10456,01/05/2024 05:31,2024-05-01 06:52,Email,Mailbox Full,High,Resolved,Arjun Reddy,Operations,8,No,2
+TCK11305,07-Apr-2024 23:03,2024-04-08 15:19,E-mail,Email Not Syncing,Low,Resolved,Vikram Singh,Operations,48,No,4
+TCK10534,2024-01-08 06:11,01-10-2024 10:29,network,VPN Connectivity,Medium,Closed,Rohan Mehta,Procurement,24,Yes,5
+TCK11468,2024-03-17 02:18,2024-03-17 19:42,E-mail,Email Not Syncing,Medium,Resolved,Priya Nair,Procurement,24,No,1
+TCK11191,03-29-2024 15:08,29/03/2024 16:54,E-mail,Distribution List Issue,Critical,Resolved,Arjun Reddy,Procurement,4,No,
+TCK11194,22/05/2024 06:51,,Access,MFA Issue,High,In Progress,Vikram Singh,Operations,8,,
+TCK10670,11/04/2024 06:14,04-11-2024 06:46,software,Compatibility Issue,High,Resolved,Aarav Sharma,IT,8,No,1
+TCK10140,2024-05-28 07:49,2024-05-28 08:40,access,New Access Request,High,Resolved,Sneha Iyer,Operations,8,No,1
+TCK10541,16/02/2024 07:24,02-16-2024 18:23,SW,Compatibility Issue,Low,Resolved,Kiran Rao,Legal,48,No,4
+TCK10256,2024-02-02 00:56,2024-02-02 01:36,Access,Permission Issue,Critical,Closed,,Legal,4,No,
+TCK11057,05-03-2024 17:04,2024-05-07 09:17,E-mail,Spam/Phishing Report,Low,Closed,Priya Nair,Sales,48,Yes,4
+TCK11527,2024-03-05 02:47,03-08-2024 03:14,Software,Software Installation,Low,Resolved,Rohan Mehta,IT,48,Yes,2
+TCK10779,08-Jun-2024 21:48,2024-06-09 13:51,email,Mailbox Full,Medium,Reopened,Priya Nair,Procurement,24,No,
+TCK10798,2024-03-24 08:44,03-25-2024 04:11,Network ,VPN Connectivity,Medium,Resolved,Kiran Rao,Sales,24,No,5
+TCK11149,2024-06-22 04:29,2024-06-22 07:15,software,Update Failure,Medium,Resolved,Rohan Mehta,Legal,24,No,4
+TCK11409,2024-06-03 17:38,06-04-2024 09:25,HW,Monitor Not Working,Medium,Resolved,Rohan Mehta,Marketing,24,No,
+TCK10925,06/02/2024 04:48,2024-02-06 12:07,Hardware,Docking Station,Medium,Closed,Vikram Singh,Sales,24,No,3
+TCK10582,16/03/2024 19:15,17/03/2024 14:17,access,New Access Request,High,Reopened,Arjun Reddy,HR,8,Yes,
+TCK11246,12/04/2024 15:20,2024-04-13 14:26,Hardware,Keyboard/Mouse,Low,Resolved,Vikram Singh,Operations,48,No,
+TCK10958,2024-06-13 11:38,2024-06-18 13:09,Acess,Password Reset,Low,Resolved,Priya Nair,Legal,48,Yes,
+TCK10602,2024-04-04 21:56,2024-04-04 22:53,network,WiFi Issue,High,Resolved,Kiran Rao,Operations,8,No,5
+TCK10369,2024-05-02 12:53,04/05/2024 11:07,email,Distribution List Issue,Medium,Closed,Ananya Das,Marketing,24,Yes,4
+TCK11201,2024-03-19 03:35,19/03/2024 08:22,Access,MFA Issue,High,Resolved,Divya Menon,Finance,8,No,
+TCK10826,2024-01-16 16:10,2024-01-17 12:21,software,Update Failure,Medium,Resolved,Vikram Singh,Legal,24,No,4
+TCK10761,2024-03-23 06:26,2024-03-23 07:33,Emial,Mailbox Full,High,Reopened,,IT,8,No,
+TCK11027,2024-06-11 10:54,2024-06-12 08:37,email,Outlook Crash,Low,Resolved,,HR,48,No,1
+TCK10387,19/01/2024 20:36,2024-01-19 22:18,Network,WiFi Issue,Critical,Resolved,Vikram Singh,HR,4,No,5
+TCK11389,06/01/2024 09:19,2024-01-07 16:05,SW,Compatibility Issue,Low,Resolved,Sneha Iyer,Operations,48,No,5
+TCK11585,2024-05-31 05:28,2024-06-01 01:45,Hardware,Keyboard/Mouse,Low,Closed,Divya Menon,IT,48,No,5
+TCK11023,2024-06-06 13:58,2024-06-06 19:37,software,Software Installation,Medium,Resolved,Vikram Singh,,24,No,4
+TCK11467,2024-04-28 02:02,30-Apr-2024 06:58,Hardware ,Printer Issue,Medium,Resolved,Priya Nair,Sales,24,Yes,3
+TCK11168,10/01/2024 21:17,,Network ,LAN Down,Low,In Progress,Ananya Das,Procurement,48,,
+TCK10221,09/03/2024 06:16,2024-03-09 07:42,Software,Compatibility Issue,High,Reopened,Aarav Sharma,Operations,8,No,
+TCK10782,2024-03-09 07:10,09/03/2024 18:42,Hardware ,Keyboard/Mouse,Medium,Resolved,Priya Nair,HR,24,No,4
+TCK10044,2024-04-30 15:38,2024-04-30 20:37,hardware,Monitor Not Working,High,Resolved,Priya Nair,Operations,8,No,
+TCK11505,2024-03-16 14:45,17/03/2024 11:29,email,Spam/Phishing Report,Medium,Closed,,Procurement,24,No,
+TCK10910,2024-03-14 06:23,,Email,Spam/Phishing Report,Medium,In Progress,Divya Menon,Marketing,24,,
+TCK11216,29/01/2024 13:00,2024-02-01 07:01,HW,Monitor Not Working,Medium,Closed,Sneha Iyer,Operations,24,Yes,4
+TCK11155,01-10-2024 17:19,2024-01-10 23:12,Software,Compatibility Issue,Medium,Resolved,Priya Nair,Legal,24,No,3
+TCK10395,19/04/2024 16:41,2024-04-20 02:36,Network ,VPN Connectivity,Low,Resolved,Divya Menon,Legal,48,No,4
+TCK11126,2024-03-27 07:11,2024-03-27 08:32,Software ,Application Crash,Critical,Resolved,Arjun Reddy,Sales,4,No,3
+TCK11463,10-May-2024 16:59,2024-05-10 17:34,Emial,Spam/Phishing Report,High,Resolved,Priya Nair,Sales,8,No,3
+TCK10597,2024-02-18 02:03,18/02/2024 06:37,email,Outlook Crash,Medium,Resolved,Kiran Rao,HR,24,No,
+TCK10100,2024-03-17 20:24,,Access ,Permission Issue,Medium,Open,Divya Menon,IT,24,,
+TCK10563,17-Jun-2024 13:58,06-22-2024 15:10,Software,License Issue,low,Resolved,Ananya Das,IT,48,Yes,5
+TCK10377,2024-03-01 14:32,02/03/2024 06:24,Softwear,Update Failure,Medium,Reopened,Ananya Das,Finance,24,No,
+TCK10400,2024-04-30 14:04,,Hardware,Laptop Issue,Low,Open,Arjun Reddy,Operations,48,,
+TCK10347,2024-03-26 05:45,2024-03-29 02:36,Email,Spam/Phishing Report,Medium,Resolved,Priya Nair,IT,24,Yes,5
+TCK11156,2024-02-15 00:20,,ACC,Account Locked,Medium,Open,Vikram Singh,HR,24,,
+TCK10195,2024-05-11 13:14,11/05/2024 20:10,Email,Distribution List Issue,Critical,Closed,Aarav Sharma,Finance,4,Yes,3
+TCK11053,2024-03-06 05:21,2024-03-07 00:14,hardware,Monitor Not Working,Medium,Closed,Rohan Mehta,Operations,24,No,5
+TCK11503,2024-06-17 07:56,2024-06-18 15:34,access,Password Reset,Low,Closed,Rohan Mehta,IT,48,No,5
+TCK11307,02-02-2024 00:05,2024-02-02 15:27,Hardware,Keyboard/Mouse,Medium,Resolved,Rohan Mehta,Sales,24,No,1
+TCK10111,2024-03-11 17:45,2024-03-12 13:13,email,Outlook Crash,Low,Closed,Divya Menon,,48,No,2
+TCK10669,2024-03-21 13:32,03-21-2024 14:12,Network,DNS Issue,High,Closed,Sneha Iyer,IT,8,No,2
+TCK10535,05/06/2024 23:04,2024-06-06 03:55,EMAIL,Mailbox Full,Medium,Closed,Arjun Reddy,Marketing,24,No,2
+TCK10328,2024-05-01 16:15,2024-05-01 16:52,email,Mailbox Full,High,Resolved,Aarav Sharma,Legal,8,No,
+TCK10451,2024-04-08 22:02,2024-04-12 13:55,EMAIL,Distribution List Issue,Low,Resolved,Kiran Rao,Sales,48,Yes,5
+TCK10300,07/05/2024 14:37,07/05/2024 17:10,Emial,Distribution List Issue,Medium,Resolved,Aarav Sharma,Marketing,24,No,
+TCK10918,2024-06-09 05:00,,Acess,Password Reset,Low,In Progress,Priya Nair,Operations,48,,
+TCK11284,2024-02-03 06:04,2024-02-03 20:58,SW,License Issue,High,Resolved,Meera Pillai,Procurement,8,Yes,1
+TCK10705,04/01/2024 20:01,2024-01-05 16:44,email,Outlook Crash,High,Resolved,Aarav Sharma,Finance,8,Yes,
+TCK11263,09/02/2024 10:53,02-10-2024 00:12,hardware,Laptop Issue,Medium,Resolved,Divya Menon,Legal,24,No,2
+TCK10296,18/02/2024 06:27,2024-02-18 20:29,Email,,Medium,Closed,Arjun Reddy,Sales,24,No,1
+TCK10072,09/01/2024 22:20,2024-01-10 01:14,access,New Access Request,High,Resolved,Rohan Mehta,Legal,8,No,5
+TCK10334,2024-06-17 11:51,2024-06-20 06:43,Software ,Update Failure,Medium,Resolved,Meera Pillai,Procurement,24,Yes,2
+TCK11461,01/05/2024 09:58,,Software ,License Issue,Medium,Open,,HR,24,,
+TCK10122,02-07-2024 02:36,07/02/2024 12:07,ACC,Password Reset,High,Resolved,Rohan Mehta,Marketing,8,Yes,4
+TCK10513,2024-04-12 20:10,13/04/2024 04:56,ACC,Password Reset,Low,Closed,Divya Menon,HR,48,No,5
+TCK11173,2024-06-24 00:28,,Network ,DNS Issue,Medium,In Progress,Sneha Iyer,Marketing,24,,
+TCK11016,2024-01-05 23:29,2024-01-06 13:17,Hardware ,Keyboard/Mouse,Medium,Resolved,Rohan Mehta,Legal,24,No,
+TCK10683,2024-06-26 06:45,2024-06-27 16:43,SW,Update Failure,Medium,Closed,Sneha Iyer,Operations,24,Yes,1
+TCK11043,01-09-2024 16:24,,Software ,License Issue,Medium,Open,Aarav Sharma,HR,24,,
+TCK10583,2024-01-31 08:28,01-Feb-2024 02:44,Hardware ,Monitor Not Working,low,Closed,Rohan Mehta,IT,48,No,5
+TCK11136,2024-04-27 18:11,,hardware,Printer Issue,Medium,In Progress,Rohan Mehta,HR,24,,
+TCK10374,2024-02-24 18:44,2024-02-24 21:30,Email,Spam/Phishing Report,Critical,Resolved,Priya Nair,Procurement,4,No,2
+TCK10703,2024-05-06 20:06,2024-05-07 01:35,Hardware ,Keyboard/Mouse,Low,Resolved,Vikram Singh,IT,48,No,1
+TCK10293,2024-03-18 17:18,03-19-2024 10:16,NW,WiFi Issue,Low,Reopened,Arjun Reddy,HR,48,No,
+TCK10512,2024-05-22 07:49,2024-05-23 17:39,Netwrok,VPN Connectivity,Medium,Closed,Rohan Mehta,HR,24,Yes,3
+TCK11014,2024-04-19 19:58,2024-04-20 16:00,Hardware ,Docking Station,Medium,Resolved,Vikram Singh,Finance,24,No,5
+TCK10888,2024-05-08 15:05,10/05/2024 08:25,Netwrok,Slow Internet,Low,Resolved,Sneha Iyer,Legal,48,No,
+TCK10811,2024-02-01 21:12,2024-02-06 06:39,access,Password Reset,low,Closed,Kiran Rao,Finance,48,Yes,
+TCK11645,05-23-2024 16:42,23/05/2024 17:16,Emial,Distribution List Issue,High,Closed,Sneha Iyer,Finance,8,No,
+TCK10104,06-15-2024 01:57,2024-06-15 10:34,NW,VPN Connectivity,Medium,Resolved,,Sales,24,No,4
+TCK10210,15-Jun-2024 14:38,2024-06-20 21:47,NW,DNS Issue,Low,Closed,Divya Menon,Legal,48,Yes,1
+TCK10304,07-Jun-2024 07:18,06-08-2024 09:27,email,Distribution List Issue,Low,Resolved,Kiran Rao,Legal,48,No,4
+TCK10055,2024-06-06 12:11,2024-06-08 07:08,Hard ware,Laptop Issue,Low,Closed,Divya Menon,IT,48,No,
+TCK10699,05-26-2024 01:48,,EMAIL,Email Not Syncing,Low,In Progress,Arjun Reddy,Sales,48,,
+TCK10328,2024-05-01 16:15,2024-05-01 16:52,email,Mailbox Full,High,Resolved,Aarav Sharma,Legal,8,No,
+TCK11367,2024-05-26 01:18,05-28-2024 10:16,Emial,Spam/Phishing Report,Medium,Resolved,Vikram Singh,Sales,24,Yes,3
+TCK10715,2024-03-19 04:29,2024-03-19 05:03,Emial,Distribution List Issue,High,Closed,Priya Nair,HR,8,No,2
+TCK11572,2024-01-12 21:14,01-13-2024 03:27,ACC,MFA Issue,Medium,Resolved,Sneha Iyer,Finance,24,No,
+TCK10350,19-Mar-2024 10:34,2024-03-19 19:39,Software ,Software Installation,Medium,Closed,Aarav Sharma,Operations,24,No,3
+TCK11519,06-08-2024 19:16,2024-06-11 13:33,Software ,Software Installation,Medium,Resolved,Divya Menon,IT,24,Yes,
+TCK10279,04-23-2024 16:57,04-25-2024 16:48,Netwrok,LAN Down,Medium,Resolved,Ananya Das,Finance,24,Yes,4
+TCK11060,2024-01-28 10:39,01-29-2024 06:27,ACC,New Access Request,Low,Closed,,Legal,48,No,1
+TCK11393,2024-02-21 09:43,21/02/2024 12:54,E-mail,Spam/Phishing Report,Medium,Reopened,Divya Menon,IT,24,No,
+TCK10524,2024-06-04 19:37,04-Jun-2024 21:19,access,Password Reset,High,Closed,Kiran Rao,Finance,8,No,4
+TCK10127,28/05/2024 04:13,2024-05-28 12:28,Softwear,License Issue,Medium,Resolved,Rohan Mehta,Finance,24,No,1
+TCK10835,2024-06-15 20:41,2024-06-16 00:16,E-mail,Distribution List Issue,Medium,Closed,Priya Nair,IT,24,No,2
+TCK10709,2024-06-15 05:38,,Software,Software Installation,Low,In Progress,,,48,,
+TCK10344,04-18-2024 13:33,2024-04-19 03:09,Emial,Outlook Crash,Low,Closed,Divya Menon,HR,48,No,
+TCK11065,13/04/2024 08:43,,software,Software Installation,Medium,Open,Sneha Iyer,Procurement,24,,
+TCK10831,2024-02-22 11:06,,EMAIL,Email Not Syncing,Low,In Progress,Vikram Singh,Marketing,48,,
+TCK10958,2024-06-13 11:38,2024-06-18 13:09,Acess,Password Reset,Low,Resolved,Priya Nair,Legal,48,Yes,
+TCK10757,14-Jun-2024 16:43,2024-06-18 11:55,SW,Update Failure,Low,Closed,Rohan Mehta,HR,48,Yes,1
+TCK10877,2024-04-24 11:32,,access,Account Locked,high,Open,Meera Pillai,Finance,8,,
+TCK11338,08/05/2024 05:23,2024-05-08 19:55,ACC,Account Locked,Medium,Resolved,Ananya Das,HR,24,No,
+TCK10655,06-06-2024 06:48,,NW,Slow Internet,Medium,In Progress,Sneha Iyer,HR,24,,
+TCK10813,2024-01-19 23:50,2024-01-21 15:57,Network,Slow Internet,Low,Resolved,Priya Nair,HR,48,No,5
+TCK10233,20/03/2024 14:54,21/03/2024 18:33,Software ,Software Installation,Low,Resolved,Aarav Sharma,Marketing,48,No,1
+TCK11311,2024-01-26 04:47,27/01/2024 05:07,Softwear,Application Crash,Low,Resolved,Sneha Iyer,HR,48,No,3
+TCK11250,2024-02-14 11:35,2024-02-14 23:33,Network,WiFi Issue,Medium,Closed,Priya Nair,Sales,24,No,
+TCK10391,2024-02-28 14:41,2024-02-28 20:42,Hard ware,Monitor Not Working,Critical,Resolved,Divya Menon,Operations,4,Yes,5
+TCK11001,29-Mar-2024 00:02,2024-03-29 00:54,EMAIL,Outlook Crash,Critical,Closed,Divya Menon,Marketing,4,No,3
+TCK10898,2024-02-15 01:44,2024-02-15 04:32,Software ,Application Crash,Medium,Resolved,Priya Nair,Finance,24,No,1
+TCK10766,05-20-2024 21:57,2024-05-21 02:58,email,Mailbox Full,High,Resolved,Meera Pillai,Finance,8,No,5
+TCK10086,2024-01-22 08:17,22/01/2024 08:53,Software ,License Issue,High,Closed,Rohan Mehta,Marketing,8,No,1
+TCK11181,2024-02-07 07:56,,Hard ware,Laptop Issue,High,In Progress,Meera Pillai,Procurement,8,,
+TCK11489,06-25-2024 09:36,2024-06-25 11:16,Email,Outlook Crash,Critical,Resolved,Divya Menon,Legal,4,No,2
+TCK10539,2024-06-14 14:13,,ACC,MFA Issue,High,In Progress,Kiran Rao,Sales,8,,
+TCK11383,2024-03-04 14:58,2024-03-05 01:43,Software,Compatibility Issue,Medium,Resolved,Ananya Das,Operations,24,No,
+TCK10018,2024-04-04 12:03,2024-04-05 08:59,Netwrok,DNS Issue,Medium,Resolved,Ananya Das,Marketing,24,No,1
+TCK10561,2024-06-22 08:09,23-Jun-2024 05:37,E-mail,Distribution List Issue,Low,Resolved,Ananya Das,Procurement,48,No,1
+TCK11167,2024-05-18 01:59,19/05/2024 00:14,Software,Application Crash,Low,Closed,Sneha Iyer,Procurement,48,No,4
+TCK11506,2024-04-27 00:24,2024-04-30 11:11,Software ,License Issue,Low,Resolved,,Marketing,48,Yes,2
+TCK10407,06-May-2024 16:44,05-08-2024 03:24,Netwrok,DNS Issue,Low,Resolved,Rohan Mehta,HR,48,No,4
+TCK11306,05-30-2024 02:27,2024-05-30 14:39,Hard ware,Printer Issue,High,Closed,Vikram Singh,Finance,8,Yes,
+TCK10189,2024-03-11 02:57,2024-03-11 07:39,ACC,Permission Issue,High,Resolved,Priya Nair,Finance,8,No,2
+TCK10829,22/03/2024 15:41,2024-03-23 11:27,Netwrok,LAN Down,Medium,Reopened,Divya Menon,Finance,24,No,
+TCK11150,2024-05-23 12:45,,Hardware ,Keyboard/Mouse,Medium,Open,Arjun Reddy,Legal,24,,
+TCK11300,2024-06-20 11:10,22-Jun-2024 06:00,SW,Application Crash,Medium,Resolved,Sneha Iyer,Marketing,24,Yes,
+TCK11510,2024-05-15 17:43,2024-05-16 06:38,Hardware ,Monitor Not Working,Medium,Resolved,Rohan Mehta,Legal,24,No,5
+TCK11108,2024-01-31 23:15,01-Feb-2024 04:05,Netwrok,Slow Internet,High,Resolved,Divya Menon,Marketing,8,No,1
+TCK11081,2024-05-21 04:45,,Network ,VPN Connectivity,Medium,In Progress,Kiran Rao,Procurement,24,,
+TCK10399,2024-06-28 11:08,,Access ,Account Locked,Medium,In Progress,Priya Nair,Marketing,24,,
+TCK11576,2024-06-21 13:11,,Netwrok,Slow Internet,Low,Open,Ananya Das,IT,48,,
+TCK11607,04/03/2024 15:22,2024-03-05 00:56,Hard ware,Laptop Issue,Low,Resolved,Sneha Iyer,Marketing,48,No,
+TCK11056,03-16-2024 02:27,16/03/2024 17:22,EMAIL,Mailbox Full,Medium,Resolved,Sneha Iyer,Procurement,24,No,4
+TCK11143,2024-04-04 01:12,2024-04-07 23:52,Softwear,License Issue,Low,Closed,Rohan Mehta,Finance,48,Yes,3
+TCK11272,2024-02-11 22:11,2024-02-16 21:03,Access,Permission Issue,Low,Resolved,Rohan Mehta,Marketing,48,Yes,
+TCK11609,18/06/2024 16:16,2024-06-22 12:18,HW,Docking Station,Low,Reopened,,Procurement,48,Yes,
+TCK11304,03/04/2024 20:21,04-Apr-2024 11:04,Software ,License Issue,High,Resolved,Priya Nair,IT,8,Yes,
+TCK10193,2024-02-28 19:18,01/03/2024 02:20,Hardware ,Keyboard/Mouse,Low,Resolved,Aarav Sharma,Procurement,48,No,5
+TCK10769,04-27-2024 20:15,2024-04-27 22:41,access,Account Locked,Critical,Resolved,Arjun Reddy,HR,4,No,
+TCK11418,28-Feb-2024 18:48,28-Feb-2024 19:25,Emial,Spam/Phishing Report,Medium,Reopened,Meera Pillai,Marketing,24,No,
+TCK10713,2024-03-14 05:40,15/03/2024 22:48,software,License Issue,Low,Reopened,Priya Nair,Operations,48,No,
+TCK10586,26-Mar-2024 00:25,,Email,Email Not Syncing,Critical,In Progress,,Finance,4,,
+TCK11397,12-Jan-2024 19:14,,ACC,Password Reset,Medium,In Progress,Aarav Sharma,Legal,24,,
+TCK10324,2024-06-11 02:12,2024-06-12 07:21,software,Software Installation,Low,Resolved,Aarav Sharma,Procurement,48,No,
+TCK10435,2024-06-18 06:52,22-Jun-2024 10:45,E-mail,Mailbox Full,Low,Resolved,Priya Nair,Sales,48,Yes,4
+TCK10931,2024-03-07 22:28,2024-03-08 07:17,E-mail,Email Not Syncing,Medium,Resolved,Kiran Rao,Legal,24,No,
+TCK11064,2024-03-11 11:25,2024-03-11 17:58,software,License Issue,High,Closed,Sneha Iyer,HR,8,No,3
+TCK10114,2024-06-25 19:15,2024-06-26 10:41,email,Outlook Crash,Low,Resolved,Aarav Sharma,Marketing,48,No,2
+TCK10549,02/05/2024 14:19,03/05/2024 08:54,network,WiFi Issue,High,Resolved,Rohan Mehta,Finance,8,Yes,
+TCK11498,2024-01-23 06:43,2024-01-23 11:48,access,Password Reset,High,Closed,Aarav Sharma,IT,8,No,1
+TCK10843,2024-02-08 00:06,2024-02-08 06:38,access,MFA Issue,Medium,Resolved,Priya Nair,IT,24,No,1
+TCK10996,2024-06-15 05:54,,Hardware ,Keyboard/Mouse,Critical,Open,Kiran Rao,Sales,4,,
+TCK11258,2024-05-20 17:42,,NW,DNS Issue,Low,Open,Meera Pillai,IT,48,,
+TCK10026,2024-04-23 02:41,2024-04-23 03:28,Software ,Application Crash,High,Closed,Meera Pillai,Sales,8,No,3
+TCK11330,2024-06-20 12:48,06-24-2024 14:12,Hard ware,Monitor Not Working,Low,Resolved,Vikram Singh,Procurement,48,Yes,5
+TCK10666,2024-05-27 21:51,,access,New Access Request,low,Open,Rohan Mehta,Procurement,48,,
+TCK10388,2024-05-16 10:07,2024-05-17 20:07,Hard ware,Printer Issue,Medium,Closed,Sneha Iyer,Marketing,24,Yes,
+TCK10274,28/02/2024 16:05,2024-03-03 09:07,Netwrok,LAN Down,Low,Closed,Ananya Das,Marketing,48,Yes,5
+TCK10433,2024-02-16 03:29,2024-02-17 19:41,Netwrok,VPN Connectivity,Medium,Resolved,Priya Nair,Marketing,24,Yes,
+TCK10385,2024-04-24 15:00,2024-04-25 04:17,Acess,MFA Issue,Medium,Resolved,Meera Pillai,IT,24,No,
+TCK11340,13-Jun-2024 10:42,06-18-2024 09:19,Software,Compatibility Issue,Low,Resolved,Aarav Sharma,Sales,48,Yes,
+TCK10807,2024-06-16 08:43,06-17-2024 21:31,EMAIL,Email Not Syncing,Low,Resolved,Vikram Singh,Finance,48,No,5
+TCK10864,03-26-2024 12:35,03-26-2024 19:05,Emial,Mailbox Full,Critical,Resolved,Priya Nair,HR,4,Yes,2
+TCK10904,2024-05-18 20:31,,SW,Software Installation,Low,In Progress,Aarav Sharma,Legal,48,,
+TCK11176,2024-05-15 10:02,2024-05-15 12:50,Softwear,Software Installation,Critical,Closed,Sneha Iyer,Finance,4,No,2
+TCK10679,2024-02-02 04:47,,Hard ware,Monitor Not Working,High,In Progress,Rohan Mehta,Operations,8,,
+TCK10832,24/01/2024 13:57,2024-01-24 19:25,EMAIL,Mailbox Full,High,Closed,Priya Nair,HR,8,No,5
+TCK11290,2024-06-13 16:19,2024-06-13 23:29,Software ,Software Installation,High,Closed,Sneha Iyer,Procurement,8,No,
+TCK11111,2024-01-03 13:50,03/01/2024 15:40,Acess,Permission Issue,Medium,Closed,Rohan Mehta,Operations,24,No,
+TCK11524,03-15-2024 01:35,,network,DNS Issue,High,In Progress,,HR,8,,
+TCK10943,28/02/2024 21:01,29/02/2024 14:16,Access,Account Locked,Medium,Closed,Aarav Sharma,Procurement,24,No,2
+TCK11032,2024-03-09 23:09,2024-03-10 10:24,SW,Software Installation,Low,Resolved,Rohan Mehta,IT,48,No,2
+TCK11454,2024-02-14 20:16,02-15-2024 10:56,ACC,Account Locked,Medium,Reopened,Arjun Reddy,HR,24,No,
+TCK11398,28/04/2024 05:35,2024-05-01 16:01,NW,WiFi Issue,Low,Reopened,Arjun Reddy,Operations,48,Yes,
+TCK10780,2024-05-20 06:05,2024-05-21 18:08,Network,Slow Internet,Low,Resolved,Kiran Rao,Finance,48,No,1
+TCK10581,02-25-2024 22:13,2024-02-26 17:26,Netwrok,Slow Internet,Low,Closed,Ananya Das,Marketing,48,No,5
+TCK10379,2024-01-31 02:18,2024-01-31 06:08,Hard ware,Keyboard/Mouse,Medium,Resolved,Vikram Singh,Sales,24,No,1
+TCK10486,03/02/2024 05:51,,Software,Update Failure,Medium,In Progress,Priya Nair,Operations,24,,
+TCK10570,2024-03-31 00:10,31-Mar-2024 15:44,Access,Password Reset,Medium,Closed,Ananya Das,Finance,24,No,3
+TCK10305,27/02/2024 02:56,27/02/2024 04:43,SW,Update Failure,Critical,Closed,Divya Menon,Operations,4,No,
+TCK10002,2024-05-16 04:24,05-16-2024 08:51,Hard ware,Monitor Not Working,High,Closed,Aarav Sharma,HR,8,No,
+TCK10463,18/02/2024 21:55,18-Feb-2024 23:02,ACC,Account Locked,High,Resolved,Vikram Singh,IT,8,No,5
+TCK11508,2024-04-18 23:40,19/04/2024 11:39,Hardware,Monitor Not Working,Medium,Closed,Kiran Rao,Operations,24,No,5
+TCK11196,2024-04-03 04:19,2024-04-03 20:38,Access,New Access Request,Medium,Resolved,Vikram Singh,Operations,24,No,4
+TCK10389,03-04-2024 00:59,,ACC,New Access Request,Medium,In Progress,Sneha Iyer,Legal,24,,
+TCK10558,2024-02-15 14:26,16/02/2024 16:49,Email,Email Not Syncing,Low,Closed,Arjun Reddy,Sales,48,No,1
+TCK10265,2024-02-03 10:30,03/02/2024 23:51,Access ,MFA Issue,Medium,Resolved,Aarav Sharma,Marketing,24,No,
+TCK10467,12/02/2024 09:45,2024-02-12 13:12,hardware,Docking Station,High,Closed,Aarav Sharma,Finance,8,No,5
+TCK11581,31-May-2024 02:17,2024-05-31 17:29,Network,Slow Internet,Low,Resolved,Meera Pillai,,48,No,3
+TCK11533,01-Apr-2024 02:26,2024-04-01 08:47,EMAIL,Spam/Phishing Report,High,Closed,Priya Nair,Sales,8,No,
+TCK10841,2024-04-06 23:31,07-Apr-2024 16:03,software,Application Crash,Medium,Reopened,Arjun Reddy,IT,24,No,
+TCK10673,26/03/2024 16:57,2024-03-27 11:58,Netwrok,Slow Internet,Low,Resolved,,Procurement,48,No,1
+TCK11251,07/06/2024 04:52,2024-06-08 08:18,ACC,New Access Request,Medium,Closed,Aarav Sharma,IT,24,Yes,5
+TCK11055,07/06/2024 00:08,07/06/2024 18:43,Hardware ,Laptop Issue,Medium,Resolved,Aarav Sharma,Finance,24,No,1
+TCK11229,08/03/2024 18:15,2024-03-10 22:01,E-mail,Email Not Syncing,Medium,Reopened,Divya Menon,Sales,24,Yes,
+TCK11531,13/03/2024 11:42,03-18-2024 10:22,software,License Issue,Low,Resolved,Rohan Mehta,Procurement,48,Yes,
+TCK10678,26/04/2024 22:13,2024-04-27 05:36,EMAIL,Spam/Phishing Report,Low,Closed,Aarav Sharma,Legal,48,No,4
+TCK10575,2024-06-06 21:28,08/06/2024 02:44,Access ,Permission Issue,Low,Reopened,Sneha Iyer,Operations,48,No,
+TCK11007,28/02/2024 06:04,2024-02-28 10:17,ACC,Account Locked,High,Resolved,Meera Pillai,Finance,8,No,1
+TCK11322,2024-01-18 12:31,2024-01-23 06:24,Email,Mailbox Full,Low,Closed,Meera Pillai,IT,48,Yes,
+TCK11299,05/04/2024 21:46,2024-04-06 11:50,SW,,Medium,Reopened,Ananya Das,Legal,24,No,
+TCK10151,05/03/2024 03:16,2024-03-06 12:41,software,Application Crash,Low,Closed,Ananya Das,HR,48,No,4
+TCK11346,02-29-2024 20:35,01/03/2024 01:02,ACC,Permission Issue,High,Closed,Sneha Iyer,Operations,8,No,4
+TCK10085,01-29-2024 15:39,,email,Spam/Phishing Report,Low,In Progress,Ananya Das,Operations,48,,
+TCK10612,2024-03-31 05:26,2024-04-01 09:49,EMAIL,Email Not Syncing,Low,Reopened,Aarav Sharma,Procurement,48,No,
+TCK10543,17-Jan-2024 07:08,17-Jan-2024 08:03,Access,Password Reset,High,Resolved,Meera Pillai,Finance,8,No,4
+TCK11009,10/05/2024 12:51,2024-05-11 02:47,email,Spam/Phishing Report,Medium,Resolved,Ananya Das,Procurement,24,No,2
+TCK10965,2024-03-11 14:18,2024-03-11 15:28,Hard ware,Monitor Not Working,High,Closed,Aarav Sharma,Finance,8,No,
+TCK10488,2024-04-22 12:30,04-28-2024 07:36,access,Account Locked,Low,Resolved,Meera Pillai,Legal,48,Yes,1
+TCK10449,2024-03-15 16:20,,Softwear,Software Installation,Low,In Progress,Sneha Iyer,,48,,
+TCK11148,2024-04-29 16:09,30/04/2024 17:02,software,Update Failure,Low,Resolved,,Procurement,48,No,1
+TCK10647,2024-01-17 16:12,19/01/2024 01:35,EMAIL,Outlook Crash,Low,Resolved,Priya Nair,Procurement,48,No,
+TCK10852,2024-03-14 06:00,2024-03-14 15:30,EMAIL,Email Not Syncing,Medium,Closed,Kiran Rao,Marketing,24,No,3
+TCK10418,03-14-2024 12:46,2024-03-14 13:48,Access ,MFA Issue,Critical,Closed,Meera Pillai,HR,4,No,2
+TCK10800,2024-02-11 12:15,2024-02-12 10:42,HW,Laptop Issue,High,Closed,Sneha Iyer,IT,8,Yes,5
+TCK10531,2024-04-20 11:03,2024-04-20 16:08,Netwrok,Slow Internet,High,Closed,Kiran Rao,HR,8,No,5
+TCK11363,2024-06-29 03:52,2024-06-29 06:55,Emial,Distribution List Issue,Critical,Closed,Ananya Das,Legal,4,No,3
+TCK10396,2024-03-17 13:40,18/03/2024 10:29,hardware,Keyboard/Mouse,Low,Resolved,Ananya Das,Operations,48,No,1
+TCK10255,2024-01-21 08:03,22/01/2024 00:35,HW,Laptop Issue,Low,Resolved,Ananya Das,Finance,48,No,3
+TCK10466,2024-01-12 15:53,2024-01-15 12:55,Hardware ,Keyboard/Mouse,Low,Resolved,,IT,48,Yes,5
+TCK10390,2024-05-28 16:27,2024-05-29 08:19,Software ,Compatibility Issue,Low,Closed,,Sales,48,No,
+TCK10137,2024-03-12 22:50,2024-03-13 09:39,NW,Slow Internet,Low,Closed,Kiran Rao,HR,48,No,1
+TCK11189,13/03/2024 10:25,13-Mar-2024 16:05,HW,Printer Issue,High,Resolved,Priya Nair,HR,8,No,3
+TCK11323,04-Feb-2024 02:07,04/02/2024 06:48,Softwear,Application Crash,Medium,Resolved,Divya Menon,HR,24,No,
+TCK11472,19/02/2024 15:46,02-19-2024 16:41,Hardware,Printer Issue,Critical,Resolved,Sneha Iyer,Marketing,4,No,3
+TCK11353,2024-03-25 19:40,,ACC,Permission Issue,High,In Progress,Aarav Sharma,Finance,8,,
+TCK11162,2024-01-08 01:42,2024-01-08 17:54,Software ,Update Failure,Low,Resolved,Vikram Singh,Legal,48,No,4
+TCK10537,02-23-2024 01:58,2024-02-25 02:02,Hard ware,Laptop Issue,Medium,Resolved,Arjun Reddy,Operations,24,Yes,5
+TCK10520,20/01/2024 05:51,,email,Distribution List Issue,Medium,In Progress,Divya Menon,IT,24,,
+TCK11170,23/02/2024 13:08,23-Feb-2024 20:01,software,Application Crash,Medium,Resolved,Priya Nair,IT,24,No,4
+TCK10358,2024-03-11 05:11,2024-03-12 05:06,Softwear,Compatibility Issue,Low,Closed,Kiran Rao,Marketing,48,No,3
+TCK11198,28/03/2024 15:10,2024-03-30 03:20,HW,Monitor Not Working,Low,Resolved,Ananya Das,Procurement,48,No,
+TCK10484,2024-03-13 22:06,,hardware,Keyboard/Mouse,High,Open,Aarav Sharma,Procurement,8,,
+TCK10690,2024-01-23 11:06,2024-01-23 13:13,EMAIL,Spam/Phishing Report,High,Closed,Meera Pillai,Finance,8,No,1
+TCK11224,2024-03-06 06:33,2024-03-10 11:55,software,License Issue,Low,Resolved,Kiran Rao,Sales,48,Yes,
+TCK10316,2024-05-12 12:55,,Emial,Spam/Phishing Report,Critical,Open,Sneha Iyer,Finance,4,,
+TCK10318,02-10-2024 22:18,2024-02-13 16:09,Emial,Email Not Syncing,Medium,Closed,Aarav Sharma,Legal,24,Yes,
+TCK11484,2024-04-08 03:44,,network,Slow Internet,High,In Progress,Rohan Mehta,Procurement,8,,
+TCK10045,2024-01-05 23:40,,hardware,Printer Issue,Low,Open,Ananya Das,Legal,48,,
+TCK11448,2024-02-29 13:35,2024-03-01 04:05,software,Compatibility Issue,High,Closed,Aarav Sharma,Procurement,8,Yes,4
+TCK10226,13/06/2024 08:49,2024-06-13 15:31,HW,Keyboard/Mouse,High,Resolved,Vikram Singh,Sales,8,No,3
+TCK10625,2024-02-15 23:18,18/02/2024 05:57,Network,LAN Down,Medium,Reopened,Vikram Singh,Finance,24,Yes,
+TCK10262,03-23-2024 05:04,03-23-2024 14:11,software,Software Installation,Low,Resolved,Priya Nair,,48,No,3
+TCK10538,2024-02-18 18:58,2024-02-19 11:35,E-mail,Spam/Phishing Report,Medium,Closed,Aarav Sharma,HR,24,No,5
+TCK10932,2024-01-26 22:16,27/01/2024 10:52,Hardware ,Monitor Not Working,Low,Resolved,Meera Pillai,Legal,48,No,5
+TCK11179,2024-06-23 02:22,25/06/2024 17:37,hardware,Docking Station,Medium,Resolved,,Sales,24,Yes,4
+TCK10503,31-Jan-2024 07:15,2024-01-31 10:47,access,Permission Issue,Critical,Resolved,Divya Menon,Procurement,4,No,3
+TCK10927,2024-05-21 22:29,2024-05-23 12:24,Access ,MFA Issue,Medium,Resolved,Sneha Iyer,Legal,24,Yes,3
+TCK11266,2024-04-12 11:46,2024-04-15 23:49,SW,Compatibility Issue,Low,Reopened,Arjun Reddy,HR,48,Yes,
+TCK11641,29-Jan-2024 17:53,2024-01-29 19:46,ACC,New Access Request,Medium,Closed,Divya Menon,Procurement,24,No,
+TCK10687,2024-04-13 00:54,2024-04-14 12:12,Software,Compatibility Issue,Low,Resolved,Vikram Singh,Procurement,48,No,5
+TCK10912,2024-02-04 13:35,04/02/2024 23:55,Hard ware,Keyboard/Mouse,Medium,Resolved,Divya Menon,IT,24,No,5
+TCK10320,05-10-2024 17:47,2024-05-12 01:03,Acess,New Access Request,Low,Resolved,Divya Menon,Sales,48,No,
+TCK10571,2024-05-12 21:08,,ACC,Account Locked,Critical,Open,Arjun Reddy,Legal,4,,
+TCK11464,04-06-2024 16:58,2024-04-07 12:20,software,Software Installation,High,Resolved,Sneha Iyer,IT,8,Yes,1
+TCK11200,06-28-2024 13:28,,Emial,Spam/Phishing Report,Medium,In Progress,Sneha Iyer,Marketing,24,,
+TCK10764,26/05/2024 21:38,,Hardware,Monitor Not Working,Medium,Open,Priya Nair,IT,24,,
+TCK11577,20-Feb-2024 16:37,,Netwrok,LAN Down,Low,In Progress,Priya Nair,Procurement,48,,
+TCK11142,30/03/2024 20:17,04-01-2024 03:44,Emial,Mailbox Full,Low,Closed,Vikram Singh,IT,48,No,5
+TCK10355,2024-01-16 05:46,17/01/2024 08:29,network,VPN Connectivity,Low,Closed,Ananya Das,Sales,48,No,
+TCK10492,05/03/2024 15:27,05/03/2024 20:59,Hardware,Keyboard/Mouse,High,Closed,Vikram Singh,IT,8,No,
+TCK11054,03-20-2024 14:23,21/03/2024 06:05,Network,VPN Connectivity,Medium,Closed,Sneha Iyer,Sales,24,No,2
+TCK11011,2024-03-31 14:10,04-01-2024 20:58,Hardware ,Printer Issue,Low,Resolved,Kiran Rao,Operations,48,No,2
+TCK11504,05-05-2024 16:28,2024-05-06 13:07,EMAIL,Outlook Crash,Medium,Closed,Aarav Sharma,Legal,24,No,4
+TCK11445,2024-05-01 17:23,01/05/2024 22:33,Network,VPN Connectivity,Medium,Closed,Meera Pillai,HR,24,No,5
+TCK10744,2024-03-30 04:54,2024-03-31 15:55,Softwear,Application Crash,Medium,Resolved,Divya Menon,Operations,24,Yes,1
+TCK10672,02-17-2024 13:25,2024-02-17 15:57,ACC,Account Locked,High,Resolved,,IT,8,No,3
+TCK10710,2024-02-20 14:49,2024-02-22 11:28,EMAIL,Email Not Syncing,Medium,Resolved,Rohan Mehta,Legal,24,Yes,
+TCK10476,2024-05-23 06:59,2024-05-23 14:02,Softwear,License Issue,High,Closed,Priya Nair,IT,8,No,
+TCK10641,2024-03-23 12:45,,access,Permission Issue,Low,Open,Ananya Das,Marketing,48,,
+TCK11602,2024-04-05 11:24,,email,Distribution List Issue,Critical,In Progress,Aarav Sharma,Marketing,4,,
+TCK10092,2024-03-09 06:47,2024-03-09 10:33,Access,New Access Request,Medium,Resolved,Arjun Reddy,Marketing,24,No,
+TCK11104,10/05/2024 11:01,2024-05-10 12:06,Hardware ,Docking Station,Critical,Closed,Arjun Reddy,IT,4,No,2
+TCK10942,20/05/2024 20:36,2024-05-23 09:10,Software ,Application Crash,Medium,Resolved,Aarav Sharma,Operations,24,Yes,
+TCK10899,2024-03-19 07:01,2024-03-20 14:23,Access ,Account Locked,Low,Closed,Rohan Mehta,Procurement,48,No,3
+TCK10060,11-Jun-2024 07:50,,Hardware,Monitor Not Working,Critical,Open,Ananya Das,Sales,4,,
+TCK10519,2024-02-08 20:10,02-08-2024 22:35,Hard ware,Monitor Not Working,Medium,Resolved,Meera Pillai,Marketing,24,No,3
+TCK10419,29/05/2024 06:04,05-29-2024 14:17,Hardware ,Printer Issue,Low,Reopened,,Sales,48,No,
+TCK10142,27-Jan-2024 14:38,2024-01-31 18:47,Access ,Password Reset,Low,Closed,Meera Pillai,HR,48,Yes,3
+TCK10179,2024-06-07 07:10,08-Jun-2024 13:10,software,Compatibility Issue,Medium,Resolved,Kiran Rao,IT,24,Yes,
+TCK10200,2024-03-24 09:51,24/03/2024 14:42,Hard ware,Monitor Not Working,Medium,Resolved,Arjun Reddy,Finance,24,No,5
+TCK10680,2024-05-26 02:43,,Access ,New Access Request,High,Open,Divya Menon,Finance,8,,
+TCK10633,27/06/2024 15:17,27/06/2024 20:39,Hardware ,Laptop Issue,Medium,Resolved,Rohan Mehta,Marketing,24,No,
+TCK10483,22/06/2024 19:22,2024-06-23 20:37,Hardware ,Docking Station,Low,Resolved,Divya Menon,Marketing,48,No,2
+TCK10071,15/02/2024 14:06,18/02/2024 13:59,Access ,Password Reset,Medium,Closed,Kiran Rao,Finance,24,Yes,
+TCK11078,2024-05-15 22:04,05-16-2024 03:54,Software ,Compatibility Issue,Critical,Resolved,Divya Menon,IT,4,Yes,2
+TCK11635,2024-05-11 11:38,2024-05-16 19:52,E-mail,Distribution List Issue,Low,Resolved,Ananya Das,Finance,48,Yes,4
+TCK11102,2024-01-02 09:19,2024-01-03 04:26,hardware,Monitor Not Working,medium,Resolved,Arjun Reddy,Legal,24,No,2
+TCK10922,2024-06-11 04:39,2024-06-12 15:08,Software ,License Issue,Medium,Resolved,Divya Menon,Operations,24,Yes,1
+TCK10677,22/05/2024 20:26,2024-05-22 23:48,Network,Slow Internet,Critical,Resolved,Divya Menon,Sales,4,No,
+TCK11485,03-07-2024 07:12,,Software,Compatibility Issue,Medium,Open,Arjun Reddy,IT,24,,
+TCK10799,2024-01-23 06:18,2024-01-23 23:29,Emial,Mailbox Full,Medium,Resolved,Aarav Sharma,Marketing,24,No,3
+TCK10743,12/02/2024 20:15,02-13-2024 00:58,Emial,Spam/Phishing Report,High,Resolved,Sneha Iyer,Procurement,8,No,2
+TCK11262,24/03/2024 05:44,24/03/2024 10:29,network,Slow Internet,critical,Resolved,Priya Nair,HR,4,Yes,4
+TCK10853,02/01/2024 22:50,04/01/2024 13:15,hardware,Monitor Not Working,Low,Resolved,Ananya Das,Sales,48,No,
+TCK10624,2024-01-19 18:46,19/01/2024 19:46,NW,VPN Connectivity,Medium,Resolved,Meera Pillai,Operations,24,No,2
+TCK10306,2024-05-18 17:16,19-May-2024 22:29,email,Spam/Phishing Report,Low,Resolved,Vikram Singh,HR,48,No,5
+TCK10781,2024-02-11 23:16,2024-02-14 21:59,Access ,Account Locked,Medium,Resolved,Aarav Sharma,Marketing,24,Yes,1
+TCK11497,06-21-2024 12:22,24/06/2024 12:25,Access,Permission Issue,Low,Closed,Meera Pillai,IT,48,Yes,
+TCK10454,2024-01-11 05:56,,Hard ware,Docking Station,Low,Open,Ananya Das,Sales,48,,
+TCK10445,19/03/2024 19:08,21/03/2024 06:23,Email,Outlook Crash,Low,Resolved,Sneha Iyer,Procurement,48,No,
+TCK11422,2024-02-27 00:30,2024-02-29 09:26,Software,Compatibility Issue,Low,Resolved,Kiran Rao,Sales,48,Yes,
+TCK11574,2024-02-20 20:35,,Software ,Compatibility Issue,High,In Progress,Divya Menon,Finance,8,,
+TCK10345,08-Apr-2024 17:03,09/04/2024 17:03,Softwear,Software Installation,low,Resolved,Divya Menon,HR,48,No,4
+TCK10115,06-11-2024 22:50,2024-06-11 23:47,Software,License Issue,Critical,Closed,Meera Pillai,Procurement,4,No,
+TCK10439,26/01/2024 06:11,2024-01-27 10:53,E-mail,Distribution List Issue,Medium,Resolved,Aarav Sharma,Legal,24,Yes,2
+TCK11223,2024-05-10 01:39,,Network ,WiFi Issue,Medium,In Progress,Vikram Singh,Marketing,24,,
+TCK10338,2024-06-03 07:10,2024-06-05 13:59,software,Update Failure,Medium,Closed,Priya Nair,Marketing,24,Yes,4
+TCK11079,25/02/2024 10:04,2024-02-25 17:50,Network ,Slow Internet,Medium,Resolved,Aarav Sharma,Operations,24,No,3
+TCK10896,2024-03-23 13:21,2024-03-23 15:41,Software ,License Issue,High,Closed,Rohan Mehta,Procurement,8,No,4
+TCK10525,2024-05-14 23:06,15-May-2024 19:07,Hardware,Monitor Not Working,Medium,Closed,Aarav Sharma,IT,24,No,3
+TCK11444,2024-01-03 08:52,2024-01-03 19:28,email,Mailbox Full,High,Resolved,Priya Nair,Sales,8,Yes,2
+TCK11426,2024-04-15 07:02,,Access,Permission Issue,Critical,Open,Arjun Reddy,Marketing,4,,
+TCK11341,2024-05-14 20:53,2024-05-20 00:29,Emial,Mailbox Full,Low,Closed,Kiran Rao,HR,48,Yes,3
+TCK11423,2024-01-04 12:10,2024-01-04 16:54,Netwrok,VPN Connectivity,High,Reopened,Divya Menon,Marketing,8,No,
+TCK11599,23/06/2024 05:13,2024-06-23 07:17,EMAIL,Distribution List Issue,Medium,Closed,Ananya Das,IT,24,No,
+TCK11648,2024-01-04 12:41,2024-01-06 01:23,Software ,License Issue,Low,Resolved,Sneha Iyer,Marketing,48,No,
+TCK10839,01-Jun-2024 18:16,02-Jun-2024 13:04,E-mail,Outlook Crash,High,Resolved,Aarav Sharma,Procurement,8,Yes,4
+TCK11256,2024-03-04 13:59,03-04-2024 20:55,Emial,Outlook Crash,High,Reopened,Divya Menon,Sales,8,No,
+TCK10294,24/04/2024 17:05,25/04/2024 02:50,hardware,Laptop Issue,Medium,Closed,Divya Menon,Sales,24,No,
+TCK10653,2024-06-07 19:40,08-Jun-2024 21:57,software,Software Installation,Low,Closed,Ananya Das,Procurement,48,No,3
+TCK10523,2024-01-16 23:18,17/01/2024 01:42,NW,DNS Issue,High,Resolved,Rohan Mehta,Procurement,8,No,2
+TCK11095,2024-02-23 02:50,2024-02-24 05:14,EMAIL,Mailbox Full,Low,Closed,Ananya Das,Marketing,48,No,1
+TCK10481,29/01/2024 23:24,2024-02-02 23:28,Network,WiFi Issue,Low,Closed,Vikram Singh,Sales,48,Yes,1
+TCK10366,2024-01-05 11:39,05/01/2024 22:54,Acess,Account Locked,Low,Resolved,Divya Menon,IT,48,No,2
+TCK10270,04-04-2024 21:54,2024-04-06 11:34,Access,Password Reset,Low,Closed,Sneha Iyer,HR,48,No,
+TCK11522,2024-03-20 02:36,03-20-2024 08:53,SW,Software Installation,Low,Resolved,Priya Nair,Procurement,48,No,3
+TCK11123,2024-04-01 23:07,,NW,VPN Connectivity,Low,Open,Sneha Iyer,Finance,48,,
+TCK10145,2024-04-23 07:24,23/04/2024 12:44,Emial,Spam/Phishing Report,High,Closed,Sneha Iyer,IT,8,No,1
+TCK11555,2024-05-13 15:11,2024-05-13 18:21,Acess,Permission Issue,Low,Closed,Priya Nair,HR,48,No,5
+TCK11138,31-Mar-2024 04:45,04-01-2024 22:43,HW,Printer Issue,Medium,Closed,Vikram Singh,Operations,24,Yes,
+TCK11220,04-17-2024 03:19,18/04/2024 10:43,hardware,Keyboard/Mouse,Medium,Closed,Ananya Das,Finance,24,Yes,3
+TCK10224,03/01/2024 16:16,03/01/2024 18:03,Access,Password Reset,Medium,Resolved,Kiran Rao,Legal,24,No,4
+TCK10500,13/03/2024 05:11,2024-03-15 14:18,network,LAN Down,Low,Reopened,Kiran Rao,HR,48,Yes,
+TCK11650,05/05/2024 01:04,2024-05-09 22:18,Hard ware,Monitor Not Working,Low,Closed,Aarav Sharma,HR,48,Yes,2
+TCK11047,2024-05-01 15:52,2024-05-02 08:33,Softwear,License Issue,Medium,Closed,Vikram Singh,Finance,24,No,
+TCK11091,2024-02-07 12:17,,Network,,Medium,In Progress,Rohan Mehta,HR,24,,
+TCK11640,2024-02-24 02:22,24-Feb-2024 03:43,software,License Issue,Critical,Closed,Aarav Sharma,HR,4,No,1
+TCK10688,2024-06-05 19:29,2024-06-05 21:33,Network,LAN Down,High,Closed,Divya Menon,Finance,8,No,3
+TCK10930,2024-01-01 03:55,2024-01-01 11:46,Netwrok,Slow Internet,Low,Closed,Priya Nair,IT,48,No,4
+TCK11562,02/05/2024 04:02,03/05/2024 14:04,Access,Password Reset,Medium,Closed,Meera Pillai,Finance,24,Yes,
+TCK10908,2024-04-24 23:42,25/04/2024 19:43,ACC,MFA Issue,High,Closed,Meera Pillai,IT,8,Yes,2
+TCK11098,2024-05-18 14:47,2024-05-21 13:32,software,Application Crash,Medium,Resolved,Sneha Iyer,Finance,24,Yes,4
+TCK10663,21/01/2024 21:50,,software,Application Crash,Medium,In Progress,Sneha Iyer,IT,24,,
+TCK10288,2024-01-27 15:13,29/01/2024 16:57,E-mail,Distribution List Issue,Medium,Resolved,Rohan Mehta,Finance,24,Yes,4
+TCK11614,02/01/2024 14:33,2024-01-02 15:41,hardware,Keyboard/Mouse,Critical,Resolved,Arjun Reddy,Finance,4,No,3
+TCK10614,2024-06-04 17:51,2024-06-05 01:35,Netwrok,WiFi Issue,Medium,Resolved,Divya Menon,Procurement,24,No,3
+TCK11366,2024-05-05 19:40,2024-05-09 23:04,Network ,Slow Internet,Low,Closed,Arjun Reddy,Operations,48,Yes,
+TCK10498,2024-05-23 05:58,05-23-2024 07:48,Softwear,License Issue,Medium,Closed,Rohan Mehta,Marketing,24,No,4
+TCK11583,2024-03-04 05:46,2024-03-04 15:30,Network ,LAN Down,medium,Resolved,Arjun Reddy,IT,24,No,5
+TCK10148,2024-02-27 18:59,,Network ,LAN Down,Low,In Progress,Divya Menon,Procurement,48,,
+TCK11164,2024-02-19 02:41,02-19-2024 06:18,Software,Software Installation,High,Closed,Kiran Rao,Legal,8,No,1
+TCK10935,22/03/2024 21:26,2024-03-22 23:32,Access,New Access Request,Critical,Resolved,Arjun Reddy,Marketing,4,No,
+TCK11356,05-09-2024 15:45,2024-05-11 01:44,Network ,VPN Connectivity,Low,Reopened,Vikram Singh,Sales,48,No,
+TCK11403,19-Feb-2024 14:30,,EMAIL,Distribution List Issue,Medium,Open,Divya Menon,Legal,24,,
+TCK10725,2024-05-25 01:41,2024-05-26 15:22,Acess,Account Locked,Low,Resolved,Priya Nair,Sales,48,No,2
+TCK11106,2024-05-19 19:10,20/05/2024 16:26,SW,Software Installation,Medium,Resolved,Priya Nair,Procurement,24,No,4
+TCK10089,02/05/2024 22:21,2024-05-03 15:06,Software,Software Installation,Low,Closed,Rohan Mehta,Legal,48,No,1
+TCK10664,2024-01-21 13:27,2024-01-22 07:07,Acess,Password Reset,Low,Resolved,Sneha Iyer,Procurement,48,No,2
+TCK10475,19/01/2024 21:24,01-20-2024 01:52,Software,License Issue,High,Closed,Aarav Sharma,Procurement,8,No,5
+TCK10945,2024-01-04 12:13,05/01/2024 14:49,E-mail,Email Not Syncing,Low,Closed,Vikram Singh,Procurement,48,No,5
+TCK11190,2024-04-12 16:05,2024-04-13 05:30,E-mail,Distribution List Issue,Medium,Reopened,Meera Pillai,Sales,24,No,
+TCK11296,2024-04-27 14:17,28/04/2024 12:39,E-mail,Spam/Phishing Report,Low,Resolved,Vikram Singh,Operations,48,No,3
+TCK10182,2024-02-04 19:51,,Network ,DNS Issue,Medium,Open,Rohan Mehta,IT,24,,
+TCK11517,2024-05-14 05:33,2024-05-19 07:49,Hard ware,Keyboard/Mouse,Low,Resolved,Rohan Mehta,Marketing,48,Yes,2
+TCK10380,2024-03-02 12:06,03-05-2024 01:01,Email,Spam/Phishing Report,Medium,Reopened,Kiran Rao,IT,24,Yes,
+TCK10824,2024-02-28 23:05,2024-02-29 05:48,Network ,DNS Issue,medium,Closed,Priya Nair,Finance,24,No,1
+TCK10969,29/04/2024 07:22,,access,MFA Issue,High,In Progress,,Operations,8,,
+TCK10087,02/04/2024 11:28,2024-04-02 15:56,Access ,Password Reset,High,Resolved,Rohan Mehta,Sales,8,No,
+TCK11037,2024-04-06 15:13,2024-04-06 19:49,Emial,Spam/Phishing Report,High,Resolved,Kiran Rao,Legal,8,No,
+TCK10077,2024-03-26 14:23,03-26-2024 20:29,Software,Application Crash,Low,Resolved,Sneha Iyer,Legal,48,No,2
+TCK10735,04-02-2024 01:55,2024-04-03 09:12,Emial,Mailbox Full,Low,Reopened,Priya Nair,Operations,48,No,
+TCK11335,23/01/2024 08:43,2024-01-23 12:24,EMAIL,Email Not Syncing,Medium,Resolved,Priya Nair,Finance,24,No,
+TCK11624,2024-02-19 15:55,,EMAIL,Spam/Phishing Report,High,Open,Ananya Das,IT,8,,
+TCK11183,05-14-2024 22:30,2024-05-15 19:05,Hardware ,Printer Issue,Medium,Closed,Vikram Singh,Legal,24,No,4
+TCK10489,2024-04-03 01:33,,Email,Outlook Crash,Medium,In Progress,Divya Menon,Finance,24,,
+TCK10849,05-Jun-2024 10:39,07/06/2024 21:07,Network,WiFi Issue,Medium,Reopened,Aarav Sharma,Finance,24,Yes,
+TCK11019,05-20-2024 04:29,21/05/2024 07:32,SW,License Issue,Low,Resolved,Divya Menon,IT,48,No,3
+TCK10817,2024-01-05 01:03,05/01/2024 03:11,Software,Update Failure,Medium,Resolved,Arjun Reddy,Marketing,24,No,4
+TCK10717,2024-03-19 22:29,,SW,,Critical,In Progress,Arjun Reddy,Finance,4,,
+TCK11421,17/05/2024 07:28,,Email,Outlook Crash,Low,Open,Meera Pillai,Operations,48,,
+TCK10054,04-21-2024 11:19,21-Apr-2024 14:06,Softwear,Application Crash,High,Resolved,Rohan Mehta,Procurement,8,No,1
+TCK10749,01-05-2024 15:51,2024-01-05 18:43,access,Password Reset,High,Resolved,Meera Pillai,Legal,8,No,
+TCK10269,2024-01-10 19:37,,Software,Software Installation,Low,Open,Divya Menon,Operations,48,,
+TCK11438,2024-01-17 04:22,2024-01-18 02:32,Email,Spam/Phishing Report,Low,Reopened,Vikram Singh,Sales,48,No,
+TCK10724,2024-01-02 08:12,2024-01-02 10:13,Softwear,Application Crash,High,Resolved,Rohan Mehta,Legal,8,No,2
+TCK10420,02/01/2024 02:47,02/01/2024 07:52,Acess,Permission Issue,medium,Closed,Kiran Rao,Procurement,24,No,1
+TCK10776,2024-06-17 13:16,2024-06-21 08:38,Acess,Account Locked,Low,Resolved,Priya Nair,HR,48,Yes,1
+TCK11358,2024-03-15 04:16,15-Mar-2024 15:00,E-mail,Email Not Syncing,Medium,Reopened,Kiran Rao,Operations,24,No,
+TCK10785,05-30-2024 20:31,2024-05-31 05:22,HW,Keyboard/Mouse,Low,Closed,Priya Nair,,48,No,4
+TCK10640,2024-05-18 23:10,19/05/2024 11:55,NW,,Medium,Reopened,Arjun Reddy,Sales,24,No,
+TCK10809,03-Jan-2024 13:10,2024-01-04 06:07,Hardware,Keyboard/Mouse,Low,Closed,Sneha Iyer,Marketing,48,No,
+TCK10428,19/02/2024 09:40,,Software,Software Installation,Medium,In Progress,Rohan Mehta,Marketing,24,,
+TCK11525,2024-02-21 03:58,2024-02-21 13:21,Acess,New Access Request,Low,Resolved,Priya Nair,Marketing,48,No,1
+TCK10012,27-Apr-2024 18:55,28/04/2024 06:48,email,Mailbox Full,Medium,Resolved,Priya Nair,Operations,24,No,4
+TCK10180,14/03/2024 05:44,2024-03-14 06:26,Hardware,Laptop Issue,Medium,Closed,Kiran Rao,Legal,24,No,
+TCK11160,01/02/2024 11:22,2024-02-01 21:11,access,Password Reset,High,Closed,Aarav Sharma,Procurement,8,Yes,5
+TCK11460,2024-06-20 06:44,2024-06-20 11:19,Software ,License Issue,Low,Resolved,Priya Nair,Procurement,48,No,2
+TCK11355,08/01/2024 06:04,2024-01-08 10:29,Acess,Password Reset,High,Resolved,Meera Pillai,Finance,8,No,
+TCK10814,2024-05-05 12:11,05-05-2024 15:06,EMAIL,Email Not Syncing,Medium,Resolved,Ananya Das,IT,24,No,1
+TCK10812,2024-05-08 12:36,2024-05-08 18:09,access,New Access Request,Low,Closed,Sneha Iyer,IT,48,No,2
+TCK11553,2024-01-22 21:32,01-23-2024 01:27,Network ,WiFi Issue,High,Resolved,Divya Menon,Finance,8,No,1
+TCK10537,02-23-2024 01:58,2024-02-25 02:02,Hard ware,Laptop Issue,Medium,Resolved,Arjun Reddy,Operations,24,Yes,5
+TCK10014,2024-05-09 21:39,05-11-2024 05:02,Network,DNS Issue,Low,Closed,Ananya Das,IT,48,No,
+TCK11458,2024-04-20 11:36,20/04/2024 15:16,Email,Distribution List Issue,High,Closed,Aarav Sharma,Sales,8,No,
+TCK10667,2024-05-24 01:06,2024-05-24 22:27,EMAIL,Outlook Crash,Medium,Resolved,Vikram Singh,Finance,24,No,3
+TCK10194,10/03/2024 19:31,03-11-2024 13:21,Access ,Password Reset,High,Closed,Aarav Sharma,IT,8,Yes,
+TCK11452,17-Feb-2024 04:20,2024-02-18 12:04,Emial,Outlook Crash,Medium,Resolved,Kiran Rao,HR,24,Yes,5
+TCK11277,03-01-2024 08:09,,software,Compatibility Issue,High,In Progress,Rohan Mehta,Sales,8,,
+TCK10590,2024-05-29 13:10,2024-06-01 10:35,E-mail,Email Not Syncing,Medium,Resolved,Rohan Mehta,HR,24,Yes,4
+TCK11244,2024-01-10 12:20,2024-01-13 02:32,email,Mailbox Full,Medium,Resolved,Aarav Sharma,Sales,24,Yes,
+TCK10308,11/01/2024 23:47,2024-01-14 19:16,Hardware ,Monitor Not Working,Low,Resolved,Rohan Mehta,Sales,48,Yes,
+TCK10593,2024-05-06 14:42,06/05/2024 20:39,Software ,Compatibility Issue,High,Resolved,Divya Menon,Operations,8,No,1
+TCK11415,2024-03-16 10:08,2024-03-18 12:36,Emial,Distribution List Issue,Medium,Closed,Ananya Das,Finance,24,Yes,4
+TCK11134,2024-01-25 15:39,,Emial,Email Not Syncing,Low,Open,Priya Nair,Finance,48,,
+TCK11112,03-27-2024 23:46,,HW,Monitor Not Working,Low,In Progress,,Sales,48,,
+TCK10547,2024-06-24 18:40,27-Jun-2024 03:16,NW,VPN Connectivity,Medium,Closed,Divya Menon,IT,24,Yes,3
+TCK11450,2024-04-23 00:50,24/04/2024 17:46,Hardware ,Docking Station,Low,Resolved,Priya Nair,IT,48,No,3
+TCK11521,2024-04-17 07:04,2024-04-17 09:45,Software,License Issue,High,Resolved,Aarav Sharma,IT,8,No,5
+TCK10979,2024-03-26 02:26,2024-03-26 19:02,Network ,WiFi Issue,Medium,Resolved,Ananya Das,Operations,24,No,
+TCK11041,2024-01-18 07:38,2024-01-19 22:35,Hard ware,Laptop Issue,Low,Resolved,Vikram Singh,Sales,48,No,5
+TCK10609,2024-06-22 09:43,2024-06-23 21:34,Access,New Access Request,Low,Resolved,Priya Nair,IT,48,No,4
+TCK10708,2024-04-05 05:37,2024-04-07 00:13,Network ,Slow Internet,Low,Closed,Ananya Das,IT,48,No,
+TCK10995,2024-01-10 00:42,2024-01-10 20:29,Access,Account Locked,High,Closed,Aarav Sharma,Marketing,8,Yes,2
+TCK11332,2024-02-28 15:54,2024-02-28 19:54,hardware,Laptop Issue,Low,Resolved,Arjun Reddy,Marketing,48,No,1
+TCK11538,2024-04-18 06:24,2024-04-18 22:18,Acess,New Access Request,Low,Closed,Priya Nair,Legal,48,No,2
+TCK11400,09-Apr-2024 20:17,,Acess,Permission Issue,Medium,Open,Arjun Reddy,Marketing,24,,
+TCK11028,2024-01-29 17:10,2024-01-30 00:04,HW,Keyboard/Mouse,High,Resolved,Rohan Mehta,Sales,8,No,
+TCK10729,16-May-2024 02:41,16/05/2024 14:30,SW,Application Crash,High,Resolved,Arjun Reddy,HR,8,Yes,2
+TCK10222,2024-02-06 15:09,02-06-2024 16:48,network,DNS Issue,Medium,Closed,,Procurement,24,No,4
+TCK11613,2024-06-07 20:47,2024-06-08 14:45,network,LAN Down,Medium,Closed,Sneha Iyer,Finance,24,No,1
+TCK10372,22/03/2024 23:46,24/03/2024 10:26,Acess,Account Locked,Low,Closed,Divya Menon,Operations,48,No,3
+TCK10173,03-10-2024 18:16,2024-03-11 13:23,Netwrok,Slow Internet,Medium,Resolved,Arjun Reddy,Procurement,24,No,
+TCK11275,03-20-2024 00:24,2024-03-21 12:41,EMAIL,Distribution List Issue,Medium,Closed,Arjun Reddy,Finance,24,Yes,
+TCK11013,2024-06-11 09:25,11/06/2024 10:11,Network ,LAN Down,Medium,Resolved,Kiran Rao,Procurement,24,No,2
+TCK10737,2024-01-12 19:19,,SW,Application Crash,Critical,In Progress,Divya Menon,Legal,4,,
+TCK10987,2024-02-01 16:58,2024-02-03 09:27,network,WiFi Issue,Low,Resolved,Sneha Iyer,HR,48,No,4
+TCK10273,2024-04-28 03:05,,Software ,Application Crash,Low,In Progress,Rohan Mehta,Operations,48,,
+TCK10726,2024-05-09 04:15,2024-05-09 06:16,hardware,Monitor Not Working,Critical,Reopened,Vikram Singh,HR,4,No,
+TCK11115,2024-05-25 22:59,,NW,WiFi Issue,High,Open,Vikram Singh,Legal,8,,
+TCK10177,2024-01-30 07:50,31/01/2024 00:17,access,Account Locked,low,Resolved,Vikram Singh,Procurement,48,No,
+TCK10827,2024-04-19 11:59,2024-04-24 18:09,NW,DNS Issue,Low,Resolved,Divya Menon,Operations,48,Yes,2
+TCK11158,17/02/2024 16:47,,software,Compatibility Issue,Critical,In Progress,Sneha Iyer,HR,4,,
+TCK10490,2024-01-26 18:28,2024-01-26 22:04,Email,Outlook Crash,Critical,Resolved,Vikram Singh,HR,4,No,
+TCK10448,2024-06-17 02:21,17/06/2024 06:48,E-mail,Email Not Syncing,High,Resolved,Divya Menon,Legal,8,No,4
+TCK10329,2024-04-14 19:04,2024-04-15 09:26,E-mail,Distribution List Issue,High,Closed,Divya Menon,Operations,8,Yes,2
+TCK11647,11/04/2024 15:10,,Softwear,Application Crash,Critical,Open,Rohan Mehta,Marketing,4,,
+TCK10555,2024-06-06 22:46,,software,Software Installation,Critical,In Progress,Rohan Mehta,Procurement,4,,
+TCK10197,2024-03-07 14:48,2024-03-08 11:55,Hardware,Monitor Not Working,Low,Closed,Kiran Rao,Procurement,48,No,3
+TCK10544,2024-04-07 03:19,07-Apr-2024 21:19,software,Application Crash,Medium,Reopened,Meera Pillai,Operations,24,No,
+TCK11139,2024-04-27 12:27,2024-04-27 17:54,Access ,MFA Issue,Critical,Closed,Divya Menon,Marketing,4,Yes,5
+TCK10368,2024-02-03 03:05,2024-02-03 21:44,access,Account Locked,Medium,Resolved,Kiran Rao,Operations,24,No,5
+TCK10516,01/03/2024 12:02,01-Mar-2024 21:51,hardware,Laptop Issue,Medium,Closed,Ananya Das,Marketing,24,No,2
+TCK11365,2024-01-05 23:44,2024-01-06 20:29,Hard ware,Monitor Not Working,Low,Resolved,Aarav Sharma,HR,48,No,
+TCK10533,2024-03-10 09:26,2024-03-10 15:05,Netwrok,VPN Connectivity,Medium,Resolved,Rohan Mehta,Finance,24,No,
+TCK10632,2024-05-14 21:55,05-15-2024 13:01,HW,Monitor Not Working,Medium,Closed,Ananya Das,Marketing,24,No,5
+TCK11434,2024-03-24 08:31,24/03/2024 18:22,Network ,Slow Internet,Low,Resolved,Rohan Mehta,Operations,48,No,5
+TCK10998,19/05/2024 06:42,2024-05-19 17:06,software,Application Crash,High,Resolved,Priya Nair,Operations,8,Yes,3
+TCK11154,2024-06-14 18:16,2024-06-15 17:27,Netwrok,WiFi Issue,Low,Closed,Aarav Sharma,Legal,48,No,3
+TCK10651,2024-06-09 11:39,2024-06-09 20:07,Software,Compatibility Issue,Low,Closed,,Operations,48,No,2
+TCK11135,05-26-2024 07:09,05-27-2024 23:41,Hard ware,Monitor Not Working,Low,Resolved,Sneha Iyer,Legal,48,No,1
+TCK10349,2024-05-21 00:03,,Hardware,Laptop Issue,Medium,In Progress,Meera Pillai,Marketing,24,,
+TCK11117,06-10-2024 13:27,12-Jun-2024 18:01,Software ,License Issue,Medium,Closed,Arjun Reddy,Legal,24,Yes,1
+TCK11186,08/03/2024 00:12,2024-03-08 18:42,HW,Monitor Not Working,Medium,Resolved,Priya Nair,Procurement,24,No,4
+TCK11478,2024-06-24 22:00,2024-06-25 05:45,EMAIL,Email Not Syncing,Medium,Resolved,Ananya Das,Sales,24,No,5
+TCK10098,06-10-2024 19:42,11/06/2024 04:35,Access ,Account Locked,Medium,Closed,Kiran Rao,Procurement,24,No,1
+TCK10696,13/05/2024 17:06,2024-05-18 14:20,Hard ware,Printer Issue,Low,Resolved,Arjun Reddy,Procurement,48,Yes,3
+TCK10937,31/05/2024 15:44,2024-06-01 03:31,Hard ware,Keyboard/Mouse,Medium,Closed,Arjun Reddy,Legal,24,No,5
+TCK10018,2024-04-04 12:03,2024-04-05 08:59,Netwrok,DNS Issue,Medium,Resolved,Ananya Das,Marketing,24,No,1
+TCK10818,2024-01-04 09:02,2024-01-09 18:01,Softwear,Application Crash,Low,Closed,Priya Nair,HR,48,Yes,
+TCK11067,23-Apr-2024 13:47,2024-04-23 14:21,Hard ware,Printer Issue,Critical,Closed,Vikram Singh,Marketing,4,No,3
+TCK10175,2024-05-07 02:41,2024-05-07 19:18,Access ,Account Locked,Medium,Reopened,Divya Menon,Procurement,24,No,
+TCK10241,04-21-2024 10:29,2024-04-22 08:10,Hardware ,Laptop Issue,Low,Resolved,Kiran Rao,Marketing,48,No,2
+TCK11595,2024-03-14 00:36,2024-03-15 18:36,Emial,Distribution List Issue,Low,Closed,Vikram Singh,Sales,48,No,
+TCK11021,2024-05-18 04:36,2024-05-21 22:18,Email,Spam/Phishing Report,Low,Closed,Divya Menon,Marketing,48,Yes,4
+TCK11564,2024-04-06 14:25,04-08-2024 09:13,Software ,License Issue,Low,Resolved,Priya Nair,Legal,48,No,4
+TCK10392,2024-03-10 01:28,2024-03-11 15:57,email,Email Not Syncing,Low,Resolved,Rohan Mehta,Operations,48,No,1
+TCK10649,2024-01-07 06:06,,Network ,VPN Connectivity,Medium,Open,Priya Nair,Marketing,24,,
+TCK10442,2024-01-13 16:37,2024-01-14 02:51,NW,Slow Internet,Medium,Closed,Divya Menon,HR,24,No,5
+TCK10043,16-Jan-2024 21:42,17-Jan-2024 00:26,ACC,Permission Issue,Low,Closed,Rohan Mehta,Finance,48,No,
+TCK10505,2024-01-11 16:28,12/01/2024 15:27,Softwear,License Issue,Low,Closed,Divya Menon,IT,48,No,1
+TCK11405,2024-03-15 01:09,2024-03-15 02:33,Hard ware,Docking Station,High,Closed,Ananya Das,IT,8,No,5
+TCK10883,2024-01-23 14:45,2024-01-24 10:52,hardware,Printer Issue,High,Reopened,Aarav Sharma,HR,8,Yes,
+TCK10310,06-02-2024 00:51,2024-06-02 13:00,Network,Slow Internet,Medium,Reopened,Rohan Mehta,Procurement,24,No,
+TCK10804,2024-01-10 03:22,01-10-2024 13:28,Hard ware,Printer Issue,Medium,Resolved,,Finance,24,No,
+TCK11429,03/01/2024 20:32,01-05-2024 11:43,Hardware ,Docking Station,Low,Resolved,Vikram Singh,Operations,48,No,5
+TCK10605,2024-01-17 12:50,2024-01-18 01:30,Network ,VPN Connectivity,Medium,Resolved,Ananya Das,IT,24,No,
+TCK11344,2024-04-24 17:23,2024-04-24 20:33,Access,Permission Issue,Medium,Resolved,Vikram Singh,Finance,24,No,3
+TCK10993,03/02/2024 21:52,02-06-2024 10:06,EMAIL,Spam/Phishing Report,Medium,Reopened,Priya Nair,Finance,24,Yes,
+TCK11237,2024-02-16 21:26,2024-02-17 01:27,Emial,Distribution List Issue,High,Closed,Rohan Mehta,HR,8,No,
+TCK11114,2024-06-24 02:47,24/06/2024 06:21,Access ,Account Locked,Medium,Resolved,Sneha Iyer,HR,24,No,5
+TCK10261,16-Jan-2024 07:57,2024-01-17 11:56,Access ,Account Locked,Medium,Resolved,Ananya Das,HR,24,Yes,1
+TCK10242,2024-04-29 19:19,2024-04-30 04:30,access,Password Reset,Medium,Resolved,Aarav Sharma,Operations,24,No,4
+TCK10890,2024-01-11 14:36,01-12-2024 05:37,Acess,Permission Issue,Low,Resolved,Rohan Mehta,Legal,48,No,2
+TCK11166,2024-06-17 16:06,,Emial,Outlook Crash,Low,In Progress,Aarav Sharma,Marketing,48,,
+TCK10753,2024-05-21 02:42,2024-05-22 00:11,Access,Password Reset,Medium,Resolved,Sneha Iyer,Marketing,24,No,4
+TCK11048,2024-02-02 11:59,03-Feb-2024 02:51,Access,Account Locked,Medium,Reopened,Sneha Iyer,Operations,24,No,
+TCK10135,2024-05-29 17:13,2024-05-29 20:06,Hardware,Laptop Issue,Critical,Closed,Vikram Singh,Procurement,4,No,
+TCK10723,2024-03-09 17:15,2024-03-11 00:36,Hard ware,Keyboard/Mouse,Low,Resolved,Aarav Sharma,Legal,48,No,4
+TCK10845,2024-06-23 17:09,2024-06-23 19:04,Access ,New Access Request,Medium,Closed,Sneha Iyer,Finance,24,No,5
+TCK10793,2024-05-01 11:53,2024-05-01 20:18,Hardware ,Laptop Issue,Medium,Resolved,Meera Pillai,HR,24,No,2
+TCK11359,05-13-2024 18:25,2024-05-14 20:20,Netwrok,WiFi Issue,Low,Reopened,Meera Pillai,Procurement,48,No,
+TCK10478,01-16-2024 16:11,16/01/2024 17:17,access,Password Reset,High,Resolved,Meera Pillai,Legal,8,No,
+TCK10268,2024-05-31 13:28,,HW,Docking Station,Medium,Open,Meera Pillai,Sales,24,,
+TCK10144,2024-06-03 17:08,,Network,Slow Internet,Medium,Open,Meera Pillai,Sales,24,,
+TCK10654,17/02/2024 22:21,2024-02-20 16:51,Access,Permission Issue,Medium,Closed,Ananya Das,Finance,24,Yes,3
+TCK10473,2024-03-06 13:52,,Access,Password Reset,Low,In Progress,Aarav Sharma,Finance,48,,
+TCK11232,2024-02-03 06:39,02-03-2024 21:36,hardware,Keyboard/Mouse,Medium,Resolved,Aarav Sharma,HR,24,No,2
+TCK10497,2024-02-23 13:59,2024-02-23 20:54,SW,Application Crash,Low,Resolved,,Sales,48,No,3
+TCK10453,11/04/2024 15:01,,E-mail,Outlook Crash,Medium,Open,Aarav Sharma,Procurement,24,,
+TCK11466,02-13-2024 13:03,2024-02-13 14:02,Access ,Password Reset,Medium,Resolved,Ananya Das,Legal,24,No,
+TCK10051,14/05/2024 07:57,2024-05-15 00:13,Hardware,Printer Issue,Low,Resolved,Sneha Iyer,Marketing,48,No,3
+TCK11269,2024-05-11 05:57,05-11-2024 21:41,Emial,Distribution List Issue,High,Closed,Rohan Mehta,Marketing,8,Yes,5
+TCK10872,2024-03-09 08:22,2024-03-09 16:30,Softwear,Update Failure,Medium,Closed,Rohan Mehta,Legal,24,No,2
+TCK10108,17/01/2024 10:49,01-18-2024 04:01,Netwrok,WiFi Issue,Medium,Resolved,Vikram Singh,Finance,24,No,
+TCK11267,2024-05-09 12:33,05-09-2024 13:50,Network ,VPN Connectivity,Low,Resolved,Kiran Rao,Finance,48,No,
+TCK11292,2024-03-14 00:49,2024-03-14 06:57,Software,License Issue,High,Closed,Vikram Singh,Marketing,8,No,
+TCK10738,2024-04-08 21:24,2024-04-10 18:05,Email,Spam/Phishing Report,Medium,Resolved,Priya Nair,HR,24,Yes,5
+TCK10143,2024-04-08 12:15,,Access ,New Access Request,medium,In Progress,Ananya Das,,24,,
+TCK11476,2024-05-19 13:42,2024-05-24 17:29,EMAIL,Outlook Crash,Low,Resolved,Vikram Singh,Operations,48,Yes,4
+TCK10278,2024-01-25 20:15,01-26-2024 20:38,email,Mailbox Full,Low,Closed,Meera Pillai,Marketing,48,No,
+TCK10097,28/02/2024 12:42,2024-03-04 15:12,Access ,Password Reset,Low,Reopened,Priya Nair,Procurement,48,Yes,
+TCK11101,2024-05-10 03:39,2024-05-10 06:05,NW,Slow Internet,High,Resolved,Divya Menon,Legal,8,No,5
+TCK10889,06/01/2024 14:58,07/01/2024 10:15,Access ,Permission Issue,Medium,Resolved,Aarav Sharma,Marketing,24,No,3
+TCK10364,2024-06-13 20:09,,Netwrok,DNS Issue,Medium,Open,Aarav Sharma,Marketing,24,,
+TCK10951,2024-06-28 12:43,2024-07-01 09:42,Acess,Permission Issue,Low,Resolved,Ananya Das,Marketing,48,Yes,
+TCK10236,2024-02-15 08:42,2024-02-16 01:39,ACC,New Access Request,Medium,Resolved,Priya Nair,HR,24,No,4
+TCK10363,10-May-2024 17:18,2024-05-12 16:05,email,Mailbox Full,Medium,Closed,Vikram Singh,Procurement,24,Yes,
+TCK11384,2024-06-27 17:52,29/06/2024 07:19,E-mail,Spam/Phishing Report,Low,Resolved,Divya Menon,Legal,48,No,4
+TCK11511,2024-01-27 16:06,2024-01-27 23:23,Hardware,Docking Station,Medium,Closed,Sneha Iyer,Procurement,24,No,
+TCK10926,2024-03-06 09:00,2024-03-07 04:46,hardware,Keyboard/Mouse,Medium,Closed,Kiran Rao,HR,24,No,
+TCK11634,2024-01-05 09:20,2024-01-05 23:22,Acess,Account Locked,Medium,Resolved,Aarav Sharma,HR,24,No,4
+TCK10982,2024-04-21 14:50,2024-04-21 16:55,E-mail,Distribution List Issue,Medium,Resolved,Ananya Das,Finance,24,No,5
+TCK10790,17/05/2024 09:32,2024-05-21 18:29,Hard ware,Monitor Not Working,Low,Closed,Divya Menon,Procurement,48,Yes,
+TCK10141,2024-01-24 01:41,24-Jan-2024 10:04,E-mail,,Medium,Resolved,Ananya Das,Marketing,24,No,
+TCK11066,2024-01-19 20:22,,Software,Software Installation,High,In Progress,Priya Nair,Legal,8,,
+TCK10792,2024-04-25 17:04,2024-04-25 23:05,Email,Email Not Syncing,Medium,Resolved,Aarav Sharma,Marketing,24,No,
+TCK11045,2024-03-13 04:38,,network,Slow Internet,High,Open,Sneha Iyer,HR,8,,
+TCK11287,2024-06-07 17:38,2024-06-09 12:37,ACC,MFA Issue,Low,Resolved,Priya Nair,Operations,48,No,
+TCK10163,03-15-2024 06:29,2024-03-15 13:45,Softwear,License Issue,Critical,Resolved,,HR,4,Yes,
+TCK11193,2024-02-13 01:40,2024-02-13 19:07,Network,DNS Issue,Low,Reopened,,Operations,48,No,
+TCK10585,02-20-2024 01:32,25/02/2024 04:30,Software,Compatibility Issue,Low,Reopened,Ananya Das,HR,48,Yes,
+TCK10005,2024-05-10 03:14,12/05/2024 11:11,network,LAN Down,Medium,Resolved,Priya Nair,IT,24,Yes,2
+TCK11000,2024-05-03 05:35,2024-05-06 01:09,hardware,Monitor Not Working,Low,Resolved,Ananya Das,Procurement,48,Yes,
+TCK10739,2024-04-11 23:01,2024-04-12 12:19,EMAIL,Distribution List Issue,High,Resolved,Priya Nair,IT,8,Yes,1
+TCK10460,16/03/2024 17:51,2024-03-17 12:43,email,,Medium,Closed,Meera Pillai,Procurement,24,No,4
+TCK11642,2024-02-10 09:59,,HW,Printer Issue,Low,In Progress,Aarav Sharma,Sales,48,,
+TCK10436,2024-05-13 09:53,,Hardware,Printer Issue,Critical,In Progress,Meera Pillai,Marketing,4,,
+TCK10636,2024-02-29 05:44,2024-02-29 07:23,Access,New Access Request,Critical,Closed,Ananya Das,Legal,4,No,
+TCK10027,03-19-2024 21:51,2024-03-20 04:33,HW,Docking Station,High,Reopened,Priya Nair,HR,8,No,
+TCK10719,06/02/2024 22:19,,Email,Outlook Crash,Low,Open,Divya Menon,Legal,48,,
+TCK11411,30-May-2024 02:52,05-31-2024 11:28,Hardware,Laptop Issue,Low,Reopened,Aarav Sharma,Operations,48,No,
+TCK10886,2024-04-28 16:28,2024-04-29 01:48,Hardware ,Laptop Issue,Medium,Resolved,Sneha Iyer,IT,24,No,
+TCK11113,2024-05-18 22:47,,Access ,Permission Issue,High,In Progress,Aarav Sharma,Marketing,8,,
+TCK11627,02-Jun-2024 20:57,2024-06-06 15:31,Hardware,Docking Station,Low,Resolved,Ananya Das,IT,48,Yes,4
+TCK10409,2024-06-08 13:23,,ACC,Permission Issue,High,Open,Meera Pillai,Operations,8,,
+TCK10645,24-Feb-2024 17:29,,E-mail,Email Not Syncing,High,In Progress,Arjun Reddy,Legal,8,,
+TCK10521,2024-01-20 03:54,,Software ,Application Crash,Critical,Open,Meera Pillai,Procurement,4,,
+TCK10684,2024-02-21 16:01,,Acess,Password Reset,Low,In Progress,Aarav Sharma,Sales,48,,
+TCK10155,2024-03-06 11:03,,ACC,Account Locked,Low,In Progress,Ananya Das,IT,48,,
+TCK11644,14-Jun-2024 03:07,2024-06-14 05:55,Hardware,Docking Station,Critical,Resolved,Rohan Mehta,Procurement,4,No,2
+TCK10485,13/03/2024 12:33,14-Mar-2024 16:03,Software ,Update Failure,Low,Resolved,Priya Nair,HR,48,No,1
+TCK11260,2024-03-20 02:03,2024-03-22 21:14,Network,DNS Issue,Low,Resolved,Vikram Singh,HR,48,Yes,1
+TCK11325,15/02/2024 21:57,,network,DNS Issue,Medium,Open,Sneha Iyer,Marketing,24,,
+TCK10132,2024-04-10 11:04,13/04/2024 01:03,Network,Slow Internet,Medium,Resolved,Priya Nair,HR,24,Yes,4
+TCK10411,06/05/2024 03:12,2024-05-08 04:01,Software ,Compatibility Issue,medium,Resolved,Priya Nair,,24,Yes,4
+TCK10238,10/01/2024 12:07,2024-01-11 09:31,hardware,Printer Issue,Medium,Closed,Sneha Iyer,Procurement,24,No,5
+TCK11373,03-23-2024 12:14,2024-03-24 18:42,EMAIL,Distribution List Issue,Medium,Resolved,,Finance,24,Yes,5
+TCK10494,16/02/2024 08:06,16/02/2024 10:53,email,Spam/Phishing Report,Critical,Closed,Meera Pillai,IT,4,No,
+TCK11643,2024-04-25 07:02,2024-04-25 18:26,SW,Update Failure,Medium,Resolved,Divya Menon,Finance,24,No,1
+TCK10235,2024-04-08 03:27,2024-04-09 09:16,Netwrok,VPN Connectivity,Medium,Resolved,Kiran Rao,,24,Yes,2
+TCK10666,2024-05-27 21:51,,access,New Access Request,low,Open,Rohan Mehta,Procurement,48,,
+TCK11172,06-06-2024 14:44,,Access,Password Reset,Medium,Open,Vikram Singh,Marketing,24,,
+TCK11449,02-01-2024 04:49,2024-02-03 16:16,SW,License Issue,Low,Closed,Sneha Iyer,Operations,48,Yes,2
+TCK11404,2024-03-02 01:41,2024-03-03 13:56,Software ,Application Crash,Low,Closed,Arjun Reddy,HR,48,No,3
+TCK11283,2024-02-21 04:12,2024-02-21 23:16,Emial,Email Not Syncing,High,Resolved,,IT,8,Yes,2
+TCK10805,01-27-2024 22:32,2024-01-28 03:39,hardware,Laptop Issue,High,Resolved,Priya Nair,IT,8,No,
+TCK10914,2024-01-07 12:15,07-Jan-2024 21:09,Network ,VPN Connectivity,Medium,Closed,Divya Menon,Operations,24,No,
+TCK10101,2024-06-24 21:54,,Email,Distribution List Issue,Medium,In Progress,Sneha Iyer,HR,24,,
+TCK10638,2024-02-24 09:14,,network,VPN Connectivity,Medium,Open,Arjun Reddy,Procurement,24,,
+TCK10351,26/03/2024 23:27,28/03/2024 08:49,Network ,DNS Issue,Low,Reopened,,Procurement,48,No,
+TCK10459,2024-03-08 00:10,2024-03-08 06:09,software,Compatibility Issue,High,Resolved,Kiran Rao,Procurement,8,No,3
+TCK11219,2024-02-13 13:23,2024-02-14 01:39,EMAIL,Mailbox Full,Low,Resolved,Sneha Iyer,HR,48,No,4
+TCK11591,2024-01-08 06:27,01-09-2024 01:43,Emial,Spam/Phishing Report,Medium,Closed,Ananya Das,Marketing,24,No,
+TCK11302,2024-02-08 01:55,2024-02-10 08:12,EMAIL,Outlook Crash,Medium,Resolved,Rohan Mehta,HR,24,Yes,
+TCK10657,2024-04-17 08:20,2024-04-17 11:11,Softwear,Update Failure,Critical,Resolved,Divya Menon,Legal,4,No,4
+TCK11253,03-02-2024 04:21,,network,DNS Issue,Low,Open,Priya Nair,IT,48,,
+TCK10881,2024-06-11 21:02,2024-06-12 23:05,network,VPN Connectivity,Low,Closed,Meera Pillai,IT,48,No,1
+TCK11542,2024-05-16 07:30,,Softwear,Update Failure,Low,Open,Sneha Iyer,IT,48,,
+TCK10394,07/06/2024 16:09,10/06/2024 07:56,Hardware,Printer Issue,Low,Resolved,Divya Menon,Sales,48,Yes,
+TCK10016,28/01/2024 05:17,28-Jan-2024 11:04,software,Software Installation,Medium,Resolved,Kiran Rao,Finance,24,No,1
+TCK11105,2024-03-11 02:05,03-11-2024 04:08,network,DNS Issue,high,Closed,Arjun Reddy,IT,8,No,5
+TCK10955,2024-03-30 14:18,2024-03-30 18:51,EMAIL,Spam/Phishing Report,High,Closed,Meera Pillai,HR,8,No,2
+TCK10285,05/04/2024 04:23,04-05-2024 07:50,access,New Access Request,Critical,Resolved,Sneha Iyer,IT,4,No,2
+TCK10875,2024-01-26 16:55,2024-01-26 18:37,Access,Account Locked,Critical,Closed,Priya Nair,IT,4,No,
+TCK11257,2024-05-31 04:41,2024-06-01 16:57,Hardware,Docking Station,Low,Resolved,Aarav Sharma,Legal,48,No,3
+TCK11242,2024-02-26 02:43,2024-02-26 16:18,hardware,Monitor Not Working,High,Closed,Kiran Rao,Procurement,8,Yes,1
+TCK11206,23/05/2024 10:15,2024-05-24 07:27,E-mail,Email Not Syncing,Medium,Resolved,Divya Menon,HR,24,No,5
+TCK11222,29/05/2024 10:59,2024-05-29 11:30,Software,License Issue,High,Closed,Aarav Sharma,Operations,8,No,
+TCK11368,23/03/2024 05:45,2024-03-23 09:34,HW,Laptop Issue,High,Resolved,Rohan Mehta,Procurement,8,No,3
+TCK11560,22/01/2024 02:23,2024-01-22 03:22,Access ,New Access Request,Critical,Resolved,Priya Nair,IT,4,No,
+TCK10412,02-09-2024 09:16,,Netwrok,WiFi Issue,High,In Progress,Aarav Sharma,Procurement,8,,
+TCK10509,03-30-2024 17:38,2024-04-02 10:55,ACC,Permission Issue,Low,Closed,Sneha Iyer,Procurement,48,Yes,1
+TCK11379,29/04/2024 21:19,,EMAIL,Distribution List Issue,Medium,In Progress,Rohan Mehta,Legal,24,,
+TCK11271,2024-03-24 11:21,2024-03-24 18:08,SW,Software Installation,High,Resolved,Divya Menon,Procurement,8,No,2
+TCK11482,2024-03-21 03:05,22-Mar-2024 15:47,network,VPN Connectivity,Medium,Resolved,Vikram Singh,,24,Yes,1
+TCK10058,13/02/2024 15:41,2024-02-18 23:52,email,Outlook Crash,Low,Closed,Priya Nair,Operations,48,Yes,5
+TCK10138,2024-06-24 05:04,2024-06-24 07:21,EMAIL,Spam/Phishing Report,Critical,Resolved,Divya Menon,Procurement,4,No,5
+TCK11620,2024-05-03 16:14,,HW,Monitor Not Working,Medium,Open,,HR,24,,
+TCK10616,19-Jun-2024 05:48,06-19-2024 07:38,Acess,MFA Issue,Low,Closed,Vikram Singh,Finance,48,No,3
+TCK10627,2024-04-29 20:50,,HW,Keyboard/Mouse,Medium,In Progress,Rohan Mehta,Sales,24,,
+TCK11327,17/06/2024 01:12,22/06/2024 04:41,Software,Compatibility Issue,Low,Resolved,Divya Menon,HR,48,Yes,4
+TCK10403,2024-01-04 16:54,05-Jan-2024 07:35,ACC,New Access Request,High,Resolved,Kiran Rao,Finance,8,Yes,3
+TCK10613,2024-04-09 02:18,2024-04-09 14:04,ACC,Account Locked,Medium,Resolved,Aarav Sharma,Finance,24,No,
+TCK10770,02/02/2024 22:56,2024-02-03 05:21,Hardware ,Laptop Issue,Medium,Reopened,Aarav Sharma,HR,24,No,
+TCK10342,2024-04-15 13:58,16/04/2024 05:25,Software,License Issue,Medium,Resolved,Ananya Das,Finance,24,No,5
+TCK10999,06-20-2024 13:47,2024-06-22 07:08,Emial,Distribution List Issue,Medium,Resolved,Priya Nair,Sales,24,Yes,
+TCK10059,29/02/2024 01:10,2024-03-02 02:23,Netwrok,VPN Connectivity,Medium,Closed,Aarav Sharma,Sales,24,Yes,4
+TCK10594,01-19-2024 00:34,19/01/2024 15:37,Software ,Compatibility Issue,Low,Closed,Aarav Sharma,Operations,48,No,2
+TCK10166,2024-04-25 07:58,2024-04-26 14:30,hardware,Monitor Not Working,Low,Resolved,Divya Menon,Legal,48,No,4
+TCK10093,2024-06-13 02:42,13/06/2024 20:57,Network ,WiFi Issue,High,Closed,Ananya Das,Operations,8,Yes,1
+TCK11376,2024-05-06 06:33,2024-05-06 13:09,Hard ware,Laptop Issue,Medium,Resolved,Ananya Das,Legal,24,No,
+TCK11241,2024-04-07 20:54,2024-04-08 09:40,Netwrok,VPN Connectivity,High,Closed,Arjun Reddy,Procurement,8,Yes,3
+TCK10276,12/05/2024 04:33,2024-05-12 15:32,Hard ware,Keyboard/Mouse,Medium,Resolved,Meera Pillai,Legal,24,No,4
+TCK10130,2024-02-09 00:38,,SW,Compatibility Issue,Low,In Progress,Rohan Mehta,Procurement,48,,
+TCK11204,2024-06-01 15:42,,Network,DNS Issue,High,In Progress,Rohan Mehta,Operations,8,,
+TCK11343,2024-06-29 14:58,2024-06-29 17:22,Software,Software Installation,Critical,Resolved,Ananya Das,Operations,4,No,1
+TCK10661,2024-06-11 10:22,12/06/2024 00:51,email,Outlook Crash,medium,Closed,Aarav Sharma,Operations,24,No,4
+TCK10552,2024-01-26 22:12,27/01/2024 04:14,Netwrok,Slow Internet,High,Resolved,Priya Nair,Legal,8,No,3
+TCK11469,2024-06-25 04:50,2024-06-26 02:58,E-mail,Outlook Crash,High,Resolved,Rohan Mehta,Legal,8,Yes,2
+TCK10765,19/04/2024 11:12,2024-04-19 12:43,Network,DNS Issue,Medium,Reopened,Rohan Mehta,Marketing,24,No,
+TCK11326,2024-02-29 19:40,2024-03-02 03:07,Emial,Spam/Phishing Report,Low,Resolved,Divya Menon,Procurement,48,No,2
+TCK10356,28/05/2024 09:43,,Access ,New Access Request,Medium,Open,Rohan Mehta,IT,24,,
+TCK11492,07/01/2024 17:59,07-Jan-2024 19:31,Acess,Password Reset,Medium,Closed,Aarav Sharma,HR,24,No,4
+TCK11042,11/01/2024 04:21,,access,New Access Request,Critical,In Progress,Vikram Singh,Legal,4,,
+TCK11436,2024-06-07 12:15,2024-06-07 14:53,HW,Printer Issue,Low,Resolved,Vikram Singh,Marketing,48,No,1
+TCK11314,2024-02-29 03:16,03-03-2024 01:47,E-mail,Spam/Phishing Report,Medium,Reopened,Kiran Rao,Marketing,24,Yes,
+TCK11375,2024-04-09 05:38,2024-04-10 17:34,Software,License Issue,Low,Resolved,Priya Nair,Operations,48,No,
+TCK10607,2024-06-16 09:05,2024-06-16 17:17,Netwrok,DNS Issue,Low,Reopened,Ananya Das,Legal,48,No,
+TCK10168,08/05/2024 04:48,2024-05-08 07:09,network,LAN Down,High,Closed,Ananya Das,HR,8,No,
+TCK10404,29/03/2024 22:22,29-Mar-2024 23:42,hardware,Monitor Not Working,medium,Closed,Rohan Mehta,Procurement,24,No,4
+TCK10253,2024-02-21 11:58,21/02/2024 19:52,Software,License Issue,Medium,Resolved,Divya Menon,Sales,24,No,4
+TCK11598,2024-04-20 21:07,21/04/2024 17:34,Netwrok,LAN Down,Medium,Resolved,Arjun Reddy,Sales,24,No,2
+TCK10167,2024-02-15 11:16,,hardware,Docking Station,Critical,In Progress,Divya Menon,Marketing,4,,
+TCK10036,2024-05-15 03:11,05-15-2024 05:21,access,Account Locked,High,Closed,Kiran Rao,Procurement,8,No,
+TCK10252,2024-06-06 01:18,07-Jun-2024 01:57,hardware,Docking Station,Low,Reopened,Priya Nair,Finance,48,No,
+TCK11293,2024-03-27 20:29,2024-03-28 05:31,Network,LAN Down,Medium,Reopened,Aarav Sharma,HR,24,No,
+TCK10774,2024-05-22 02:19,2024-05-25 19:20,EMAIL,Email Not Syncing,Low,Resolved,Sneha Iyer,Finance,48,Yes,3
+TCK10199,15/02/2024 00:31,,Network ,Slow Internet,Critical,In Progress,Vikram Singh,HR,4,,
+TCK11386,2024-04-08 08:05,,NW,WiFi Issue,Low,In Progress,Aarav Sharma,HR,48,,
+TCK11248,10/05/2024 00:04,2024-05-10 06:51,network,DNS Issue,Medium,Closed,Meera Pillai,HR,24,No,3
+TCK10735,04-02-2024 01:55,2024-04-03 09:12,Emial,Mailbox Full,Low,Reopened,Priya Nair,Operations,48,No,
+TCK11547,2024-05-09 20:56,2024-05-10 06:11,Network ,DNS Issue,Low,Closed,Vikram Singh,Sales,48,No,1
+TCK11518,2024-04-23 17:07,2024-04-24 21:13,ACC,New Access Request,Medium,Resolved,Rohan Mehta,Legal,24,Yes,
+TCK11228,2024-02-12 00:18,,Software,Update Failure,High,In Progress,Meera Pillai,Finance,8,,
+TCK11556,2024-01-10 00:18,2024-01-10 11:13,Software,Application Crash,Low,Resolved,Rohan Mehta,Sales,48,No,3
+TCK10517,2024-01-28 15:26,28-Jan-2024 17:20,hardware,Monitor Not Working,High,Closed,Kiran Rao,Finance,8,No,1
+TCK10595,2024-06-12 10:03,2024-06-12 12:56,Access ,Password Reset,High,Resolved,Vikram Singh,Finance,8,No,4
+TCK11509,2024-03-15 21:17,,Network,Slow Internet,High,Open,Kiran Rao,Sales,8,,
+TCK11631,2024-06-05 20:21,2024-06-07 08:28,Access,MFA Issue,Low,Reopened,Rohan Mehta,Legal,48,No,
+TCK11279,15-Jan-2024 13:47,01-16-2024 03:12,Hardware,Keyboard/Mouse,Medium,Resolved,Arjun Reddy,Sales,24,No,1
+TCK11245,2024-04-18 09:41,18/04/2024 16:52,Softwear,Compatibility Issue,High,Closed,Divya Menon,HR,8,No,2
+TCK10936,2024-04-21 14:12,21/04/2024 15:12,Access,Account Locked,Low,Closed,Vikram Singh,Legal,48,No,
+TCK11360,2024-05-08 05:19,2024-05-08 06:09,network,Slow Internet,High,Resolved,Meera Pillai,HR,8,No,1
+TCK11069,2024-04-06 01:42,2024-04-06 09:16,HW,Docking Station,Critical,Resolved,Arjun Reddy,IT,4,Yes,5
+TCK11347,2024-06-06 07:16,2024-06-06 12:30,Netwrok,VPN Connectivity,Low,Resolved,Divya Menon,Finance,48,No,1
+TCK10346,25/03/2024 13:00,25/03/2024 14:39,hardware,Keyboard/Mouse,Critical,Resolved,Divya Menon,Legal,4,No,5
+TCK10232,02-Jan-2024 13:08,03/01/2024 06:11,NW,VPN Connectivity,Medium,Resolved,Rohan Mehta,Marketing,24,No,5
+TCK11092,04/03/2024 12:55,05/03/2024 01:17,access,Account Locked,Medium,Resolved,,Procurement,24,No,3
+TCK10634,10-Mar-2024 11:52,2024-03-11 00:46,Software,License Issue,Low,Resolved,Ananya Das,Marketing,48,No,1
+TCK10117,2024-06-03 03:50,2024-06-03 21:59,Hardware,Monitor Not Working,Medium,Closed,Ananya Das,IT,24,No,
+TCK10706,2024-01-02 00:48,2024-01-03 08:49,hardware,Docking Station,Medium,Closed,Priya Nair,HR,24,Yes,1
+TCK11597,2024-02-27 05:54,2024-02-28 04:22,E-mail,Mailbox Full,Low,Resolved,Vikram Singh,Procurement,48,No,5
+TCK10931,2024-03-07 22:28,2024-03-08 07:17,E-mail,Email Not Syncing,Medium,Resolved,Kiran Rao,Legal,24,No,
+TCK11090,04/01/2024 18:23,2024-01-06 14:18,Softwear,Compatibility Issue,Medium,Resolved,Sneha Iyer,Procurement,24,Yes,4
+TCK10947,2024-06-14 11:58,15-Jun-2024 09:14,ACC,Permission Issue,Low,Closed,Aarav Sharma,Marketing,48,No,3
+TCK11051,2024-02-06 16:39,,Email,Distribution List Issue,High,In Progress,Divya Menon,Sales,8,,
+TCK11550,25/05/2024 15:36,25/05/2024 20:01,Hardware ,Printer Issue,Critical,Resolved,Priya Nair,Procurement,4,Yes,4
+TCK11099,18/01/2024 08:58,,Acess,Account Locked,Medium,In Progress,Kiran Rao,Finance,24,,
+TCK10042,2024-01-17 07:13,2024-01-17 17:27,Access ,MFA Issue,Medium,Closed,Sneha Iyer,IT,24,No,4
+TCK10069,2024-04-24 14:26,2024-04-26 03:01,Softwear,Application Crash,Low,Resolved,Meera Pillai,Sales,48,No,
+TCK11052,2024-02-08 23:05,,NW,WiFi Issue,Medium,Open,Aarav Sharma,Legal,24,,
+TCK11212,2024-02-16 04:44,2024-02-16 19:19,Network ,WiFi Issue,Medium,Resolved,Ananya Das,Marketing,24,No,2
+TCK11580,04-25-2024 14:19,2024-04-26 02:32,NW,LAN Down,Low,Reopened,Kiran Rao,Legal,48,No,
+TCK11281,2024-02-12 19:39,2024-02-13 02:09,access,Password Reset,High,Closed,Ananya Das,Legal,8,No,2
+TCK11554,2024-04-29 00:37,2024-04-29 03:09,Softwear,Compatibility Issue,Medium,Resolved,Divya Menon,Finance,24,No,
+TCK11096,06-10-2024 12:29,11/06/2024 15:50,EMAIL,Mailbox Full,Low,Closed,Sneha Iyer,Marketing,48,No,5
+TCK11587,2024-01-13 22:11,18/01/2024 03:14,ACC,MFA Issue,Low,Resolved,Sneha Iyer,Finance,48,Yes,3
+TCK10198,2024-05-11 11:41,,Hardware,Printer Issue,Medium,In Progress,Meera Pillai,IT,24,,
+TCK11605,2024-05-09 21:28,10/05/2024 00:36,Hardware ,Laptop Issue,high,Resolved,Priya Nair,IT,8,No,
+TCK10991,16/05/2024 03:53,2024-05-16 21:01,Hardware ,Printer Issue,Low,Resolved,,Operations,48,No,
+TCK11610,04-Apr-2024 15:11,2024-04-06 01:24,Netwrok,Slow Internet,Low,Closed,Sneha Iyer,IT,48,No,4
+TCK11435,2024-06-03 21:59,,SW,Software Installation,Medium,Open,,Operations,24,,
+TCK10599,2024-03-21 22:59,,Acess,Permission Issue,High,In Progress,Priya Nair,HR,8,,
+TCK11596,2024-04-22 03:03,24/04/2024 19:25,Emial,Mailbox Full,Medium,Resolved,Sneha Iyer,Finance,24,Yes,
+TCK10953,2024-04-20 13:09,2024-04-22 06:18,HW,Docking Station,Low,Closed,Vikram Singh,Legal,48,No,5
+TCK10556,24/02/2024 22:43,24/02/2024 23:46,Software ,Software Installation,Critical,Closed,Aarav Sharma,Operations,4,No,2
+TCK11593,2024-06-01 06:51,2024-06-01 11:08,network,Slow Internet,High,Closed,Kiran Rao,Procurement,8,No,2
+TCK11012,14/06/2024 01:07,2024-06-19 21:46,Emial,Mailbox Full,Low,Closed,Vikram Singh,Operations,48,Yes,
+TCK10989,2024-04-04 23:24,2024-04-06 18:24,hardware,Monitor Not Working,Low,Closed,Priya Nair,Finance,48,No,
+TCK11285,2024-01-01 02:09,01-01-2024 11:33,Software,Application Crash,Medium,Resolved,,Marketing,24,No,2
+TCK10244,2024-03-02 22:04,2024-03-04 09:11,Netwrok,LAN Down,Low,Closed,Arjun Reddy,Procurement,48,No,5
+TCK10834,04-01-2024 23:47,02-Apr-2024 16:58,Email,Spam/Phishing Report,Low,Resolved,Rohan Mehta,Procurement,48,No,2
+TCK10307,04-20-2024 19:22,04-21-2024 10:05,HW,Docking Station,Medium,Reopened,Ananya Das,Legal,24,No,
+TCK11636,14/04/2024 06:42,2024-04-14 12:24,Email,Mailbox Full,Critical,Closed,Meera Pillai,Operations,4,Yes,
+TCK11339,2024-05-12 15:12,05-12-2024 21:52,HW,Laptop Issue,High,Resolved,Ananya Das,Marketing,8,No,2
+TCK11174,2024-05-31 03:07,,Emial,Mailbox Full,High,Open,Rohan Mehta,Sales,8,,
+TCK10080,04-01-2024 13:14,04-03-2024 17:14,ACC,Password Reset,Medium,Resolved,Rohan Mehta,Finance,24,Yes,
+TCK11217,2024-06-17 22:15,2024-06-19 11:44,software,Update Failure,Medium,Closed,Rohan Mehta,Sales,24,Yes,3
+TCK10191,03-02-2024 23:17,2024-03-03 01:18,ACC,Account Locked,Critical,Resolved,Rohan Mehta,Legal,4,No,3
+TCK10170,2024-03-21 21:04,2024-03-22 02:41,Softwear,Application Crash,Medium,Closed,Vikram Singh,Procurement,24,No,
+TCK11552,2024-05-18 19:29,2024-05-20 06:02,network,VPN Connectivity,Medium,Reopened,Aarav Sharma,Finance,24,Yes,
+TCK11490,2024-03-07 19:00,03-07-2024 23:38,Software ,Update Failure,High,Resolved,Arjun Reddy,IT,8,No,2
+TCK10929,2024-03-05 16:34,,Software ,Software Installation,Low,In Progress,Aarav Sharma,Finance,48,,
+TCK11247,14/03/2024 10:01,2024-03-15 00:11,Acess,Account Locked,Medium,Closed,Rohan Mehta,Finance,24,No,2
+TCK10863,2024-03-26 10:07,26/03/2024 18:11,network,Slow Internet,Medium,Resolved,Ananya Das,Legal,24,No,1
+TCK10579,25/04/2024 16:48,2024-04-26 02:10,Acess,Permission Issue,High,Closed,Ananya Das,Procurement,8,Yes,2
+TCK10106,28/04/2024 09:53,2024-04-28 16:22,Softwear,Update Failure,Medium,Resolved,Sneha Iyer,Sales,24,No,
+TCK10733,12/05/2024 14:49,14/05/2024 08:20,Network,VPN Connectivity,Medium,Closed,Sneha Iyer,Marketing,24,Yes,2
+TCK10682,2024-03-13 18:00,2024-03-14 15:16,ACC,Permission Issue,Low,Resolved,Priya Nair,,48,No,2
+TCK10011,2024-04-20 04:04,2024-04-21 01:19,network,VPN Connectivity,Low,Reopened,Divya Menon,HR,48,No,
+TCK10559,2024-06-22 06:04,2024-06-22 17:41,Netwrok,LAN Down,Low,Closed,Meera Pillai,Procurement,48,No,2
+TCK10046,2024-05-30 00:01,31/05/2024 10:55,Hard ware,Monitor Not Working,Low,Resolved,Ananya Das,Sales,48,No,3
+TCK10174,2024-06-16 18:55,17-Jun-2024 06:33,NW,Slow Internet,Low,Resolved,Ananya Das,Legal,48,No,3
+TCK11107,01-Jan-2024 01:15,,Software,Compatibility Issue,Low,Open,Vikram Singh,Sales,48,,
+TCK11230,2024-02-08 00:45,,software,Application Crash,High,In Progress,Priya Nair,Operations,8,,
+TCK11070,11-Jan-2024 02:23,11-Jan-2024 04:39,Hardware ,Printer Issue,High,Closed,Sneha Iyer,,8,No,
+TCK11087,2024-02-29 19:25,01/03/2024 02:28,access,Permission Issue,Medium,Closed,Vikram Singh,HR,24,No,5
+TCK10772,01/05/2024 06:59,2024-05-01 21:53,Softwear,License Issue,Medium,Reopened,Rohan Mehta,Sales,24,No,
+TCK11394,03-24-2024 08:23,2024-03-24 21:04,NW,VPN Connectivity,Low,Resolved,Divya Menon,IT,48,No,
+TCK10508,26/04/2024 02:34,04-26-2024 06:15,Acess,Account Locked,High,Resolved,,Finance,8,No,5
+TCK10916,2024-06-13 05:43,2024-06-13 21:13,software,Application Crash,Medium,Resolved,Arjun Reddy,Operations,24,No,
+TCK10429,04-29-2024 14:44,04-30-2024 02:29,NW,Slow Internet,High,Reopened,Meera Pillai,Procurement,8,Yes,
+TCK10003,2024-01-19 18:43,2024-01-20 06:31,SW,Application Crash,Low,Resolved,Kiran Rao,Finance,48,No,4
+TCK10836,2024-05-09 14:56,2024-05-10 07:07,Softwear,Update Failure,Low,Resolved,Sneha Iyer,Finance,48,No,4
+TCK11611,2024-02-05 06:50,2024-02-07 10:04,Software ,,Medium,Closed,Divya Menon,Legal,24,Yes,4
+TCK11381,20-May-2024 06:32,21/05/2024 00:52,Hardware,Laptop Issue,Medium,Closed,,IT,24,No,
+TCK10560,2024-01-09 13:48,2024-01-11 07:52,access,New Access Request,Low,Reopened,Sneha Iyer,Legal,48,No,
+TCK10880,02/02/2024 03:43,02-02-2024 22:57,E-mail,Email Not Syncing,Low,Resolved,Rohan Mehta,Operations,48,No,5
+TCK11606,2024-02-29 16:27,2024-02-29 23:31,email,Distribution List Issue,Critical,Resolved,Kiran Rao,Sales,4,Yes,
+TCK10001,2024-01-28 02:17,2024-01-29 16:53,Hardware,Printer Issue,Low,Closed,Kiran Rao,Sales,48,No,1
+TCK11211,2024-06-08 15:36,,software,Software Installation,High,Open,Kiran Rao,Legal,8,,
+TCK11362,20-Jun-2024 20:10,06-21-2024 15:40,Emial,Distribution List Issue,Medium,Reopened,Aarav Sharma,Procurement,24,No,
+TCK10024,18/02/2024 18:18,,network,,Medium,Open,Arjun Reddy,Finance,24,,
+TCK10383,2024-01-13 07:11,2024-01-14 00:14,Network ,WiFi Issue,Low,Closed,Kiran Rao,HR,48,No,5
+TCK11378,22/02/2024 14:20,2024-02-25 04:41,Software,License Issue,Low,Resolved,Sneha Iyer,HR,48,Yes,4
+TCK11625,01-03-2024 17:11,2024-01-08 08:52,ACC,Account Locked,Low,Resolved,Sneha Iyer,Finance,48,Yes,5
+TCK10767,06-14-2024 10:44,2024-06-15 01:37,EMAIL,Outlook Crash,Medium,Resolved,Vikram Singh,IT,24,No,2
+TCK10639,2024-03-16 08:45,,Access ,Password Reset,Low,In Progress,Vikram Singh,Marketing,48,,
+TCK10272,2024-06-16 21:28,,SW,Update Failure,Medium,In Progress,Divya Menon,Sales,24,,
+TCK10501,2024-06-11 23:34,2024-06-12 10:00,E-mail,Spam/Phishing Report,Critical,Closed,Priya Nair,Marketing,4,Yes,5
+TCK10603,27/01/2024 21:33,2024-01-28 17:16,Acess,MFA Issue,Low,Closed,Arjun Reddy,Marketing,48,No,1
+TCK10211,2024-03-03 13:04,,software,Software Installation,Low,In Progress,Divya Menon,Legal,48,,
+TCK10365,22/02/2024 16:06,,NW,DNS Issue,Medium,Open,Arjun Reddy,Marketing,24,,
+TCK10312,2024-01-24 04:13,2024-01-24 08:27,hardware,Monitor Not Working,High,Resolved,Ananya Das,Operations,8,No,1
+TCK11537,2024-04-30 06:44,2024-04-30 14:50,email,Mailbox Full,Low,Closed,Meera Pillai,Finance,48,No,4
+TCK11592,03-25-2024 10:17,2024-03-25 12:53,Software,License Issue,High,Resolved,Divya Menon,Legal,8,No,3
+TCK10171,2024-04-27 11:21,28/04/2024 22:20,Software,,Medium,Closed,Divya Menon,IT,24,Yes,4
+TCK11006,28-Apr-2024 09:14,28-Apr-2024 10:46,email,Spam/Phishing Report,Medium,Resolved,Sneha Iyer,Legal,24,No,5
+TCK11471,2024-03-07 18:10,2024-03-08 02:37,email,Spam/Phishing Report,Medium,Resolved,Priya Nair,HR,24,No,4
+TCK10176,04/04/2024 19:43,05-Apr-2024 19:34,network,WiFi Issue,High,Resolved,Ananya Das,Finance,8,Yes,
+TCK10844,06-22-2024 11:02,06-23-2024 04:28,hardware,Laptop Issue,High,Resolved,Sneha Iyer,Procurement,8,Yes,2
+TCK11446,2024-01-09 20:59,10-Jan-2024 00:01,SW,Compatibility Issue,Low,Resolved,Ananya Das,Sales,48,No,
+TCK10662,16-Feb-2024 07:40,2024-02-16 08:46,access,Account Locked,Medium,Resolved,Arjun Reddy,Finance,24,No,2
+TCK11333,2024-06-17 11:16,2024-06-18 05:50,software,Compatibility Issue,High,Resolved,Meera Pillai,Marketing,8,Yes,
+TCK10464,05-07-2024 11:01,,Hardware,Docking Station,Low,In Progress,Vikram Singh,HR,48,,
+TCK11491,2024-04-11 09:41,04-11-2024 22:27,access,MFA Issue,Low,Closed,Divya Menon,IT,48,No,
+TCK10736,2024-05-19 06:58,2024-05-19 17:40,E-mail,Mailbox Full,Medium,Resolved,,Sales,24,No,2
+TCK10441,2024-05-05 03:12,2024-05-05 13:36,Access,Permission Issue,Low,Closed,Arjun Reddy,Operations,48,No,3
+TCK11427,2024-04-21 12:42,2024-04-21 20:48,Network ,VPN Connectivity,Low,Resolved,Arjun Reddy,Finance,48,No,3
+TCK10129,06-13-2024 04:24,2024-06-13 09:40,Softwear,Application Crash,High,Reopened,Rohan Mehta,Operations,8,No,
+TCK11050,2024-05-14 16:29,,Hardware ,Monitor Not Working,Low,In Progress,Rohan Mehta,Marketing,48,,
+TCK10440,2024-06-07 17:33,2024-06-13 00:09,Access ,New Access Request,Low,Resolved,Meera Pillai,Procurement,48,Yes,5
+TCK10837,16-Mar-2024 14:52,03-17-2024 18:55,HW,Keyboard/Mouse,Low,Resolved,Vikram Singh,,48,No,3
+TCK11630,05/01/2024 20:17,,Acess,Account Locked,Low,In Progress,Rohan Mehta,Operations,48,,
+TCK10791,12-Jun-2024 04:48,17/06/2024 09:18,software,License Issue,Low,Resolved,Vikram Singh,Operations,48,Yes,1
+TCK10306,2024-05-18 17:16,19-May-2024 22:29,email,Spam/Phishing Report,Low,Resolved,Vikram Singh,HR,48,No,5
+TCK11312,2024-06-16 18:41,,Acess,Password Reset,Critical,In Progress,Kiran Rao,Procurement,4,,
+TCK11280,2024-05-02 07:22,2024-05-05 17:28,Hard ware,Printer Issue,Low,Closed,Divya Menon,IT,48,Yes,
+TCK10357,07/01/2024 07:45,2024-01-07 10:22,EMAIL,Outlook Crash,critical,Closed,,Procurement,4,No,3
+TCK10992,25/01/2024 20:16,2024-01-26 06:41,software,Software Installation,Medium,Closed,Ananya Das,IT,24,No,
+TCK10397,2024-04-04 17:35,05-Apr-2024 05:56,software,Update Failure,Medium,Resolved,Ananya Das,IT,24,No,1
+TCK10842,2024-02-18 15:20,21/02/2024 02:47,Acess,Password Reset,Low,Resolved,Vikram Singh,Sales,48,Yes,2
+TCK10121,2024-03-29 20:56,03-30-2024 02:44,software,Application Crash,High,Resolved,Rohan Mehta,Operations,8,No,5
+TCK10587,2024-01-21 11:15,2024-01-21 20:31,Email,Distribution List Issue,Low,Resolved,Divya Menon,Procurement,48,No,
+TCK11399,2024-06-27 19:23,,SW,Application Crash,Low,Open,Arjun Reddy,Finance,48,,
+TCK11003,02-27-2024 10:07,2024-02-27 20:10,Access,Password Reset,Medium,Resolved,Meera Pillai,HR,24,No,4
+TCK11616,08-Apr-2024 04:31,2024-04-13 22:55,Email,Distribution List Issue,Low,Closed,Divya Menon,Marketing,48,Yes,
+TCK10882,04-20-2024 21:49,2024-04-20 22:42,network,LAN Down,Critical,Resolved,Meera Pillai,Finance,4,No,4
+TCK10554,01-18-2024 07:03,2024-01-19 07:46,EMAIL,Distribution List Issue,Low,Reopened,Ananya Das,Procurement,48,No,
+TCK10185,17/04/2024 09:20,18/04/2024 14:51,Netwrok,Slow Internet,Low,Reopened,Aarav Sharma,Operations,48,No,
+TCK11265,04/04/2024 05:31,05/04/2024 01:03,Email,Outlook Crash,Medium,Resolved,,Operations,24,No,3
+TCK10777,2024-06-22 10:01,06-24-2024 23:15,Acess,MFA Issue,Low,Resolved,Sneha Iyer,Operations,48,Yes,2
+TCK10162,2024-03-23 06:34,25-Mar-2024 01:31,hardware,Docking Station,Low,Resolved,Aarav Sharma,Procurement,48,No,1
+TCK10718,2024-05-24 08:32,2024-05-29 15:03,hardware,Docking Station,Low,Resolved,Meera Pillai,HR,48,Yes,4
+TCK11289,2024-06-29 16:50,30/06/2024 16:39,Software,Software Installation,Low,Reopened,Kiran Rao,Procurement,48,No,
+TCK10131,2024-06-20 16:53,22/06/2024 12:04,Netwrok,DNS Issue,Low,Resolved,Ananya Das,Legal,48,No,
+TCK11324,06-25-2024 15:14,25-Jun-2024 18:28,software,Compatibility Issue,Critical,Closed,Divya Menon,Marketing,4,No,
+TCK10620,19-Apr-2024 20:23,2024-04-20 00:35,Software ,Software Installation,Medium,Closed,Divya Menon,HR,24,No,3
+TCK10756,2024-01-26 22:35,,HW,Docking Station,Medium,Open,Aarav Sharma,Marketing,24,,
+TCK10225,17/01/2024 05:35,01-17-2024 14:46,Emial,Distribution List Issue,Low,Resolved,Ananya Das,Legal,48,No,5
+TCK10619,2024-06-24 15:18,24-Jun-2024 16:06,ACC,Password Reset,Low,Closed,Vikram Singh,Finance,48,No,
+TCK10716,2024-03-22 05:09,23/03/2024 02:28,HW,Monitor Not Working,Medium,Closed,Kiran Rao,Operations,24,No,4
+TCK10112,04-20-2024 18:20,2024-04-21 00:47,access,New Access Request,Medium,Reopened,Ananya Das,HR,24,No,
+TCK11480,23-Feb-2024 15:06,24-Feb-2024 06:44,hardware,Laptop Issue,Medium,Resolved,Rohan Mehta,Legal,24,No,1
+TCK10564,2024-02-17 19:10,,email,Outlook Crash,Critical,In Progress,Vikram Singh,Marketing,4,,
+TCK10801,2024-03-22 21:29,2024-03-23 03:26,Email,Distribution List Issue,High,Closed,Aarav Sharma,Procurement,8,No,4
+TCK10628,2024-05-06 09:30,2024-05-10 07:43,Access ,MFA Issue,Low,Reopened,Priya Nair,Finance,48,Yes,
+TCK11295,2024-06-27 08:55,27/06/2024 10:52,Email,Spam/Phishing Report,Low,Resolved,Divya Menon,Legal,48,No,
+TCK10631,29/01/2024 01:53,01-29-2024 20:00,Hard ware,Docking Station,Medium,Resolved,Kiran Rao,IT,24,No,2
+TCK10359,2024-02-24 07:10,24/02/2024 14:13,ACC,New Access Request,High,Closed,Arjun Reddy,Operations,8,No,
+TCK10903,21/06/2024 17:34,2024-06-22 00:07,NW,DNS Issue,Low,Resolved,Priya Nair,Marketing,48,No,5
+TCK10161,2024-03-29 01:08,2024-03-29 05:25,Hard ware,Keyboard/Mouse,High,Resolved,Vikram Singh,Operations,8,No,
+TCK10063,2024-04-15 08:40,15/04/2024 20:06,Access ,Password Reset,Medium,Closed,Kiran Rao,Procurement,24,No,
+TCK11207,2024-05-29 03:08,2024-05-29 08:55,Network,VPN Connectivity,Critical,Resolved,Arjun Reddy,IT,4,Yes,1
+TCK11372,2024-03-18 16:44,03-19-2024 19:27,Emial,Spam/Phishing Report,Low,Closed,Priya Nair,Operations,48,No,4
+TCK11034,01-06-2024 08:52,,Hardware,Printer Issue,Medium,In Progress,Ananya Das,Marketing,24,,
+TCK11615,2024-02-14 15:29,2024-02-15 14:22,Access,MFA Issue,High,Closed,Ananya Das,Sales,8,Yes,4
+TCK10408,2024-04-18 05:23,04-18-2024 13:45,Software ,Software Installation,Low,Closed,Priya Nair,Sales,48,No,
+TCK11076,2024-01-18 18:49,2024-01-19 07:09,hardware,Laptop Issue,High,Resolved,Aarav Sharma,Marketing,8,Yes,
+TCK10034,2024-05-02 21:43,2024-05-03 18:18,Software,License Issue,Medium,Closed,Rohan Mehta,IT,24,No,2
+TCK11002,2024-01-19 17:44,2024-01-20 05:11,Netwrok,DNS Issue,Medium,Closed,Sneha Iyer,Sales,24,No,5
+TCK10981,2024-03-20 18:22,03-25-2024 23:57,Email,Spam/Phishing Report,Low,Resolved,Aarav Sharma,Marketing,48,Yes,1
+TCK11419,23/01/2024 20:53,24/01/2024 12:17,ACC,New Access Request,Medium,Closed,Priya Nair,Operations,24,No,4
+TCK11571,19-Jun-2024 01:42,06-19-2024 12:17,email,Distribution List Issue,High,Resolved,Aarav Sharma,Legal,8,Yes,2
+TCK11573,09/05/2024 06:30,,Emial,Distribution List Issue,Low,In Progress,Sneha Iyer,Operations,48,,
+TCK10569,2024-04-05 01:48,05/04/2024 07:58,Network,LAN Down,Medium,Resolved,Aarav Sharma,Legal,24,No,
+TCK10938,2024-05-17 09:29,18/05/2024 20:41,hardware,Laptop Issue,Low,Closed,Kiran Rao,Sales,48,No,4
+TCK11459,06-05-2024 22:55,07-Jun-2024 04:23,network,Slow Internet,Medium,Closed,Vikram Singh,HR,24,Yes,5
+TCK11203,2024-01-17 13:10,17/01/2024 17:09,Access,New Access Request,High,Resolved,Ananya Das,Procurement,8,No,4
+TCK11321,2024-06-23 17:36,23-Jun-2024 19:51,Hardware ,Monitor Not Working,High,Resolved,Ananya Das,Operations,8,No,4
+TCK10802,2024-03-04 11:20,2024-03-04 12:45,Hardware,Keyboard/Mouse,Low,Closed,Arjun Reddy,Sales,48,No,4
+TCK10286,12-Mar-2024 04:26,15/03/2024 19:27,Hard ware,Docking Station,Low,Closed,Divya Menon,Sales,48,Yes,5
+TCK10577,2024-03-30 23:43,03-31-2024 05:11,email,Email Not Syncing,Low,Resolved,Divya Menon,Procurement,48,No,4
+TCK10164,2024-02-13 05:48,,EMAIL,Distribution List Issue,Low,In Progress,Divya Menon,Operations,48,,
+TCK11313,09/04/2024 01:44,2024-04-09 06:43,software,Update Failure,High,Resolved,Sneha Iyer,Legal,8,No,3
+TCK11061,2024-03-27 00:26,2024-03-27 12:54,Softwear,Compatibility Issue,Medium,Resolved,,HR,24,No,
+TCK11145,04-05-2024 01:30,2024-04-05 10:10,Network,Slow Internet,Medium,Closed,Priya Nair,Marketing,24,No,
+TCK11431,04-09-2024 22:32,,Access,MFA Issue,High,Open,,IT,8,,
+TCK11425,2024-01-18 06:34,2024-01-19 22:02,E-mail,Mailbox Full,Low,Closed,Priya Nair,Operations,48,No,
+TCK11428,2024-06-16 10:07,,HW,Monitor Not Working,Critical,In Progress,Aarav Sharma,HR,4,,
+TCK11063,01-Jun-2024 19:30,06-02-2024 15:25,Emial,Email Not Syncing,Medium,Resolved,Sneha Iyer,Finance,24,No,3
+TCK10386,2024-05-24 08:51,24/05/2024 17:08,Hardware ,Laptop Issue,Medium,Reopened,Arjun Reddy,Operations,24,No,
+TCK10287,2024-03-14 20:06,2024-03-15 11:25,Hardware,Laptop Issue,Medium,Resolved,Vikram Singh,Sales,24,No,3
+TCK10939,2024-04-26 09:04,2024-04-26 23:58,Acess,New Access Request,Low,Closed,Arjun Reddy,,48,No,2
+TCK10260,21-Mar-2024 09:19,03-21-2024 13:31,Hardware,Printer Issue,High,Reopened,Arjun Reddy,Legal,8,No,
+TCK10188,2024-02-17 03:15,2024-02-17 06:18,Access,MFA Issue,High,Closed,Rohan Mehta,Procurement,8,No,2
+TCK10470,03-10-2024 16:40,10-Mar-2024 18:20,Access,MFA Issue,Medium,Resolved,Vikram Singh,Marketing,24,No,5
+TCK11151,2024-04-11 17:42,2024-04-11 21:36,Softwear,Update Failure,High,Resolved,Kiran Rao,IT,8,No,3
+TCK11161,2024-06-21 14:04,2024-06-22 13:12,Access ,MFA Issue,High,Closed,Vikram Singh,Legal,8,Yes,
+TCK10190,04/03/2024 23:46,05/03/2024 05:47,Network ,Slow Internet,High,Resolved,Ananya Das,Operations,8,No,3
+TCK10214,03-24-2024 10:16,,Network,DNS Issue,Medium,In Progress,Kiran Rao,Marketing,24,,
+TCK10204,2024-01-28 05:49,01-30-2024 12:28,Software ,Software Installation,Medium,Resolved,,Procurement,24,Yes,2
+TCK10598,2024-04-02 11:30,2024-04-02 16:32,Hardware,Keyboard/Mouse,High,Resolved,Ananya Das,Legal,8,No,
+TCK11628,01/03/2024 18:37,2024-03-02 00:16,HW,Keyboard/Mouse,Medium,Resolved,Arjun Reddy,Sales,24,No,1
+TCK10068,16-Feb-2024 08:54,2024-02-16 11:49,ACC,Account Locked,Critical,Closed,Divya Menon,Legal,4,No,4
+TCK10023,2024-05-08 19:36,05-12-2024 00:32,Email,Distribution List Issue,Low,Resolved,Divya Menon,HR,48,Yes,3
+TCK10702,29/01/2024 20:22,2024-01-29 21:35,E-mail,Distribution List Issue,Medium,Closed,Kiran Rao,HR,24,No,
+TCK10081,08/01/2024 05:25,01-08-2024 10:04,Netwrok,VPN Connectivity,Low,Resolved,Priya Nair,Procurement,48,No,3
+TCK11163,11/02/2024 20:37,02-11-2024 22:07,Netwrok,,High,Resolved,Arjun Reddy,HR,8,No,
+TCK11377,2024-02-20 05:35,2024-02-21 05:25,Access,MFA Issue,Low,Closed,Ananya Das,Sales,48,No,
+TCK11018,2024-02-03 09:50,,Netwrok,LAN Down,High,In Progress,Arjun Reddy,Marketing,8,,
+TCK11515,2024-02-13 23:10,2024-02-14 08:19,NW,DNS Issue,Medium,Closed,Divya Menon,HR,24,No,2
+TCK10443,2024-06-02 20:59,2024-06-03 09:57,HW,Docking Station,Medium,Resolved,Rohan Mehta,HR,24,No,4
+TCK10040,2024-03-16 17:28,,Access,New Access Request,Low,Open,,Legal,48,,
+TCK11077,2024-04-01 02:40,2024-04-01 08:58,Softwear,Compatibility Issue,High,Resolved,Priya Nair,Sales,8,No,1
+TCK11590,2024-04-04 19:47,2024-04-05 04:37,email,Email Not Syncing,Low,Closed,Kiran Rao,Finance,48,No,
+TCK10147,2024-02-03 15:05,04/02/2024 03:06,Netwrok,DNS Issue,Medium,Closed,Arjun Reddy,Operations,24,No,5
+TCK10052,02/03/2024 06:33,2024-03-02 12:10,network,VPN Connectivity,High,Resolved,Priya Nair,Procurement,8,No,3
+TCK10865,2024-04-08 09:28,,Software,Application Crash,Low,Open,Ananya Das,Sales,48,,
+TCK10125,02-Jun-2024 16:33,2024-06-03 06:30,EMAIL,,Medium,Reopened,Arjun Reddy,HR,24,No,
+TCK10159,2024-04-25 16:41,,email,Spam/Phishing Report,Medium,Open,Aarav Sharma,Procurement,24,,
+TCK11015,2024-06-24 11:57,2024-06-26 23:07,SW,Compatibility Issue,Medium,Closed,Vikram Singh,Procurement,24,Yes,
+TCK10551,2024-02-08 20:25,2024-02-09 00:25,Softwear,Software Installation,Low,Closed,Ananya Das,HR,48,No,
+TCK10815,2024-02-12 16:45,2024-02-14 07:23,EMAIL,Outlook Crash,Medium,Closed,Arjun Reddy,Marketing,24,Yes,
+TCK10378,2024-02-12 06:58,2024-02-12 10:22,SW,Application Crash,High,Reopened,Arjun Reddy,Finance,8,No,
+TCK10546,13-Apr-2024 14:09,2024-04-16 23:48,ACC,MFA Issue,Low,Resolved,Vikram Singh,Operations,48,Yes,
+TCK10196,2024-03-13 15:31,2024-03-18 02:00,Emial,Distribution List Issue,Low,Resolved,Sneha Iyer,Sales,48,Yes,4
+TCK10029,18-Mar-2024 08:59,2024-03-21 07:28,software,Application Crash,Medium,Resolved,Vikram Singh,Legal,24,Yes,
+TCK10847,2024-02-16 20:59,,SW,Application Crash,Medium,Open,Meera Pillai,Operations,24,,
+TCK11197,26-Feb-2024 01:48,2024-02-26 05:58,SW,Application Crash,High,Resolved,,Finance,8,No,
+TCK11530,2024-04-14 21:26,2024-04-16 15:27,SW,Software Installation,Low,Resolved,Divya Menon,Sales,48,No,1
+TCK10384,2024-01-13 22:45,2024-01-15 09:17,Network,VPN Connectivity,Medium,Resolved,Aarav Sharma,IT,24,Yes,1
+TCK11561,06-Feb-2024 06:42,2024-02-07 19:46,Emial,Spam/Phishing Report,Low,Closed,Sneha Iyer,Sales,48,No,4
+TCK10425,27-Apr-2024 10:28,27/04/2024 23:38,Email,Outlook Crash,High,Reopened,Rohan Mehta,Marketing,8,Yes,
+TCK10017,04-Apr-2024 07:15,2024-04-09 22:21,Hardware,Monitor Not Working,Low,Closed,Aarav Sharma,Legal,48,Yes,3
+TCK11308,2024-01-21 21:05,22/01/2024 02:10,Network,LAN Down,Low,Resolved,Sneha Iyer,IT,48,No,
+TCK10213,01/01/2024 11:31,,Netwrok,Slow Internet,Low,Open,Arjun Reddy,Finance,48,,
+TCK11440,2024-06-23 23:30,06-28-2024 07:55,Hardware,Monitor Not Working,Low,Resolved,Aarav Sharma,HR,48,Yes,
+TCK10768,04-28-2024 04:55,28/04/2024 11:55,Software ,Compatibility Issue,Critical,Closed,Sneha Iyer,Marketing,4,Yes,5
+TCK11493,08/02/2024 19:37,2024-02-08 23:24,Hard ware,Monitor Not Working,High,Resolved,Aarav Sharma,IT,8,No,5
+TCK11286,2024-03-27 21:27,2024-03-28 10:37,Netwrok,VPN Connectivity,Low,Resolved,Aarav Sharma,HR,48,No,
+TCK11475,13/02/2024 16:10,2024-02-16 13:51,Network,LAN Down,Medium,Resolved,Vikram Singh,Finance,24,Yes,1
+TCK10550,08/06/2024 06:36,2024-06-08 08:50,ACC,Permission Issue,High,Resolved,Kiran Rao,Marketing,8,No,4
+TCK10592,02/01/2024 12:49,,E-mail,Mailbox Full,High,In Progress,Meera Pillai,HR,8,,
+TCK10234,02-16-2024 05:56,2024-02-19 04:41,Network,WiFi Issue,Medium,Resolved,Rohan Mehta,Sales,24,Yes,2
+TCK10762,15/01/2024 23:49,,access,MFA Issue,Medium,In Progress,Kiran Rao,Marketing,24,,
+TCK10323,04-14-2024 07:18,14/04/2024 12:14,Hardware,Docking Station,Medium,Closed,Divya Menon,IT,24,No,4
+TCK10604,2024-03-06 19:50,07/03/2024 18:10,Acess,Account Locked,High,Closed,Vikram Singh,HR,8,Yes,
+TCK11133,2024-01-27 14:45,2024-01-27 18:28,Email,Mailbox Full,High,Resolved,Vikram Singh,Procurement,8,No,4
+TCK10337,03-May-2024 19:32,2024-05-03 22:05,EMAIL,Distribution List Issue,Critical,Resolved,Aarav Sharma,Procurement,4,No,5
+TCK10867,2024-01-16 00:56,01-16-2024 17:18,Hard ware,Keyboard/Mouse,Low,Resolved,Sneha Iyer,Legal,48,No,3
+TCK10219,20-Jan-2024 21:20,2024-01-20 23:51,Softwear,Application Crash,High,Resolved,Arjun Reddy,HR,8,No,
+TCK11008,01-31-2024 23:03,02-01-2024 03:38,access,Account Locked,Medium,Closed,Aarav Sharma,,24,No,2
+TCK11406,22-Jan-2024 21:21,2024-01-23 19:12,Software ,Application Crash,Low,Reopened,Arjun Reddy,IT,48,No,
+TCK10873,2024-03-20 03:38,20/03/2024 08:11,Software ,Software Installation,High,Closed,Sneha Iyer,Finance,8,No,1
+TCK11004,2024-02-13 01:55,,email,Spam/Phishing Report,High,In Progress,Priya Nair,Marketing,8,,
+TCK11540,2024-06-19 08:05,,SW,License Issue,Low,Open,Aarav Sharma,Procurement,48,,
+TCK10952,2024-03-22 05:16,2024-03-22 18:50,Hardware ,Docking Station,Medium,Resolved,Vikram Singh,Finance,24,No,5
+TCK10154,01-27-2024 01:25,,Access ,MFA Issue,Medium,Open,Kiran Rao,IT,24,,
+TCK11396,2024-05-11 18:07,05-11-2024 19:16,software,License Issue,Medium,Closed,Ananya Das,Legal,24,No,
+TCK10212,2024-05-03 00:55,,Netwrok,Slow Internet,Medium,In Progress,Divya Menon,Legal,24,,
+TCK10988,03-27-2024 18:17,2024-03-28 11:03,Hardware ,Monitor Not Working,Medium,Resolved,Priya Nair,HR,24,No,5
+TCK11094,05/01/2024 21:49,2024-01-06 16:19,NW,WiFi Issue,Low,Resolved,Divya Menon,HR,48,No,4
+TCK10360,2024-05-23 09:51,2024-05-23 21:20,access,Account Locked,High,Resolved,,Marketing,8,Yes,
+TCK10361,2024-02-01 17:13,05/02/2024 17:29,Email,Outlook Crash,Low,Resolved,Kiran Rao,Marketing,48,Yes,3
+TCK10123,06-Apr-2024 14:37,2024-04-08 05:11,ACC,Account Locked,Medium,Resolved,Kiran Rao,Legal,24,Yes,5
+TCK10370,2024-01-31 05:41,01-31-2024 23:24,ACC,New Access Request,Medium,Resolved,Sneha Iyer,Procurement,24,No,5
+TCK11157,2024-02-07 22:33,2024-02-09 08:03,access,Account Locked,Low,Closed,Arjun Reddy,Finance,48,No,
+TCK10933,2024-02-04 14:17,,Email,Spam/Phishing Report,high,In Progress,Sneha Iyer,Marketing,8,,
+TCK11026,05/06/2024 18:04,,EMAIL,Distribution List Issue,Low,In Progress,Rohan Mehta,Marketing,48,,
+TCK11177,2024-06-07 06:27,2024-06-08 03:36,HW,Laptop Issue,Medium,Resolved,Sneha Iyer,Operations,24,No,2
+TCK10431,11-May-2024 16:37,11/05/2024 21:31,Hard ware,Printer Issue,Medium,Resolved,Arjun Reddy,Marketing,24,No,1
+TCK10977,2024-03-16 17:49,2024-03-17 10:01,EMAIL,Email Not Syncing,High,Closed,Vikram Singh,Legal,8,Yes,1
+TCK11187,2024-05-24 17:15,05-24-2024 19:52,Netwrok,WiFi Issue,High,Reopened,Ananya Das,HR,8,No,
+TCK11301,2024-02-04 03:47,,hardware,Printer Issue,High,In Progress,Sneha Iyer,Marketing,8,,
+TCK11129,12/03/2024 04:49,,Emial,Email Not Syncing,Medium,In Progress,Kiran Rao,Marketing,24,,
+TCK11080,12/01/2024 17:30,13/01/2024 03:31,Hardware ,Printer Issue,High,Closed,Divya Menon,Sales,8,Yes,
+TCK10495,2024-02-23 19:35,2024-02-24 05:38,NW,DNS Issue,Medium,Resolved,Arjun Reddy,Procurement,24,No,
+TCK11424,2024-02-24 01:39,,access,Account Locked,High,In Progress,Kiran Rao,HR,8,,
+TCK11453,2024-04-19 05:46,04-19-2024 21:26,Netwrok,LAN Down,High,Closed,Arjun Reddy,Finance,8,Yes,2
+TCK10894,2024-02-14 15:54,14/02/2024 17:50,hardware,Printer Issue,Low,Closed,Arjun Reddy,Legal,48,No,
+TCK10326,20/04/2024 01:46,2024-04-20 20:33,E-mail,Distribution List Issue,Low,Resolved,Rohan Mehta,IT,48,No,
+TCK10522,2024-03-14 17:08,14/03/2024 20:21,Access,Account Locked,High,Resolved,Rohan Mehta,Procurement,8,No,1
+TCK10706,2024-01-02 00:48,2024-01-03 08:49,hardware,Docking Station,Medium,Closed,Priya Nair,HR,24,Yes,1
+TCK10695,2024-02-27 15:17,,ACC,Account Locked,High,In Progress,Kiran Rao,Procurement,8,,
+TCK11024,04-22-2024 19:10,2024-04-23 01:42,Softwear,Software Installation,High,Resolved,Rohan Mehta,Marketing,8,No,
+TCK10949,13/06/2024 23:44,2024-06-14 04:41,Access ,Account Locked,Medium,Resolved,Rohan Mehta,HR,24,No,
+TCK11214,19/02/2024 02:46,2024-02-20 14:02,Hardware ,Docking Station,Low,Closed,,IT,48,No,2
+TCK10971,08/04/2024 22:39,2024-04-09 01:57,Softwear,Application Crash,Low,Closed,Rohan Mehta,Procurement,48,No,3
+TCK10119,10/03/2024 08:10,,ACC,New Access Request,High,In Progress,Sneha Iyer,Finance,8,,
+TCK10923,2024-05-13 09:50,,Network ,Slow Internet,High,In Progress,Aarav Sharma,Legal,8,,
+TCK10843,2024-02-08 00:06,2024-02-08 06:38,access,MFA Issue,Medium,Resolved,Priya Nair,IT,24,No,1
+TCK10659,2024-01-14 06:00,2024-01-14 21:33,SW,Update Failure,Medium,Resolved,Kiran Rao,Operations,24,No,
+TCK10393,03/02/2024 13:47,02-04-2024 09:16,Software,License Issue,High,Closed,Aarav Sharma,Operations,8,Yes,1
+TCK10644,08/02/2024 21:29,09/02/2024 08:40,Hardware,Printer Issue,Low,Resolved,Divya Menon,Operations,48,No,2
+TCK10019,16/01/2024 13:20,,email,Email Not Syncing,Critical,Open,Aarav Sharma,Finance,4,,
+TCK10528,2024-05-11 21:19,12/05/2024 10:58,Access,Account Locked,Medium,Resolved,Vikram Singh,Procurement,24,No,
+TCK11571,19-Jun-2024 01:42,06-19-2024 12:17,email,Distribution List Issue,High,Resolved,Aarav Sharma,Legal,8,Yes,2
+TCK10921,12/05/2024 05:10,15/05/2024 03:24,Access,Account Locked,Low,Closed,Priya Nair,Sales,48,Yes,4
+TCK10671,2024-04-16 13:48,,software,Application Crash,Low,In Progress,Meera Pillai,IT,48,,
+TCK10172,05-23-2024 23:31,2024-05-24 07:33,Network,WiFi Issue,Critical,Resolved,Vikram Singh,IT,4,Yes,4
+TCK11618,2024-06-08 09:01,2024-06-08 15:04,Hardware,Keyboard/Mouse,High,Resolved,Meera Pillai,Finance,8,No,5
+TCK10410,2024-04-28 20:02,2024-04-29 00:38,software,Application Crash,High,Closed,Rohan Mehta,Sales,8,No,3
+TCK10972,11/02/2024 09:39,2024-02-11 15:17,software,Application Crash,High,Resolved,Vikram Singh,IT,8,No,5
+TCK10297,04-05-2024 11:14,2024-04-05 23:37,Acess,Account Locked,Low,Resolved,Ananya Das,Legal,48,No,4
+TCK11075,18/06/2024 04:46,18/06/2024 12:15,Email,Spam/Phishing Report,Medium,Reopened,Vikram Singh,Sales,24,No,
+TCK10053,10-Jun-2024 16:19,2024-06-10 17:23,Emial,Mailbox Full,Critical,Resolved,Ananya Das,Operations,4,No,1
+TCK10711,05-05-2024 18:49,,network,LAN Down,Medium,In Progress,Vikram Singh,Legal,24,,
+TCK10013,2024-02-13 15:09,2024-02-14 15:19,Access ,Permission Issue,Low,Resolved,Aarav Sharma,Sales,48,No,2
+TCK11180,02-Feb-2024 01:59,,NW,DNS Issue,Low,Open,Sneha Iyer,Sales,48,,
+TCK11626,20-Jan-2024 06:23,2024-01-20 16:54,SW,Update Failure,Medium,Closed,Sneha Iyer,HR,24,No,1
+TCK10759,05/02/2024 10:09,06-Feb-2024 09:10,Hard ware,Keyboard/Mouse,Low,Closed,Kiran Rao,Marketing,48,No,4
+TCK10686,2024-03-10 03:12,,Acess,MFA Issue,Low,Open,Arjun Reddy,Sales,48,,
+TCK10118,02-06-2024 08:56,2024-02-07 06:00,E-mail,Spam/Phishing Report,Medium,Closed,Ananya Das,Sales,24,No,4
+TCK10362,2024-03-09 04:12,,NW,VPN Connectivity,Medium,Open,,IT,24,,
+TCK11588,2024-03-10 05:58,,access,New Access Request,Medium,In Progress,Rohan Mehta,Operations,24,,
+TCK10806,01/06/2024 10:06,2024-06-01 23:35,Email,Email Not Syncing,Low,Resolved,Vikram Singh,Legal,48,No,3
+TCK11072,09/04/2024 12:48,,Netwrok,LAN Down,Medium,Open,Arjun Reddy,Legal,24,,
+TCK11557,2024-04-19 15:01,,Access ,Account Locked,Medium,In Progress,Aarav Sharma,Procurement,24,,
+TCK11209,2024-03-05 17:08,05-Mar-2024 20:34,HW,Keyboard/Mouse,Low,Resolved,Ananya Das,Finance,48,No,4
+TCK10062,2024-05-14 16:45,15/05/2024 10:21,Network,WiFi Issue,Low,Closed,Aarav Sharma,Finance,48,No,3
+TCK11342,2024-02-29 14:28,,E-mail,Distribution List Issue,Medium,In Progress,Priya Nair,Sales,24,,
+TCK10107,25/02/2024 04:13,28/02/2024 02:35,Network,DNS Issue,Medium,Resolved,Priya Nair,Finance,24,Yes,5
+TCK10974,2024-02-29 11:08,2024-03-01 03:22,Netwrok,LAN Down,Medium,Resolved,Kiran Rao,Legal,24,No,
+TCK11033,2024-04-11 17:23,2024-04-12 03:07,HW,Keyboard/Mouse,High,Resolved,Vikram Singh,Finance,8,Yes,2
+TCK10884,08/01/2024 10:45,2024-01-09 07:37,Email,Mailbox Full,High,Resolved,Arjun Reddy,Sales,8,Yes,
+TCK11084,2024-03-25 08:21,,access,Permission Issue,Medium,In Progress,Vikram Singh,HR,24,,
+TCK10447,23-Apr-2024 03:42,2024-04-23 11:10,Netwrok,LAN Down,critical,Resolved,Rohan Mehta,Marketing,4,Yes,5
+TCK10257,2024-01-19 15:00,2024-01-21 03:21,E-mail,Mailbox Full,Low,Resolved,Sneha Iyer,Legal,48,No,1
+TCK11222,29/05/2024 10:59,2024-05-29 11:30,Software,License Issue,High,Closed,Aarav Sharma,Operations,8,No,
+TCK10284,2024-03-15 11:28,2024-03-15 14:45,SW,License Issue,Low,Closed,Meera Pillai,Procurement,48,No,
+TCK10856,2024-04-15 03:11,16/04/2024 18:08,Software ,License Issue,Low,Closed,Vikram Singh,Operations,48,No,1
+TCK10975,06-05-2024 09:17,06-05-2024 15:35,Access,Permission Issue,Medium,Resolved,Priya Nair,Operations,24,No,3
+TCK10822,2024-06-25 18:25,2024-06-29 10:53,EMAIL,Distribution List Issue,Low,Closed,,Operations,48,Yes,2
+TCK11124,2024-04-04 15:40,,Netwrok,VPN Connectivity,Medium,In Progress,Aarav Sharma,Operations,24,,
+TCK10427,2024-02-10 06:13,,Hardware ,Laptop Issue,High,In Progress,,Legal,8,,
+TCK10693,2024-05-23 19:21,2024-05-25 12:04,Network,VPN Connectivity,low,Closed,Priya Nair,Marketing,48,No,4
+TCK10423,2024-05-25 12:09,2024-05-25 17:15,Emial,Spam/Phishing Report,Critical,Closed,Sneha Iyer,Legal,4,Yes,
+TCK10139,2024-04-08 03:32,2024-04-08 05:51,Access,Password Reset,Critical,Closed,Rohan Mehta,Procurement,4,No,3
+TCK10980,27-Mar-2024 13:46,2024-03-27 16:25,HW,Printer Issue,High,Closed,Sneha Iyer,IT,8,No,
+TCK10295,03-20-2024 20:43,2024-03-22 01:11,Softwear,Update Failure,Low,Resolved,Arjun Reddy,IT,48,No,
+TCK10424,2024-01-24 16:40,2024-01-25 04:17,Email,Mailbox Full,Medium,Closed,Divya Menon,Sales,24,No,1
+TCK11297,28-Jun-2024 08:31,2024-07-02 01:56,Access,Permission Issue,Low,Resolved,Priya Nair,HR,48,Yes,1
+TCK10913,2024-05-25 04:12,2024-05-25 20:06,Softwear,License Issue,Low,Reopened,Ananya Das,Marketing,48,No,
+TCK10022,2024-02-21 11:55,2024-02-21 15:21,Hardware,Docking Station,Low,Resolved,Rohan Mehta,Procurement,48,No,
+TCK10279,04-23-2024 16:57,04-25-2024 16:48,Netwrok,LAN Down,Medium,Resolved,Ananya Das,Finance,24,Yes,4
+TCK10514,22-Apr-2024 15:12,2024-04-22 21:33,NW,LAN Down,Low,Resolved,Divya Menon,Legal,48,No,3
+TCK10878,2024-03-26 03:57,26/03/2024 10:21,E-mail,Outlook Crash,Medium,Resolved,Rohan Mehta,Procurement,24,No,3
+TCK10854,24/02/2024 20:59,2024-02-25 11:19,Hardware,Monitor Not Working,Medium,Resolved,Rohan Mehta,Legal,24,No,4
+TCK10919,2024-03-20 11:15,2024-03-21 05:25,Network ,WiFi Issue,Medium,Resolved,Rohan Mehta,Marketing,24,No,1
+TCK11240,03/04/2024 08:35,2024-04-04 01:37,Email,Email Not Syncing,Medium,Reopened,Sneha Iyer,Sales,24,No,
+TCK10615,2024-03-04 18:43,2024-03-04 21:13,network,Slow Internet,Critical,Resolved,Kiran Rao,Sales,4,No,
+TCK11058,2024-03-19 02:31,2024-03-19 04:25,Acess,MFA Issue,High,Resolved,Meera Pillai,Procurement,8,No,
+TCK11479,2024-03-07 08:23,07/03/2024 14:58,E-mail,Distribution List Issue,Low,Resolved,Sneha Iyer,Legal,48,No,4
+TCK11195,2024-04-17 06:10,17-Apr-2024 11:38,Access ,Account Locked,Medium,Resolved,Ananya Das,Marketing,24,No,2
+TCK10924,2024-05-15 20:37,2024-05-17 04:51,ACC,New Access Request,Low,Reopened,Ananya Das,IT,48,No,
+TCK10303,04-24-2024 10:24,2024-04-24 21:26,Email,Outlook Crash,Medium,Reopened,Aarav Sharma,Legal,24,No,
+TCK10825,09-Mar-2024 00:08,,Network,VPN Connectivity,Low,Open,Arjun Reddy,HR,48,,
+TCK11523,2024-03-28 12:42,29/03/2024 20:51,Hardware,Printer Issue,Low,Closed,Vikram Singh,Sales,48,No,1
+TCK10639,2024-03-16 08:45,,Access ,Password Reset,Low,In Progress,Vikram Singh,Marketing,48,,
+TCK11243,2024-03-07 07:27,2024-03-07 19:42,network,Slow Internet,Low,Resolved,Sneha Iyer,Finance,48,No,2
+TCK10681,29/06/2024 14:11,2024-06-29 14:44,network,LAN Down,High,Closed,Kiran Rao,Finance,8,No,1
+TCK10354,02-17-2024 00:03,,Softwear,Software Installation,Low,Open,Priya Nair,IT,48,,
+TCK11249,2024-05-31 03:07,2024-05-31 05:21,access,Password Reset,Low,Resolved,Meera Pillai,Legal,48,No,2
+TCK10332,2024-02-15 10:36,2024-02-17 01:51,access,Password Reset,Low,Resolved,Kiran Rao,Procurement,48,No,1
+TCK10103,2024-01-14 06:14,2024-01-15 16:44,E-mail,Mailbox Full,Low,Closed,Sneha Iyer,Finance,48,No,3
+TCK11235,2024-01-23 09:33,,EMAIL,Email Not Syncing,High,In Progress,Priya Nair,Sales,8,,
+TCK10371,2024-06-03 22:47,2024-06-03 23:20,ACC,Password Reset,High,Resolved,Sneha Iyer,Legal,8,No,4
+TCK10941,2024-05-13 18:56,14-May-2024 06:12,ACC,New Access Request,Critical,Closed,Arjun Reddy,Procurement,4,Yes,1
+TCK10665,12-Feb-2024 10:34,16-Feb-2024 12:55,E-mail,Email Not Syncing,Low,Resolved,Divya Menon,HR,48,Yes,3
+TCK11617,2024-03-29 02:16,03-29-2024 05:48,SW,Compatibility Issue,High,Resolved,Aarav Sharma,Legal,8,No,
+TCK11310,2024-03-09 17:06,10-Mar-2024 16:12,HW,Laptop Issue,Low,Resolved,Divya Menon,Procurement,48,No,5
+TCK10150,2024-02-11 13:15,11/02/2024 20:00,Netwrok,LAN Down,High,Resolved,Priya Nair,IT,8,No,2
+TCK10608,2024-02-05 11:17,2024-02-06 00:53,Hard ware,Monitor Not Working,Low,Resolved,Priya Nair,Marketing,48,No,2
+TCK10003,2024-01-19 18:43,2024-01-20 06:31,SW,Application Crash,Low,Resolved,Kiran Rao,Finance,48,No,4
+TCK10381,2024-03-25 22:53,2024-03-26 09:44,SW,Application Crash,Medium,Closed,Ananya Das,Marketing,24,No,
+TCK10033,01/01/2024 01:53,01/01/2024 18:58,E-mail,Outlook Crash,Medium,Resolved,Sneha Iyer,Procurement,24,No,4
+TCK11447,19/05/2024 06:03,05-19-2024 22:59,Email,Email Not Syncing,Medium,Resolved,,Operations,24,No,
+TCK10468,2024-01-01 04:02,01/01/2024 10:09,Hardware ,Monitor Not Working,Medium,Reopened,Meera Pillai,Sales,24,No,
+TCK11569,2024-01-15 14:46,2024-01-16 04:06,Emial,Mailbox Full,Medium,Reopened,Rohan Mehta,Legal,24,No,
+TCK10652,03/01/2024 03:28,2024-01-05 00:37,Hardware ,Laptop Issue,Medium,Resolved,Priya Nair,Legal,24,Yes,4
+TCK10997,2024-03-11 23:44,2024-03-12 02:16,network,LAN Down,Medium,Reopened,Arjun Reddy,IT,24,No,
+TCK10201,2024-01-23 03:04,27/01/2024 07:59,SW,License Issue,Low,Resolved,Ananya Das,Legal,48,Yes,5
+TCK10444,2024-03-07 10:46,2024-03-08 01:15,EMAIL,Outlook Crash,Medium,Closed,Meera Pillai,Procurement,24,No,1
+TCK11215,01-26-2024 19:38,2024-01-26 22:31,Software,Application Crash,medium,Reopened,Priya Nair,Finance,24,No,
+TCK11408,2024-06-25 17:05,06-30-2024 04:19,Acess,Permission Issue,low,Resolved,Meera Pillai,Procurement,48,Yes,
+TCK10471,2024-01-08 15:17,2024-01-09 04:33,ACC,Account Locked,Low,Reopened,Aarav Sharma,Marketing,48,No,
+TCK11089,2024-03-05 06:51,08/03/2024 05:16,Network ,LAN Down,Medium,Closed,Ananya Das,IT,24,Yes,
+TCK10985,03-23-2024 22:39,28/03/2024 08:45,Access,Password Reset,Low,Resolved,Ananya Das,IT,48,Yes,
+TCK10540,2024-05-28 15:37,05-28-2024 18:15,software,Software Installation,High,Resolved,Aarav Sharma,IT,8,No,
+TCK11410,02-23-2024 15:56,24/02/2024 13:45,Emial,Email Not Syncing,High,Resolved,Priya Nair,Operations,8,Yes,4
+TCK11639,25/03/2024 21:25,26/03/2024 22:18,Network ,DNS Issue,Low,Resolved,Ananya Das,IT,48,No,4
+TCK11268,02/02/2024 03:45,02-Feb-2024 16:20,Hardware ,Printer Issue,Medium,Resolved,Kiran Rao,Legal,24,No,
+TCK11575,2024-03-27 19:32,,Software,Software Installation,Critical,In Progress,Meera Pillai,Sales,4,,
+TCK11563,2024-03-27 07:57,28/03/2024 03:50,Hard ware,Monitor Not Working,Medium,Reopened,Sneha Iyer,Legal,24,No,
+TCK10126,15-Feb-2024 19:49,,EMAIL,Email Not Syncing,Low,In Progress,Sneha Iyer,Legal,48,,
+TCK10417,2024-05-14 07:38,14/05/2024 15:08,Softwear,Application Crash,Low,Closed,Aarav Sharma,Procurement,48,No,
+TCK10944,2024-04-27 09:44,2024-04-27 16:15,SW,Compatibility Issue,Medium,Resolved,Priya Nair,Legal,24,No,
+TCK10056,29/02/2024 07:10,2024-02-29 10:39,ACC,MFA Issue,Critical,Closed,Divya Menon,IT,4,No,3
+TCK10209,2024-02-02 05:31,02-04-2024 21:01,E-mail,Distribution List Issue,Medium,Closed,Ananya Das,Operations,24,Yes,5
+TCK10905,2024-01-19 05:21,2024-01-19 08:28,HW,Monitor Not Working,Low,Closed,Priya Nair,Marketing,48,No,
+TCK11559,2024-01-17 04:12,17-Jan-2024 10:37,Softwear,Update Failure,High,Closed,Meera Pillai,Legal,8,No,2
+TCK10734,2024-05-24 04:42,05-25-2024 22:33,Access,Password Reset,Low,Closed,Arjun Reddy,IT,48,No,
+TCK10076,24/06/2024 07:58,2024-06-25 02:00,Hard ware,Keyboard/Mouse,High,Resolved,Vikram Singh,Operations,8,Yes,
+TCK10290,01-18-2024 11:48,,Hard ware,Keyboard/Mouse,Low,In Progress,Aarav Sharma,Finance,48,,
+TCK10960,2024-01-07 22:34,,ACC,MFA Issue,Low,In Progress,Priya Nair,Operations,48,,
+TCK10948,02/02/2024 09:02,02/02/2024 18:18,Access,Account Locked,Medium,Closed,Divya Menon,Operations,24,No,5
+TCK10866,15/06/2024 12:11,,NW,VPN Connectivity,Medium,In Progress,Ananya Das,Sales,24,,
+TCK10574,27/04/2024 07:05,2024-04-28 02:06,software,Software Installation,Low,Resolved,Sneha Iyer,Sales,48,No,2
+TCK10758,2024-05-16 04:46,2024-05-16 15:19,Access,Permission Issue,Medium,Resolved,Priya Nair,HR,24,No,3
+TCK10892,02-08-2024 12:47,10/02/2024 09:13,Hard ware,,Medium,Reopened,Rohan Mehta,HR,24,Yes,
+TCK11316,2024-01-02 01:57,03/01/2024 00:44,HW,Printer Issue,Low,Resolved,Kiran Rao,HR,48,No,
+TCK10606,2024-02-23 09:25,,Hard ware,Monitor Not Working,Critical,In Progress,Rohan Mehta,Procurement,4,,
+TCK10315,08/06/2024 22:39,,Emial,Outlook Crash,Critical,In Progress,Vikram Singh,Finance,4,,
+TCK10039,03-05-2024 06:01,2024-03-05 10:52,software,Application Crash,Medium,Closed,Meera Pillai,Sales,24,No,
+TCK10786,2024-04-08 13:24,04-09-2024 02:13,Access,New Access Request,High,Resolved,Arjun Reddy,Legal,8,Yes,
+TCK10466,2024-01-12 15:53,2024-01-15 12:55,Hardware ,Keyboard/Mouse,Low,Resolved,,IT,48,Yes,5
+TCK11541,05/06/2024 04:57,2024-06-07 11:21,Network,LAN Down,Medium,Resolved,Kiran Rao,Marketing,24,Yes,1
+TCK10946,2024-01-03 10:34,2024-01-03 13:37,EMAIL,Outlook Crash,Critical,Resolved,Arjun Reddy,Procurement,4,No,2
+TCK11226,03/01/2024 06:30,,SW,Application Crash,Low,Open,Sneha Iyer,Operations,48,,
+TCK11477,11-Mar-2024 00:01,11-Mar-2024 02:15,E-mail,Mailbox Full,Critical,Reopened,Rohan Mehta,Legal,4,No,
+TCK10771,01-28-2024 06:31,2024-01-30 07:11,ACC,Permission Issue,Medium,Reopened,Rohan Mehta,Legal,24,Yes,
+TCK11417,02-15-2024 23:19,02-17-2024 07:46,Acess,Password Reset,Medium,Resolved,Divya Menon,Marketing,24,Yes,4
+TCK11274,06/01/2024 19:31,2024-01-08 04:38,Software ,Compatibility Issue,Medium,Closed,Sneha Iyer,HR,24,Yes,4
+TCK10742,2024-01-04 00:52,09/01/2024 04:39,network,LAN Down,Low,Closed,Aarav Sharma,Legal,48,Yes,
+TCK10700,15/05/2024 03:23,05-18-2024 03:19,access,MFA Issue,Low,Closed,Priya Nair,Sales,48,Yes,3
+TCK11254,31/03/2024 13:48,02/04/2024 17:02,Hardware,Docking Station,Medium,Closed,Priya Nair,Finance,24,Yes,
+TCK11038,01-28-2024 10:53,2024-01-31 08:51,Email,Mailbox Full,Low,Resolved,Sneha Iyer,Procurement,48,Yes,
+TCK11020,2024-02-02 17:28,02-02-2024 21:51,Netwrok,LAN Down,High,Resolved,Divya Menon,Operations,8,No,
+TCK11153,2024-03-08 00:40,2024-03-08 10:22,Hardware ,Laptop Issue,Medium,Resolved,Kiran Rao,Legal,24,No,3
+TCK10763,2024-05-05 13:35,2024-05-05 14:47,access,Password Reset,High,Resolved,Divya Menon,Marketing,8,No,1
+TCK11500,2024-03-15 23:25,2024-03-16 16:37,Software ,Update Failure,Medium,Resolved,Rohan Mehta,Finance,24,No,
+TCK10480,15/02/2024 18:09,21/02/2024 16:02,NW,Slow Internet,Low,Resolved,Arjun Reddy,IT,48,Yes,4
+TCK10275,2024-02-23 16:30,26/02/2024 21:07,Network,Slow Internet,Low,Closed,Meera Pillai,Operations,48,Yes,2
+TCK11470,22-Apr-2024 20:39,26/04/2024 00:40,ACC,New Access Request,Low,Resolved,Kiran Rao,Legal,48,Yes,4
+TCK10675,2024-06-16 07:36,17-Jun-2024 05:05,software,Software Installation,Low,Closed,Meera Pillai,Marketing,48,No,4
+TCK11582,2024-03-05 10:13,2024-03-07 18:09,software,Application Crash,Medium,Resolved,Arjun Reddy,Operations,24,Yes,4
+TCK10920,2024-06-27 06:14,2024-06-27 14:40,Hard ware,Keyboard/Mouse,Low,Resolved,,HR,48,No,
+TCK11088,01-13-2024 06:11,13-Jan-2024 07:26,SW,Compatibility Issue,Critical,Resolved,Vikram Singh,Marketing,4,No,
+TCK11119,08/06/2024 02:29,08/06/2024 18:49,Network ,Slow Internet,Medium,Resolved,,IT,24,No,
+TCK11319,2024-01-21 13:20,2024-01-21 14:16,software,Compatibility Issue,High,Closed,Priya Nair,Sales,8,No,
+TCK11420,18-Jan-2024 20:17,2024-01-20 12:55,Hard ware,Docking Station,Low,Closed,Priya Nair,HR,48,No,5
+TCK10658,2024-05-14 20:32,2024-05-15 11:42,Hardware ,Laptop Issue,Low,Closed,Priya Nair,Sales,48,No,1
+TCK11567,22/02/2024 01:30,2024-02-23 04:22,Software ,Compatibility Issue,Low,Closed,,Operations,48,No,1
+TCK11131,20-Apr-2024 18:21,2024-04-21 23:01,Software,Application Crash,Low,Resolved,Ananya Das,Procurement,48,No,1
+TCK10506,2024-03-02 16:51,02/03/2024 19:45,Hard ware,Keyboard/Mouse,low,Closed,Sneha Iyer,Legal,48,No,3
+TCK11443,2024-05-17 12:54,05-17-2024 15:23,Emial,Email Not Syncing,Critical,Closed,Vikram Singh,Finance,4,No,1
+TCK10656,01-19-2024 13:13,01-21-2024 02:33,Acess,Account Locked,Medium,Resolved,Rohan Mehta,Operations,24,Yes,
+TCK10251,07-Jun-2024 03:37,2024-06-07 18:39,E-mail,Spam/Phishing Report,Medium,Resolved,Divya Menon,Legal,24,No,
+TCK10870,2024-04-21 13:04,2024-04-22 00:57,hardware,Docking Station,Medium,Closed,Meera Pillai,Sales,24,No,5
+TCK10456,01/05/2024 05:31,2024-05-01 06:52,Email,Mailbox Full,High,Resolved,Arjun Reddy,Operations,8,No,2
+TCK11036,2024-03-27 10:20,27-Mar-2024 14:26,Software ,Software Installation,High,Resolved,Meera Pillai,Operations,8,No,3
+TCK11407,2024-02-11 04:24,2024-02-11 22:08,Email,,Medium,Resolved,Rohan Mehta,Sales,24,No,1
+TCK11473,2024-04-05 17:30,2024-04-06 08:30,Emial,Email Not Syncing,Medium,Reopened,Vikram Singh,Legal,24,No,
+TCK11361,2024-06-29 18:15,,Software,License Issue,Low,Open,Ananya Das,Finance,48,,
+TCK10862,2024-02-27 10:38,2024-02-27 15:16,Network,WiFi Issue,High,Resolved,Vikram Singh,Sales,8,No,1
+TCK11022,2024-03-03 21:11,2024-03-03 21:48,Network ,DNS Issue,Critical,Reopened,Vikram Singh,Operations,4,No,
+TCK11494,2024-06-12 11:08,2024-06-15 00:17,Software,Update Failure,Medium,Closed,Rohan Mehta,Legal,24,Yes,4
+TCK11351,2024-02-03 23:28,2024-02-04 00:05,ACC,Account Locked,High,Resolved,Sneha Iyer,Marketing,8,No,4
+TCK10035,06-21-2024 01:41,2024-06-21 16:53,Access ,Password Reset,Medium,Closed,Rohan Mehta,Sales,24,No,
+TCK10668,03-13-2024 17:24,14/03/2024 09:57,Software ,Application Crash,Low,Closed,Rohan Mehta,Procurement,48,No,
+TCK10007,2024-05-24 15:54,05-25-2024 17:21,access,New Access Request,Low,Closed,Sneha Iyer,IT,48,No,2
+TCK10192,15/04/2024 22:48,17/04/2024 02:26,Hard ware,Monitor Not Working,Medium,Resolved,Meera Pillai,IT,24,Yes,4
+TCK10186,2024-06-01 05:11,2024-06-01 12:22,HW,Monitor Not Working,Medium,Closed,Aarav Sharma,Operations,24,No,4
+TCK11294,26/05/2024 14:22,26/05/2024 16:42,Network ,Slow Internet,Critical,Closed,Rohan Mehta,Legal,4,No,5
+TCK10635,2024-05-19 14:01,2024-05-20 02:33,network,WiFi Issue,High,Resolved,Priya Nair,Operations,8,Yes,1
+TCK10477,21/03/2024 14:45,2024-03-21 22:18,Hardware,Printer Issue,Low,Resolved,Ananya Das,HR,48,No,1
+TCK10676,27/06/2024 22:58,28/06/2024 10:15,Email,Outlook Crash,High,Resolved,,Marketing,8,Yes,5
+TCK11259,2024-04-27 05:24,28/04/2024 04:21,network,VPN Connectivity,Low,Resolved,Rohan Mehta,Operations,48,No,2
+TCK10474,22/04/2024 11:56,2024-04-23 19:51,EMAIL,Distribution List Issue,Low,Resolved,Aarav Sharma,Sales,48,No,2
+TCK10502,09-May-2024 05:42,2024-05-09 08:42,software,Compatibility Issue,High,Resolved,Priya Nair,Operations,8,No,1
+TCK10828,2024-05-02 00:10,05-02-2024 17:11,Network,LAN Down,Medium,Closed,Aarav Sharma,Procurement,24,No,
+TCK10596,2024-04-22 22:25,2024-04-23 16:45,ACC,Account Locked,High,Closed,Ananya Das,Marketing,8,Yes,3
+TCK11474,14-Mar-2024 20:10,2024-03-15 03:49,Network,DNS Issue,Medium,Resolved,Priya Nair,Operations,24,No,4
+TCK11127,2024-02-01 14:27,02/02/2024 09:10,access,Permission Issue,Low,Resolved,,Finance,48,No,2
+TCK11348,2024-03-18 09:47,2024-03-22 11:11,Access ,Account Locked,Low,Resolved,Aarav Sharma,Sales,48,Yes,5
+TCK10976,2024-05-23 12:04,05-23-2024 23:10,Acess,New Access Request,Medium,Resolved,Aarav Sharma,IT,24,No,2
+TCK10773,2024-01-21 10:43,2024-01-22 04:16,Software ,Application Crash,Low,Resolved,Sneha Iyer,Procurement,48,No,
+TCK10146,2024-01-30 09:43,31/01/2024 07:38,Software,Update Failure,Low,Resolved,Kiran Rao,Sales,48,No,
+TCK10755,2024-05-18 19:46,20/05/2024 01:53,email,Outlook Crash,Low,Resolved,Divya Menon,IT,48,No,3
+TCK11545,24/04/2024 20:10,2024-04-29 16:55,Netwrok,WiFi Issue,Low,Resolved,Kiran Rao,Procurement,48,Yes,
+TCK10302,09/06/2024 02:42,,Software,Update Failure,Low,In Progress,Divya Menon,Finance,48,,
+TCK11331,20/05/2024 04:58,2024-05-20 16:19,ACC,Account Locked,Medium,Closed,Vikram Singh,Legal,24,No,1
+TCK10469,2024-05-21 07:38,,Acess,Permission Issue,Medium,In Progress,Arjun Reddy,IT,24,,
+TCK10648,02/01/2024 21:07,2024-01-02 22:43,email,Mailbox Full,Critical,Closed,Kiran Rao,Legal,4,No,
+TCK10032,20/03/2024 07:14,2024-03-21 07:25,HW,Docking Station,Low,Resolved,Vikram Singh,Legal,48,No,
+TCK10153,25-May-2024 10:36,2024-05-30 23:22,Hardware ,Keyboard/Mouse,Low,Reopened,Ananya Das,Finance,48,Yes,
+TCK11231,05-20-2024 22:12,,Software ,Software Installation,Low,Open,Priya Nair,Operations,48,,
+TCK10871,21/04/2024 16:49,22/04/2024 03:42,ACC,New Access Request,Low,Resolved,Sneha Iyer,Procurement,48,No,3
+TCK11486,03/03/2024 21:32,2024-03-03 22:07,Software ,Update Failure,Medium,Resolved,Aarav Sharma,,24,No,
+TCK11629,2024-01-07 17:16,2024-01-07 18:24,Access,Account Locked,High,Closed,Arjun Reddy,Sales,8,No,
+TCK10021,29/06/2024 09:32,,access,New Access Request,Medium,In Progress,Aarav Sharma,Procurement,24,,
+TCK10049,2024-03-31 05:41,2024-03-31 20:33,HW,Keyboard/Mouse,Low,Closed,Sneha Iyer,Procurement,48,No,2
+TCK10452,2024-04-21 21:59,22/04/2024 06:42,E-mail,Outlook Crash,Critical,Resolved,Priya Nair,Procurement,4,Yes,
+TCK11354,2024-02-21 15:40,2024-02-22 05:25,Access,Password Reset,Low,Resolved,Ananya Das,Finance,48,No,
+TCK11031,2024-06-29 08:38,29-Jun-2024 12:56,email,Spam/Phishing Report,Low,Closed,Ananya Das,Legal,48,No,
+TCK10600,2024-03-29 10:28,2024-03-30 06:53,Emial,Email Not Syncing,Medium,Closed,,Legal,24,No,1
+TCK11110,23/02/2024 00:53,23/02/2024 11:31,Softwear,Compatibility Issue,Medium,Resolved,Priya Nair,Finance,24,No,4
+TCK10591,2024-05-18 12:32,,Software ,Application Crash,Critical,In Progress,Meera Pillai,Operations,4,,
+TCK10281,2024-02-05 00:31,,access,New Access Request,High,In Progress,Kiran Rao,HR,8,,
+TCK11349,06/01/2024 22:03,,Netwrok,VPN Connectivity,Low,Open,Aarav Sharma,Marketing,48,,
+TCK10455,03/06/2024 23:59,2024-06-04 15:09,Access ,New Access Request,Medium,Resolved,Rohan Mehta,Operations,24,No,1
+TCK11103,2024-04-09 04:52,2024-04-11 17:39,E-mail,Mailbox Full,Medium,Resolved,Priya Nair,Operations,24,Yes,4
+TCK11594,2024-03-14 13:48,14-Mar-2024 22:41,Access,Permission Issue,Medium,Reopened,,IT,24,No,
+TCK10231,01-24-2024 04:26,01-25-2024 15:01,NW,VPN Connectivity,Medium,Closed,,Legal,24,Yes,1
+TCK10434,03-Apr-2024 17:22,,Hardware ,Docking Station,Low,Open,Priya Nair,Marketing,48,,
+TCK10578,2024-06-10 01:31,,email,Spam/Phishing Report,Low,In Progress,Aarav Sharma,Sales,48,,
+TCK10321,2024-02-28 12:23,2024-02-28 19:06,Email,Mailbox Full,High,Closed,Arjun Reddy,Sales,8,No,4
+TCK10529,07-Mar-2024 17:21,,Acess,MFA Issue,Low,In Progress,Ananya Das,Sales,48,,
+TCK11437,02/01/2024 21:21,03/01/2024 00:05,Software ,Software Installation,High,Closed,Aarav Sharma,Procurement,8,No,
+TCK11329,2024-06-26 16:07,26/06/2024 16:42,network,DNS Issue,Critical,Closed,,HR,4,No,
+TCK10096,23/02/2024 01:02,2024-02-23 08:49,Acess,MFA Issue,Medium,Resolved,Vikram Singh,Procurement,24,No,5
+TCK10746,09-Jun-2024 12:03,2024-06-15 06:06,Hardware ,Keyboard/Mouse,Low,Resolved,Divya Menon,Operations,48,Yes,2
+TCK10405,07-Apr-2024 08:00,2024-04-07 19:30,NW,LAN Down,Low,Resolved,,Sales,48,No,5
+TCK10446,2024-05-08 07:55,2024-05-08 11:02,Software ,Application Crash,High,Resolved,Priya Nair,Marketing,8,No,3
+TCK11456,2024-05-26 00:16,26-May-2024 19:11,HW,Monitor Not Working,Low,Closed,Aarav Sharma,HR,48,No,1
+TCK10984,2024-04-21 16:44,04-22-2024 22:48,SW,Application Crash,low,Resolved,Kiran Rao,Sales,48,No,4
+TCK10010,2024-01-30 16:16,31-Jan-2024 12:54,HW,Docking Station,Medium,Resolved,Meera Pillai,Marketing,24,No,4
+TCK10149,2024-04-15 11:27,18-Apr-2024 03:10,NW,VPN Connectivity,Medium,Resolved,Arjun Reddy,Operations,24,Yes,1
+TCK10796,2024-01-18 20:36,19/01/2024 09:40,NW,Slow Internet,Low,Resolved,Kiran Rao,Legal,48,No,2
+TCK10298,2024-04-06 18:58,07/04/2024 16:42,Access ,Permission Issue,low,Resolved,Aarav Sharma,Legal,48,No,1
+TCK10611,2024-03-19 23:34,24/03/2024 02:00,Software ,Software Installation,Low,Resolved,Priya Nair,HR,48,Yes,
+TCK10833,2024-05-19 15:26,20/05/2024 02:10,software,License Issue,Medium,Reopened,Priya Nair,Sales,24,No,
+TCK10237,03-30-2024 23:21,31/03/2024 03:10,E-mail,Spam/Phishing Report,Medium,Resolved,Arjun Reddy,Sales,24,No,2
+TCK10113,2024-06-18 17:40,2024-06-21 04:31,SW,Application Crash,Medium,Resolved,Priya Nair,Finance,24,Yes,
+TCK10660,2024-04-13 19:40,2024-04-15 00:50,Email,Spam/Phishing Report,Low,Closed,Rohan Mehta,Procurement,48,No,3
+TCK11495,12/02/2024 01:51,2024-02-14 19:34,network,WiFi Issue,Low,Reopened,Divya Menon,Sales,48,Yes,
+TCK10291,2024-01-20 09:08,,ACC,New Access Request,Medium,In Progress,Meera Pillai,Operations,24,,
+TCK11457,2024-05-20 08:26,2024-05-20 09:34,Hard ware,Docking Station,High,Resolved,Priya Nair,Legal,8,No,2
+TCK11184,2024-01-29 21:05,01-30-2024 00:05,NW,WiFi Issue,Low,Closed,Priya Nair,Procurement,48,No,2
+TCK10504,2024-06-28 02:11,06-28-2024 07:35,email,Distribution List Issue,High,Resolved,Priya Nair,Finance,8,No,3
+TCK11529,2024-02-10 21:30,2024-02-12 07:48,hardware,Printer Issue,Medium,Resolved,Ananya Das,Operations,24,Yes,
+TCK11270,02-27-2024 04:02,27/02/2024 11:04,software,License Issue,Medium,Resolved,,IT,24,No,2
+TCK10895,20/05/2024 05:17,20/05/2024 06:39,Network,VPN Connectivity,Low,Closed,Ananya Das,HR,48,No,1
+TCK10136,2024-05-13 00:17,2024-05-13 05:24,Netwrok,WiFi Issue,High,Resolved,Sneha Iyer,Procurement,8,No,2
+TCK11600,25-May-2024 18:06,25-May-2024 21:36,Hardware ,Laptop Issue,Critical,Closed,Arjun Reddy,Operations,4,No,
+TCK10907,09/02/2024 08:07,2024-02-10 00:02,Network ,DNS Issue,Medium,Resolved,Rohan Mehta,Finance,24,No,2
+TCK10797,2024-05-28 19:54,29/05/2024 00:45,Netwrok,VPN Connectivity,Medium,Closed,Kiran Rao,Procurement,24,No,4
+TCK10041,25-Mar-2024 15:08,26/03/2024 20:12,email,Outlook Crash,Low,Closed,Divya Menon,Procurement,48,No,2
+TCK10967,12/01/2024 19:39,2024-01-13 12:13,Software,Software Installation,Medium,Resolved,Aarav Sharma,Sales,24,No,3
+TCK10816,2024-05-16 00:25,16/05/2024 18:55,Hardware,Monitor Not Working,Medium,Closed,Priya Nair,Finance,24,No,2
+TCK11549,2024-04-15 12:36,04-15-2024 15:48,Network ,WiFi Issue,High,Resolved,Aarav Sharma,Finance,8,No,5
+TCK10934,2024-01-27 19:29,2024-01-28 02:22,EMAIL,Email Not Syncing,Medium,Closed,Sneha Iyer,HR,24,No,4
+TCK10722,06-28-2024 05:45,06-30-2024 13:28,Software,Compatibility Issue,Medium,Resolved,Aarav Sharma,Procurement,24,Yes,5
+TCK11130,05-16-2024 07:46,16-May-2024 13:49,Access,,Medium,Resolved,Sneha Iyer,Legal,24,No,5
+TCK10784,2024-01-04 04:33,05/01/2024 02:14,Hardware,Laptop Issue,Low,Closed,Meera Pillai,Finance,48,No,
+TCK11234,2024-03-23 12:06,2024-03-23 19:53,Emial,Spam/Phishing Report,Critical,Resolved,Vikram Singh,Sales,4,Yes,2
+TCK10788,2024-04-22 04:59,22/04/2024 19:43,EMAIL,Email Not Syncing,High,Resolved,Sneha Iyer,Marketing,8,Yes,5
+TCK10078,2024-06-10 06:16,11-Jun-2024 05:26,Network ,DNS Issue,High,Resolved,Rohan Mehta,Marketing,8,Yes,
+TCK11199,2024-06-05 15:02,06-10-2024 13:59,Network,LAN Down,Low,Resolved,Vikram Singh,Finance,48,Yes,1
+TCK10801,2024-03-22 21:29,2024-03-23 03:26,Email,Distribution List Issue,High,Closed,Aarav Sharma,Procurement,8,No,4
+TCK10249,16-May-2024 20:07,,Network,VPN Connectivity,Low,Open,Divya Menon,Marketing,48,,
+TCK10333,2024-02-21 03:08,2024-02-21 06:09,Hard ware,Printer Issue,High,Closed,Ananya Das,Finance,8,No,5
+TCK11532,2024-03-21 09:00,03-22-2024 02:56,Acess,New Access Request,High,Resolved,Meera Pillai,Sales,8,Yes,4
+TCK10810,02-12-2024 11:36,,Software ,Application Crash,High,Open,Sneha Iyer,Procurement,8,,
+TCK10437,2024-03-01 14:41,2024-03-01 19:25,E-mail,Email Not Syncing,Medium,Closed,Ananya Das,Procurement,24,No,
+TCK10277,2024-02-13 04:17,13-Feb-2024 07:58,email,Mailbox Full,High,Closed,Sneha Iyer,Operations,8,No,
+TCK10398,23/03/2024 05:50,23/03/2024 13:36,Email,Email Not Syncing,Medium,Resolved,Divya Menon,HR,24,No,3
+TCK11649,2024-04-21 14:32,22/04/2024 03:19,Hardware ,Printer Issue,Medium,Closed,Arjun Reddy,Legal,24,No,4
+TCK11371,2024-03-15 22:35,19/03/2024 11:48,hardware,Docking Station,Low,Resolved,Arjun Reddy,Legal,48,Yes,3
+TCK10527,29/05/2024 03:08,2024-05-30 00:31,Acess,MFA Issue,Low,Closed,Meera Pillai,Sales,48,No,1
+TCK11334,28-Apr-2024 20:30,,ACC,MFA Issue,Low,In Progress,Meera Pillai,Legal,48,,
+TCK10348,2024-02-23 13:57,,Software,Software Installation,Low,In Progress,Sneha Iyer,Legal,48,,
+TCK11391,2024-02-23 01:11,2024-02-23 08:41,Netwrok,VPN Connectivity,Critical,Resolved,Priya Nair,Legal,4,Yes,1
+TCK10065,2024-01-30 21:33,2024-01-31 08:47,Hardware ,Laptop Issue,Medium,Closed,Arjun Reddy,Procurement,24,No,2
+TCK11632,2024-06-29 17:15,,SW,License Issue,High,Open,Priya Nair,HR,8,,
+TCK10954,2024-02-16 11:17,2024-02-17 10:05,Softwear,License Issue,High,Resolved,Rohan Mehta,Sales,8,Yes,2
+TCK10721,2024-02-03 02:30,2024-02-03 22:17,Network,Slow Internet,Medium,Resolved,Ananya Das,Finance,24,No,3
+TCK10751,03-23-2024 13:46,03-24-2024 03:09,E-mail,Distribution List Issue,Low,Resolved,Sneha Iyer,Finance,48,No,3
+TCK11125,16/02/2024 20:54,2024-02-16 23:34,Hardware ,Keyboard/Mouse,High,Closed,Divya Menon,Procurement,8,No,2
+TCK11380,2024-05-13 17:31,,Network ,Slow Internet,Medium,Open,Aarav Sharma,Marketing,24,,
+TCK11638,2024-03-01 13:50,2024-03-02 06:09,Hardware,Docking Station,Medium,Closed,Vikram Singh,Finance,24,No,5
+TCK11121,24-Jan-2024 12:15,2024-01-29 07:06,Software,Application Crash,Low,Resolved,Kiran Rao,Finance,48,Yes,4
+TCK10588,2024-01-27 18:03,29/01/2024 11:58,hardware,,Low,Resolved,Aarav Sharma,Procurement,48,No,3
+TCK11543,2024-03-28 20:06,,Netwrok,WiFi Issue,Low,Open,Kiran Rao,HR,48,,
+TCK10015,2024-03-20 19:52,21-Mar-2024 10:34,Hardware,,Medium,Closed,Aarav Sharma,Legal,24,No,
+TCK10218,07/03/2024 17:10,,EMAIL,Email Not Syncing,Low,In Progress,,Legal,48,,
+TCK11147,2024-02-12 19:18,2024-02-13 07:12,NW,Slow Internet,Low,Closed,Arjun Reddy,HR,48,No,1
+TCK11618,2024-06-08 09:01,2024-06-08 15:04,Hardware,Keyboard/Mouse,High,Resolved,Meera Pillai,Finance,8,No,5
+TCK10917,2024-02-02 20:35,,HW,Printer Issue,High,Open,Ananya Das,Marketing,8,,
+TCK10083,2024-03-27 08:25,29/03/2024 22:17,Network,LAN Down,Low,Reopened,Ananya Das,Marketing,48,Yes,
+TCK11430,21-Mar-2024 05:40,2024-03-22 00:25,software,Compatibility Issue,Medium,Closed,Priya Nair,Operations,24,No,3
+TCK10694,2024-03-16 08:53,17/03/2024 00:58,Hard ware,Docking Station,low,Reopened,Arjun Reddy,IT,48,No,
+TCK10994,25/06/2024 12:09,,SW,Update Failure,Medium,In Progress,Vikram Singh,Sales,24,,
+TCK10406,15-Mar-2024 05:12,16/03/2024 18:58,Netwrok,WiFi Issue,Low,Closed,Sneha Iyer,HR,48,No,4
+TCK11097,2024-01-08 15:31,,NW,DNS Issue,High,Open,Aarav Sharma,HR,8,,
+TCK10248,2024-02-12 11:43,13/02/2024 02:23,Hardware,Laptop Issue,Low,Resolved,Arjun Reddy,Marketing,48,No,
+TCK11005,2024-04-13 12:41,2024-04-15 05:37,Emial,Distribution List Issue,Low,Resolved,Sneha Iyer,Finance,48,No,
+TCK10986,2024-02-10 00:42,10-Feb-2024 04:46,email,Spam/Phishing Report,High,Resolved,Aarav Sharma,HR,8,No,5
+TCK10515,2024-02-06 14:05,,software,Compatibility Issue,Low,In Progress,Ananya Das,Finance,48,,
+TCK10787,2024-06-02 12:02,2024-06-07 19:37,Access,Password Reset,Low,Resolved,Sneha Iyer,Legal,48,Yes,2
+TCK11298,2024-05-01 21:50,2024-05-03 00:24,Access,MFA Issue,Low,Closed,Ananya Das,Legal,48,No,5
+TCK11205,05-09-2024 02:18,2024-05-09 03:36,Hardware,Laptop Issue,Critical,Reopened,Priya Nair,Marketing,4,No,
+TCK11221,2024-06-20 19:30,2024-06-23 23:17,Netwrok,VPN Connectivity,Low,Resolved,,HR,48,Yes,
+TCK11566,22/06/2024 00:52,2024-06-22 06:05,Network ,DNS Issue,Medium,Reopened,Kiran Rao,Sales,24,No,
+TCK10416,2024-04-23 16:23,2024-04-23 22:39,Hard ware,Laptop Issue,Low,Reopened,Kiran Rao,HR,48,No,
+TCK10266,2024-06-03 02:41,04/06/2024 00:10,NW,VPN Connectivity,Low,Resolved,Aarav Sharma,IT,48,No,2
+TCK10317,2024-03-13 19:25,2024-03-13 23:11,Network,DNS Issue,High,Closed,Vikram Singh,Marketing,8,No,5
+TCK10963,2024-03-02 00:43,02/03/2024 07:25,network,DNS Issue,High,Closed,Meera Pillai,Procurement,8,No,2
+TCK11261,2024-01-08 02:01,2024-01-11 09:37,Netwrok,VPN Connectivity,Low,Closed,Sneha Iyer,Sales,48,Yes,
+TCK10228,2024-03-24 08:47,2024-03-25 15:42,Network,VPN Connectivity,Low,Resolved,Aarav Sharma,Procurement,48,No,5
+TCK11049,2024-06-20 15:51,2024-06-20 22:02,Hardware,Keyboard/Mouse,High,Resolved,Ananya Das,Sales,8,No,4
+TCK11414,2024-04-11 12:23,2024-04-12 00:44,E-mail,Distribution List Issue,Medium,Closed,Sneha Iyer,IT,24,No,3
+TCK11132,2024-02-15 02:21,2024-02-15 18:36,EMAIL,Email Not Syncing,Medium,Resolved,Sneha Iyer,Sales,24,No,1
+TCK10057,20/03/2024 07:49,2024-03-20 20:45,Software ,Application Crash,Low,Closed,Divya Menon,Procurement,48,No,1
+TCK10874,2024-05-30 00:47,2024-05-30 10:52,Software ,Update Failure,Medium,Resolved,Sneha Iyer,Procurement,24,No,
+TCK10217,2024-02-29 07:46,2024-03-02 05:44,network,VPN Connectivity,Medium,Closed,Aarav Sharma,IT,24,Yes,4
+TCK10851,31/05/2024 19:33,,Software,Application Crash,Low,In Progress,Ananya Das,Legal,48,,
+TCK10230,2024-02-04 18:01,02-05-2024 02:37,ACC,Permission Issue,Critical,Reopened,Divya Menon,Legal,4,Yes,
+TCK11433,2024-06-20 03:11,,Netwrok,LAN Down,Medium,In Progress,Sneha Iyer,HR,24,,
+TCK10465,2024-01-15 16:51,2024-01-17 07:51,NW,Slow Internet,Medium,Closed,Meera Pillai,Marketing,24,Yes,3
+TCK10116,16/01/2024 09:13,16-Jan-2024 16:06,Acess,MFA Issue,Low,Resolved,Vikram Singh,Legal,48,No,1
+TCK11227,2024-04-28 19:04,2024-04-29 05:29,Software,License Issue,Critical,Resolved,Vikram Singh,IT,4,Yes,1
+TCK10959,04/05/2024 16:06,05/05/2024 22:52,access,New Access Request,Low,Closed,Divya Menon,Marketing,48,No,3
+TCK10282,2024-02-02 17:45,02/02/2024 23:31,ACC,Account Locked,High,Closed,Priya Nair,Legal,8,No,
+TCK10966,2024-02-05 11:22,05/02/2024 13:30,software,License Issue,High,Closed,Kiran Rao,Sales,8,No,5
+TCK10395,19/04/2024 16:41,2024-04-20 02:36,Network ,VPN Connectivity,Low,Resolved,Divya Menon,Legal,48,No,4
+TCK11071,2024-06-18 08:00,2024-06-19 15:52,HW,Docking Station,Low,Reopened,Sneha Iyer,Procurement,48,No,
+TCK10909,02/02/2024 00:06,02-Feb-2024 03:55,Software,Compatibility Issue,Low,Closed,Priya Nair,Procurement,48,No,4
+TCK11385,2024-06-02 12:00,2024-06-04 01:27,ACC,Account Locked,Low,Reopened,Kiran Rao,Sales,48,No,
+TCK11083,05-23-2024 06:40,,Acess,Permission Issue,Low,In Progress,Sneha Iyer,Sales,48,,
+TCK11144,2024-06-06 16:09,10-Jun-2024 14:25,EMAIL,Email Not Syncing,Low,Reopened,Ananya Das,Operations,48,Yes,
+TCK10341,2024-04-03 14:51,,EMAIL,Spam/Phishing Report,Critical,In Progress,Sneha Iyer,Finance,4,,
+TCK10968,02-08-2024 07:55,2024-02-09 09:58,Access,Permission Issue,Low,Resolved,Aarav Sharma,Legal,48,No,
+TCK10047,22/03/2024 13:36,,Hard ware,Printer Issue,Low,In Progress,Aarav Sharma,Marketing,48,,
+TCK10245,02-16-2024 19:51,2024-02-22 12:18,software,Application Crash,Low,Resolved,,IT,48,Yes,5
+TCK10340,2024-05-08 00:59,05-09-2024 12:49,Emial,Email Not Syncing,Low,Resolved,Divya Menon,Legal,48,No,5
+TCK11086,2024-02-01 00:49,2024-02-01 02:24,Acess,Permission Issue,Critical,Closed,,Procurement,4,No,5
+TCK10692,2024-03-07 15:32,2024-03-08 23:28,Software ,Compatibility Issue,Low,Resolved,Vikram Singh,Legal,48,No,
+TCK10458,25/04/2024 15:26,25-Apr-2024 17:28,HW,Laptop Issue,Critical,Reopened,Divya Menon,IT,4,No,
+TCK10698,23/03/2024 00:42,2024-03-25 13:39,Software,Compatibility Issue,Medium,Closed,Ananya Das,Operations,24,Yes,3
+TCK10897,2024-06-25 06:01,25-Jun-2024 14:35,Access ,New Access Request,Medium,Closed,Divya Menon,Marketing,24,No,
+TCK10422,27/02/2024 22:50,28-Feb-2024 00:04,Software,Compatibility Issue,High,Resolved,Priya Nair,Operations,8,No,5
+TCK10158,2024-02-12 21:13,13/02/2024 00:57,Network,LAN Down,Medium,Resolved,Vikram Singh,Legal,24,No,
+TCK10247,2024-02-06 13:13,,Emial,Spam/Phishing Report,Medium,In Progress,Arjun Reddy,Procurement,24,,
+TCK11288,04-07-2024 00:34,2024-04-07 02:19,hardware,Keyboard/Mouse,High,Closed,Priya Nair,Finance,8,No,4
+TCK10020,08/01/2024 17:12,2024-01-09 06:01,Hard ware,Monitor Not Working,Medium,Closed,Meera Pillai,IT,24,No,
+TCK10747,2024-03-06 17:00,,Hardware,Docking Station,High,Open,Aarav Sharma,HR,8,,
+TCK10674,2024-04-17 08:28,2024-04-17 18:45,HW,Docking Station,Medium,Closed,Sneha Iyer,Procurement,24,No,1
+TCK11073,2024-02-24 16:32,2024-03-01 09:08,NW,DNS Issue,Low,Resolved,Vikram Singh,Marketing,48,Yes,
+TCK11481,2024-06-02 21:57,,Network ,DNS Issue,Low,Open,Meera Pillai,Finance,48,,
+TCK11303,07/02/2024 18:45,2024-02-08 12:15,Netwrok,WiFi Issue,High,Closed,Sneha Iyer,Operations,8,Yes,1
+TCK10584,2024-06-15 21:22,,NW,WiFi Issue,Low,Open,Aarav Sharma,Finance,48,,
+TCK11328,2024-02-03 20:26,04/02/2024 11:04,EMAIL,Email Not Syncing,Low,Resolved,Ananya Das,Procurement,48,No,
+TCK11192,06-11-2024 02:27,11/06/2024 03:53,Emial,Spam/Phishing Report,Critical,Closed,Aarav Sharma,IT,4,No,
+TCK11546,2024-05-08 22:50,,access,MFA Issue,High,In Progress,Priya Nair,Legal,8,,
+TCK10530,2024-06-14 14:40,2024-06-14 15:52,Access,Permission Issue,Medium,Resolved,Arjun Reddy,Operations,24,No,
+TCK11040,14-Mar-2024 05:15,2024-03-14 07:57,SW,Update Failure,Medium,Resolved,Vikram Singh,Operations,24,No,4
+TCK11526,2024-02-05 04:19,05-Feb-2024 23:14,E-mail,Outlook Crash,Medium,Resolved,Priya Nair,IT,24,No,2
+TCK11264,2024-02-19 07:51,,Software,Software Installation,High,Open,Sneha Iyer,Legal,8,,
+TCK11465,2024-01-10 03:11,10-Jan-2024 03:49,Email,Outlook Crash,Low,Resolved,Aarav Sharma,IT,48,No,
+TCK11401,11/01/2024 09:16,,NW,LAN Down,Low,In Progress,Priya Nair,Marketing,48,,
+TCK10727,2024-01-21 22:45,,Access ,Permission Issue,Low,In Progress,Priya Nair,Marketing,48,,
+TCK10319,2024-01-08 08:33,2024-01-08 14:23,Software,Update Failure,High,Resolved,Ananya Das,IT,8,No,3
+TCK10795,27/05/2024 18:20,2024-05-29 01:58,Hard ware,Laptop Issue,Medium,Resolved,Sneha Iyer,IT,24,Yes,1
+TCK11291,06-29-2024 00:37,2024-06-29 15:53,Emial,Outlook Crash,Medium,Reopened,Meera Pillai,IT,24,No,
+TCK10215,2024-06-02 01:45,2024-06-02 02:35,email,Distribution List Issue,High,Resolved,Arjun Reddy,Procurement,8,No,1
+TCK10094,2024-06-17 21:51,18/06/2024 01:19,NW,LAN Down,Low,Resolved,,Finance,48,No,
+TCK10850,2024-01-26 03:20,2024-01-26 04:35,Email,Distribution List Issue,Medium,Resolved,Vikram Singh,Legal,24,No,4
+TCK11137,04-11-2024 05:14,2024-04-15 01:30,EMAIL,Spam/Phishing Report,Low,Resolved,Aarav Sharma,Finance,48,Yes,
+TCK11336,2024-01-28 02:44,2024-01-28 08:14,Acess,Permission Issue,High,Resolved,Priya Nair,Legal,8,No,1
+TCK10956,01-Apr-2024 07:20,,Hardware,Keyboard/Mouse,High,Open,Aarav Sharma,Legal,8,,
+TCK11208,04-16-2024 14:13,04-17-2024 07:19,Emial,Email Not Syncing,High,Reopened,Vikram Singh,Finance,8,Yes,
+TCK10203,2024-05-14 15:38,2024-05-15 17:36,SW,Application Crash,Low,Resolved,Kiran Rao,Procurement,48,No,
+TCK11017,2024-02-18 07:01,20/02/2024 00:13,NW,LAN Down,Medium,Resolved,Vikram Singh,HR,24,Yes,2
+TCK11413,2024-05-17 15:59,2024-05-18 15:52,ACC,New Access Request,High,Resolved,Rohan Mehta,Procurement,8,Yes,5
+TCK10220,2024-02-01 20:50,2024-02-02 10:35,Emial,Email Not Syncing,Medium,Resolved,Sneha Iyer,,24,No,
+TCK10493,11/05/2024 00:06,2024-05-11 01:47,Network,DNS Issue,Critical,Resolved,Aarav Sharma,Marketing,4,No,2
+TCK10240,06-06-2024 19:40,09/06/2024 18:30,Hard ware,Docking Station,Low,Resolved,Arjun Reddy,Finance,48,Yes,
+TCK10973,28/04/2024 11:22,2024-04-28 15:20,Softwear,Software Installation,High,Closed,Ananya Das,Legal,8,No,
+TCK10610,17-Apr-2024 09:43,2024-04-18 03:37,HW,Laptop Issue,Low,Resolved,Meera Pillai,Operations,48,No,5
+TCK11623,03-Apr-2024 17:38,05-Apr-2024 10:54,Software ,Application Crash,Low,Closed,Priya Nair,Operations,48,No,5
+TCK10028,2024-06-01 21:25,2024-06-01 23:35,Netwrok,WiFi Issue,Low,Closed,Priya Nair,Procurement,48,No,3
+TCK10067,2024-06-11 14:55,2024-06-12 07:09,Network,LAN Down,High,Closed,Ananya Das,Marketing,8,Yes,3
+TCK10710,2024-02-20 14:49,2024-02-22 11:28,EMAIL,Email Not Syncing,Medium,Resolved,Rohan Mehta,Legal,24,Yes,
+TCK10184,15-Feb-2024 01:52,,E-mail,Email Not Syncing,Low,In Progress,Sneha Iyer,,48,,
+TCK11578,07/04/2024 14:32,,Netwrok,Slow Internet,Medium,In Progress,Meera Pillai,Sales,24,,
+TCK10102,27-May-2024 09:54,2024-05-28 19:24,software,Compatibility Issue,Low,Closed,Divya Menon,Procurement,48,No,
+TCK11238,2024-01-18 08:33,18/01/2024 10:33,software,Software Installation,Medium,Closed,Ananya Das,Marketing,24,No,4
+TCK11276,28/06/2024 09:20,,Software ,License Issue,Medium,In Progress,Rohan Mehta,IT,24,,
+TCK11213,15/06/2024 05:54,,E-mail,Mailbox Full,Low,Open,Divya Menon,Operations,48,,
+TCK11579,2024-05-02 12:46,,Softwear,Application Crash,Low,In Progress,Kiran Rao,Finance,48,,
+TCK10915,05/04/2024 04:57,2024-04-05 19:07,Hardware ,Docking Station,Medium,Resolved,Aarav Sharma,Marketing,24,No,1
+TCK11218,09/02/2024 13:57,2024-02-10 22:46,Hardware,Keyboard/Mouse,Medium,Resolved,Kiran Rao,Sales,24,Yes,4
+TCK10216,24/03/2024 01:41,24/03/2024 02:35,Acess,Password Reset,Critical,Resolved,Priya Nair,Operations,4,No,1
+TCK10413,2024-05-30 17:25,2024-05-31 01:56,Netwrok,WiFi Issue,Medium,Resolved,Vikram Singh,Sales,24,No,5
+TCK11411,30-May-2024 02:52,05-31-2024 11:28,Hardware,Laptop Issue,Low,Reopened,Aarav Sharma,Operations,48,No,
+TCK10128,2024-02-20 13:02,21/02/2024 15:39,Access ,Password Reset,Low,Closed,,IT,48,No,1
+TCK10335,11/03/2024 08:04,2024-03-16 01:10,network,,Low,Closed,Sneha Iyer,Finance,48,Yes,4
+TCK10415,2024-04-29 01:24,,Netwrok,WiFi Issue,Medium,Open,Vikram Singh,HR,24,,
+TCK10120,06-Mar-2024 17:44,,network,VPN Connectivity,Medium,In Progress,Priya Nair,Procurement,24,,
+TCK10109,11/02/2024 14:12,14-Feb-2024 12:31,HW,Printer Issue,Low,Resolved,Priya Nair,Operations,48,Yes,
+TCK10789,2024-06-01 07:00,06-04-2024 03:12,Software ,Application Crash,Medium,Resolved,Priya Nair,Marketing,24,Yes,2
+TCK11035,02-12-2024 09:41,2024-02-13 15:22,Software ,Update Failure,Low,Reopened,Sneha Iyer,HR,48,No,
+TCK11315,02-29-2024 13:59,2024-03-01 18:07,Hardware,Laptop Issue,Low,Resolved,,HR,48,No,
+TCK11496,2024-05-10 04:04,,NW,WiFi Issue,Low,Open,Ananya Das,HR,48,,
+TCK11462,24-Feb-2024 03:07,02-25-2024 19:05,Network,LAN Down,Low,Closed,Divya Menon,Finance,48,No,4
+TCK10206,2024-05-30 00:19,,network,Slow Internet,Medium,In Progress,Ananya Das,Finance,24,,
+TCK10292,2024-06-21 21:03,2024-06-22 15:56,Access,Password Reset,High,Resolved,Sneha Iyer,Procurement,8,Yes,5
+TCK11018,2024-02-03 09:50,,Netwrok,LAN Down,High,In Progress,Arjun Reddy,Marketing,8,,
+TCK10491,27/01/2024 22:02,,Email,Outlook Crash,Medium,Open,Sneha Iyer,Marketing,24,,
+TCK10009,07/03/2024 01:19,07-Mar-2024 04:52,Hard ware,Printer Issue,High,Resolved,Meera Pillai,Operations,8,No,5
+TCK10869,18-May-2024 10:04,2024-05-18 16:08,Network ,DNS Issue,High,Resolved,Divya Menon,Legal,8,No,
+TCK11558,15/06/2024 13:36,2024-06-16 01:33,Softwear,Update Failure,Critical,Resolved,Meera Pillai,Legal,4,Yes,
+TCK11252,2024-06-10 12:15,2024-06-10 19:55,NW,WiFi Issue,Medium,Closed,Vikram Singh,Operations,24,No,2
+TCK11603,2024-02-02 09:55,,Hard ware,Docking Station,Medium,In Progress,Kiran Rao,Sales,24,,
+TCK10105,2024-01-30 07:03,01-31-2024 00:40,SW,Compatibility Issue,Medium,Reopened,,Finance,24,No,
+TCK10823,29/03/2024 08:34,2024-03-31 02:48,Network ,VPN Connectivity,Medium,Closed,Aarav Sharma,HR,24,Yes,4
+TCK11451,2024-06-22 19:08,,Hardware,Docking Station,low,Open,Arjun Reddy,Sales,48,,
+TCK10243,2024-03-15 06:34,,email,Distribution List Issue,High,In Progress,Sneha Iyer,Procurement,8,,
+TCK10061,2024-02-04 00:26,2024-02-04 07:05,Network ,,High,Closed,Ananya Das,,8,No,1
+TCK10507,2024-06-18 18:32,18/06/2024 21:47,NW,LAN Down,Critical,Closed,Sneha Iyer,Procurement,4,No,3
+TCK10382,2024-01-31 02:28,2024-02-04 08:39,Emial,Spam/Phishing Report,low,Resolved,Divya Menon,Legal,48,Yes,
+TCK11488,03-30-2024 22:16,2024-04-02 14:00,Software,License Issue,Low,Closed,Rohan Mehta,Finance,48,Yes,
+TCK10169,2024-03-02 21:24,2024-03-02 23:55,HW,Keyboard/Mouse,High,Closed,Ananya Das,IT,8,No,
+TCK10572,2024-03-23 12:14,03-24-2024 19:29,Hardware,Docking Station,Low,Resolved,Sneha Iyer,Finance,48,No,
+TCK11536,10/01/2024 14:36,,Email,Email Not Syncing,Medium,Open,Kiran Rao,Sales,24,,
+TCK11345,2024-06-17 05:58,17/06/2024 07:18,Software,Software Installation,High,Resolved,Meera Pillai,Legal,8,No,4
+TCK10402,12/04/2024 07:03,12/04/2024 09:27,Hardware ,Docking Station,high,Resolved,Vikram Singh,Sales,8,No,4
+TCK10637,2024-05-14 19:55,2024-05-15 17:02,software,Software Installation,Medium,Resolved,Aarav Sharma,IT,24,No,
+TCK10760,04/05/2024 18:03,2024-05-08 20:45,Network,WiFi Issue,Low,Resolved,Arjun Reddy,Procurement,48,Yes,5
+TCK10330,16/02/2024 09:15,,ACC,MFA Issue,Low,In Progress,Arjun Reddy,HR,48,,
+TCK10187,2024-04-18 03:44,2024-04-18 04:47,Software,Software Installation,Medium,Closed,Aarav Sharma,Marketing,24,No,
+TCK10373,2024-02-05 10:04,2024-02-05 13:37,Netwrok,WiFi Issue,High,Resolved,Divya Menon,Procurement,8,No,2
+TCK10090,2024-02-14 08:51,16/02/2024 05:26,email,Outlook Crash,Medium,Resolved,Rohan Mehta,Marketing,24,Yes,
+TCK10207,09-Jan-2024 01:55,,E-mail,Distribution List Issue,High,In Progress,Kiran Rao,IT,8,,
+TCK10202,17/05/2024 02:08,,Access ,Account Locked,High,In Progress,Meera Pillai,Finance,8,,
+TCK10712,02-18-2024 01:25,2024-02-18 02:15,Acess,Password Reset,Critical,Resolved,Aarav Sharma,Finance,4,No,3
+TCK10038,2024-02-23 07:43,2024-02-23 13:09,Network ,Slow Internet,Medium,Resolved,Meera Pillai,Finance,24,No,2
+TCK10532,05-28-2024 20:00,2024-05-28 21:06,EMAIL,Distribution List Issue,Medium,Reopened,Arjun Reddy,,24,No,
+TCK10179,2024-06-07 07:10,08-Jun-2024 13:10,software,Compatibility Issue,Medium,Resolved,Kiran Rao,IT,24,Yes,
+TCK10830,25/01/2024 17:08,2024-01-28 11:34,network,DNS Issue,Medium,Closed,Arjun Reddy,HR,24,Yes,4
+TCK10048,05-06-2024 07:21,2024-05-07 00:19,Softwear,Software Installation,High,Resolved,Kiran Rao,Operations,8,Yes,3
+TCK11100,18-Apr-2024 06:59,2024-04-18 22:12,software,Application Crash,Medium,Resolved,Aarav Sharma,IT,24,No,2
+TCK10860,2024-03-07 04:54,07/03/2024 11:12,Network ,WiFi Issue,High,Closed,Meera Pillai,Sales,8,No,
+TCK11565,2024-04-28 18:25,,Access ,Permission Issue,High,Open,Ananya Das,Finance,8,,
+TCK10568,05-26-2024 03:10,05-26-2024 16:25,Softwear,Update Failure,Low,Reopened,Divya Menon,Operations,48,No,
+TCK11059,2024-03-18 10:55,18/03/2024 21:56,ACC,New Access Request,Low,Resolved,Ananya Das,Marketing,48,No,4
+TCK11082,02-06-2024 22:47,2024-02-07 01:26,ACC,MFA Issue,Critical,Resolved,Meera Pillai,Marketing,4,No,
+TCK10133,2024-02-01 10:49,02-Feb-2024 02:05,Hard ware,Monitor Not Working,Low,Resolved,Meera Pillai,Finance,48,No,3
+TCK11483,2024-06-27 14:21,28/06/2024 00:21,Hardware ,Docking Station,High,Resolved,Kiran Rao,Operations,8,Yes,3
+TCK10367,2024-03-18 02:12,20/03/2024 16:29,Access ,Password Reset,Low,Closed,Aarav Sharma,Legal,48,Yes,3
+TCK11030,2024-01-11 06:51,11-Jan-2024 07:43,E-mail,Email Not Syncing,Critical,Closed,Vikram Singh,Legal,4,No,
+TCK11025,2024-01-15 23:02,16-Jan-2024 17:40,network,LAN Down,Medium,Reopened,Rohan Mehta,HR,24,No,
+TCK10589,05-09-2024 03:06,11/05/2024 05:39,NW,Slow Internet,Medium,Resolved,Priya Nair,Legal,24,Yes,4
+TCK11202,04-May-2024 18:23,2024-05-05 22:27,Access ,Permission Issue,Medium,Resolved,Ananya Das,Sales,24,Yes,
+TCK11387,14/06/2024 21:16,2024-06-15 11:11,Netwrok,Slow Internet,High,Closed,Aarav Sharma,Marketing,8,Yes,5
+TCK10691,12/02/2024 19:01,13/02/2024 01:54,SW,Update Failure,High,Closed,Vikram Singh,Procurement,8,No,1
+TCK10462,2024-05-11 14:23,12/05/2024 02:26,Software ,Software Installation,Medium,Closed,Arjun Reddy,Sales,24,No,4
+TCK10629,2024-04-08 19:38,2024-04-10 03:04,email,Distribution List Issue,Low,Resolved,Rohan Mehta,Sales,48,No,1
+TCK10479,11-Apr-2024 13:45,11/04/2024 17:56,software,Software Installation,Medium,Closed,Ananya Das,Procurement,24,No,5
+TCK10879,2024-03-23 20:31,24-Mar-2024 02:05,Emial,Distribution List Issue,High,Resolved,Aarav Sharma,IT,8,No,4
+TCK11370,2024-03-14 01:45,14/03/2024 04:01,EMAIL,Mailbox Full,High,Resolved,Aarav Sharma,Procurement,8,No,5
+TCK10006,30/05/2024 16:25,2024-05-31 13:27,email,Mailbox Full,High,Resolved,Aarav Sharma,Marketing,8,Yes,2
+TCK10511,2024-05-05 04:55,05-May-2024 07:16,access,Permission Issue,High,Resolved,Aarav Sharma,Marketing,8,No,5
+TCK10950,2024-02-12 06:48,2024-02-12 14:02,Access ,Permission Issue,Medium,Resolved,Aarav Sharma,Marketing,24,No,5
+TCK10301,2024-01-09 21:20,,Emial,Mailbox Full,High,Open,Kiran Rao,Legal,8,,
+TCK11088,01-13-2024 06:11,13-Jan-2024 07:26,SW,Compatibility Issue,Critical,Resolved,Vikram Singh,Marketing,4,No,
+TCK11646,2024-01-10 20:06,2024-01-12 08:31,ACC,Permission Issue,Low,Resolved,Rohan Mehta,IT,48,No,2
+TCK11128,2024-02-05 11:20,2024-02-09 21:21,access,Permission Issue,Low,Resolved,Divya Menon,Finance,48,Yes,1
+TCK11120,06/04/2024 03:48,2024-04-06 10:40,Software,Compatibility Issue,High,Resolved,Sneha Iyer,IT,8,No,5
+TCK10401,05/03/2024 10:39,2024-03-05 15:27,HW,Keyboard/Mouse,Medium,Resolved,Rohan Mehta,Procurement,24,No,5
+TCK11010,01-14-2024 16:06,,Hard ware,Docking Station,Medium,Open,Divya Menon,Marketing,24,,
+TCK11255,08-Jan-2024 14:44,,Softwear,License Issue,Critical,Open,Arjun Reddy,Finance,4,,
+TCK11455,2024-03-30 23:26,,Software,License Issue,Medium,Open,Divya Menon,HR,24,,
+TCK11374,02-01-2024 16:46,2024-02-04 03:46,SW,Compatibility Issue,Medium,Reopened,Priya Nair,Legal,24,Yes,
+TCK10604,2024-03-06 19:50,07/03/2024 18:10,Acess,Account Locked,High,Closed,Vikram Singh,HR,8,Yes,
+TCK10254,2024-03-09 04:51,03-09-2024 08:34,Softwear,Update Failure,High,Closed,Vikram Singh,IT,8,No,2
+TCK11570,2024-05-22 08:22,2024-05-24 22:55,Access ,New Access Request,low,Closed,Divya Menon,Sales,48,Yes,3
+TCK10181,2024-06-24 00:14,,Hard ware,Laptop Issue,Low,Open,Meera Pillai,Procurement,48,,
+TCK11317,2024-04-23 20:58,24-Apr-2024 00:31,Emial,Distribution List Issue,Medium,Closed,Divya Menon,IT,24,No,4
+TCK10580,2024-02-22 00:15,,Access ,New Access Request,Medium,Open,Sneha Iyer,Procurement,24,,
+TCK10567,2024-04-16 05:55,2024-04-16 09:06,NW,VPN Connectivity,High,Reopened,,Legal,8,No,
+TCK11416,2024-03-13 00:57,,Access ,Password Reset,Medium,In Progress,Kiran Rao,Marketing,24,,
+TCK11352,04-18-2024 23:39,04-20-2024 04:48,Netwrok,VPN Connectivity,Low,Resolved,Priya Nair,Legal,48,No,2
+TCK10819,15/04/2024 23:12,2024-04-16 02:09,Netwrok,Slow Internet,High,Resolved,Sneha Iyer,Marketing,8,No,5
+TCK10036,2024-05-15 03:11,05-15-2024 05:21,access,Account Locked,High,Closed,Kiran Rao,Procurement,8,No,
+TCK10353,2024-05-10 19:39,2024-05-11 19:50,network,LAN Down,Low,Closed,Rohan Mehta,IT,48,No,5
+TCK11178,2024-06-13 22:43,2024-06-14 16:11,Access ,Account Locked,Medium,Resolved,Ananya Das,Legal,24,No,
+TCK10526,2024-05-20 19:40,2024-05-21 16:07,Access,Account Locked,High,Closed,Divya Menon,Legal,8,Yes,3
+TCK10731,2024-01-12 21:54,2024-01-13 04:49,software,License Issue,Medium,Closed,Rohan Mehta,Marketing,24,No,
+TCK10336,2024-01-09 09:04,2024-01-09 15:19,email,Outlook Crash,Low,Resolved,Meera Pillai,HR,48,No,1
+TCK10730,2024-01-08 10:48,2024-01-08 17:32,software,Application Crash,Low,Resolved,Priya Nair,Sales,48,No,4
+TCK11539,07/02/2024 08:27,,Network ,Slow Internet,High,Open,Divya Menon,Sales,8,,
+TCK11512,21/03/2024 07:10,2024-03-21 17:41,hardware,Docking Station,Low,Closed,Rohan Mehta,Operations,48,No,5
+TCK11239,31/05/2024 11:17,05-31-2024 11:56,Network,VPN Connectivity,High,Resolved,Aarav Sharma,Marketing,8,No,2
+TCK10518,2024-06-02 23:54,06-03-2024 20:26,Access,Account Locked,Low,Closed,Aarav Sharma,Operations,48,No,
+TCK10887,2024-05-09 16:59,2024-05-10 07:45,SW,Software Installation,High,Closed,Kiran Rao,Finance,8,Yes,2
+TCK11305,07-Apr-2024 23:03,2024-04-08 15:19,E-mail,Email Not Syncing,Low,Resolved,Vikram Singh,Operations,48,No,4
+TCK10689,2024-02-07 21:07,13/02/2024 09:50,Access,Permission Issue,Low,Closed,Divya Menon,Sales,48,Yes,2
+TCK10178,05-20-2024 05:39,05-22-2024 12:01,EMAIL,Email Not Syncing,Low,Resolved,Vikram Singh,HR,48,Yes,1
+TCK10309,2024-01-20 21:35,2024-01-21 01:51,Email,Mailbox Full,High,Closed,Vikram Singh,Legal,8,No,2
+TCK10227,2024-05-16 05:13,2024-05-16 08:02,Software,Application Crash,High,Resolved,Arjun Reddy,Operations,8,No,2
+TCK10144,2024-06-03 17:08,,Network,Slow Internet,Medium,Open,Meera Pillai,Sales,24,,
+TCK11122,2024-03-13 19:14,2024-03-14 20:54,Hard ware,Printer Issue,Low,Resolved,Vikram Singh,Sales,48,No,
+TCK10775,08-Jan-2024 10:24,2024-01-11 04:28,Softwear,Application Crash,Low,Closed,Ananya Das,Legal,48,Yes,1
+TCK11544,2024-03-18 13:11,2024-03-20 00:15,Software,Update Failure,Low,Resolved,Vikram Singh,HR,48,No,2
+TCK11514,04-20-2024 13:31,,HW,Docking Station,Low,Open,Ananya Das,IT,48,,
+TCK10859,08/05/2024 03:28,2024-05-08 10:24,hardware,Monitor Not Working,Medium,Resolved,Sneha Iyer,,24,No,5
+TCK11487,2024-06-29 02:47,30-Jun-2024 01:27,Softwear,Compatibility Issue,Low,Reopened,Aarav Sharma,HR,48,No,
+TCK11622,2024-01-13 20:54,2024-01-14 00:43,Software,License Issue,High,Resolved,Divya Menon,Finance,8,No,5
+TCK10110,2024-06-19 04:17,,Emial,Email Not Syncing,Medium,In Progress,Priya Nair,Legal,24,,
+TCK10630,15/04/2024 01:54,,E-mail,Mailbox Full,Medium,In Progress,Priya Nair,Operations,24,,
+TCK10430,22/06/2024 05:17,,Softwear,Software Installation,Medium,Open,Meera Pillai,Procurement,24,,
+TCK10557,2024-04-01 01:08,02/04/2024 07:14,Network ,Slow Internet,Low,Resolved,Divya Menon,Legal,48,No,
+TCK10642,02-14-2024 16:42,2024-02-15 06:18,HW,Keyboard/Mouse,Medium,Closed,Kiran Rao,Legal,24,No,3
+TCK10482,21-Jun-2024 20:04,,ACC,New Access Request,Medium,In Progress,Aarav Sharma,Sales,24,,
+TCK10258,2024-02-10 04:28,02-10-2024 08:28,EMAIL,Spam/Phishing Report,Low,Resolved,Rohan Mehta,Legal,48,No,4
+TCK10299,2024-06-21 20:13,22-Jun-2024 10:53,Hard ware,Docking Station,Medium,Closed,Sneha Iyer,Sales,24,No,
+TCK10618,27/05/2024 06:29,2024-05-27 20:44,Access,Account Locked,High,Resolved,Vikram Singh,Operations,8,Yes,
+TCK10990,2024-03-14 19:03,,Email,Outlook Crash,Low,In Progress,Sneha Iyer,Finance,48,,
+TCK11159,17/03/2024 11:16,2024-03-17 12:48,Hard ware,Docking Station,High,Resolved,Arjun Reddy,Marketing,8,No,5
+TCK11026,05/06/2024 18:04,,EMAIL,Distribution List Issue,Low,In Progress,Rohan Mehta,Marketing,48,,
+TCK10622,2024-03-20 00:10,2024-03-20 03:48,HW,Keyboard/Mouse,High,Resolved,Divya Menon,IT,8,No,1
+TCK10592,02/01/2024 12:49,,E-mail,Mailbox Full,High,In Progress,Meera Pillai,HR,8,,
+TCK10223,2024-01-03 08:14,01-03-2024 19:02,Email,Distribution List Issue,High,Reopened,Ananya Das,Marketing,8,Yes,
+TCK10846,10/01/2024 23:54,11-Jan-2024 05:08,Network,VPN Connectivity,Medium,Closed,Meera Pillai,Operations,24,No,4
+TCK10075,2024-04-21 01:21,2024-04-22 07:42,Acess,Password Reset,Low,Resolved,Arjun Reddy,Legal,48,No,3
+TCK10031,05-Jun-2024 14:36,06/06/2024 06:46,Hardware ,Laptop Issue,Medium,Closed,Sneha Iyer,Finance,24,No,
+TCK10741,20/03/2024 07:00,,Hard ware,Printer Issue,high,Open,Rohan Mehta,Sales,8,,
+TCK10426,04-Feb-2024 22:25,,Access ,Permission Issue,medium,Open,Rohan Mehta,Operations,24,,
+TCK11309,27-Mar-2024 20:41,,Email,Spam/Phishing Report,High,Open,Aarav Sharma,Operations,8,,
+TCK10124,08/05/2024 08:06,2024-05-09 15:15,NW,VPN Connectivity,Low,Resolved,Kiran Rao,Procurement,48,No,1
+TCK11185,2024-04-03 12:24,04-Apr-2024 16:24,NW,DNS Issue,Low,Resolved,Ananya Das,Operations,48,No,
+TCK10327,2024-03-30 21:01,2024-03-31 13:13,network,LAN Down,High,Resolved,Vikram Singh,,8,Yes,
+TCK11357,04-12-2024 18:11,2024-04-12 23:02,EMAIL,Outlook Crash,High,Reopened,Ananya Das,Finance,8,No,
+TCK10165,18/02/2024 01:29,02-18-2024 03:15,Access ,Permission Issue,High,Closed,Divya Menon,Sales,8,No,
+TCK10957,2024-04-13 17:24,2024-04-14 11:22,Email,Distribution List Issue,Medium,Closed,Arjun Reddy,Sales,24,No,3
+TCK10970,2024-04-09 20:20,2024-04-10 02:25,access,New Access Request,Medium,Resolved,Sneha Iyer,Operations,24,No,
+TCK10601,2024-02-29 05:03,01/03/2024 02:18,Hard ware,Monitor Not Working,Low,Reopened,Priya Nair,Legal,48,No,
+TCK11278,05-09-2024 15:47,,Softwear,Software Installation,Low,Open,Kiran Rao,Legal,48,,
+TCK11619,2024-02-15 10:41,2024-02-16 07:28,ACC,MFA Issue,low,Resolved,Rohan Mehta,IT,48,No,
+TCK10553,06-28-2024 06:00,2024-06-28 07:13,email,Email Not Syncing,Critical,Closed,Kiran Rao,Operations,4,No,
+TCK11046,06-24-2024 04:02,24/06/2024 10:25,Netwrok,DNS Issue,High,Closed,Rohan Mehta,Sales,8,No,4
+TCK10289,2024-03-20 13:36,2024-03-21 00:34,Network ,WiFi Issue,Medium,Resolved,Meera Pillai,Marketing,24,No,2
+TCK11118,2024-04-21 17:51,2024-04-24 02:33,Emial,Email Not Syncing,Medium,Resolved,Rohan Mehta,Marketing,24,Yes,4
+TCK10838,10/03/2024 11:13,03-10-2024 17:13,ACC,Password Reset,Critical,Closed,Ananya Das,Finance,4,Yes,2
+TCK10906,2024-06-25 23:56,,hardware,Printer Issue,Low,Open,Ananya Das,Operations,48,,
+TCK11273,02-25-2024 06:48,,Software ,Application Crash,High,In Progress,Meera Pillai,Legal,8,,
+TCK10157,03/01/2024 05:17,03/01/2024 07:22,NW,DNS Issue,High,Resolved,Kiran Rao,HR,8,No,4
+TCK10566,01-02-2024 03:03,2024-01-02 16:41,Acess,New Access Request,Medium,Resolved,Meera Pillai,HR,24,No,2
+TCK10267,2024-01-18 08:06,19/01/2024 01:59,NW,Slow Internet,Medium,Resolved,Divya Menon,Marketing,24,No,
+TCK10313,25/04/2024 21:39,26/04/2024 06:44,Software,Software Installation,Critical,Resolved,Kiran Rao,Marketing,4,Yes,1
+TCK10820,2024-04-10 20:09,04-12-2024 14:26,EMAIL,Email Not Syncing,Low,Closed,Vikram Singh,HR,48,No,3
+TCK11604,08/06/2024 19:58,,Acess,MFA Issue,Low,In Progress,Aarav Sharma,Marketing,48,,
+TCK11432,2024-03-05 12:35,06/03/2024 13:03,hardware,Laptop Issue,Low,Resolved,Rohan Mehta,HR,48,No,1
+TCK10720,2024-03-28 02:52,2024-03-29 17:01,Software ,Compatibility Issue,Low,Reopened,Rohan Mehta,Finance,48,No,
+TCK10794,07-Mar-2024 13:36,2024-03-08 16:19,Emial,Email Not Syncing,Low,Reopened,Priya Nair,Operations,48,No,
+TCK10069,2024-04-24 14:26,2024-04-26 03:01,Softwear,Application Crash,Low,Resolved,Meera Pillai,Sales,48,No,
+TCK11441,11-Feb-2024 16:06,,Hardware,Printer Issue,Low,Open,Meera Pillai,Marketing,48,,
+TCK10857,10/02/2024 22:15,2024-02-11 04:02,email,Mailbox Full,High,Resolved,Rohan Mehta,Procurement,8,No,
+TCK10803,2024-01-08 14:18,01-08-2024 17:57,Access,MFA Issue,High,Resolved,Sneha Iyer,Operations,8,No,3
+TCK11044,05-04-2024 08:34,05-05-2024 01:22,hardware,Keyboard/Mouse,Low,Closed,Priya Nair,Operations,48,No,1
+TCK10008,06-02-2024 19:21,2024-06-03 03:58,Hardware,Monitor Not Working,medium,Closed,Kiran Rao,Operations,24,No,5
+TCK10928,30-May-2024 07:26,2024-05-30 20:27,Software ,Application Crash,Medium,Resolved,Priya Nair,Operations,24,No,5
+TCK10808,03/04/2024 17:34,2024-04-03 20:03,ACC,New Access Request,High,Resolved,Ananya Das,IT,8,No,
+TCK10376,29/05/2024 03:49,2024-05-30 21:56,Netwrok,VPN Connectivity,Low,Closed,,IT,48,No,4
+TCK11369,2024-03-14 06:45,18/03/2024 05:31,Emial,Spam/Phishing Report,Low,Resolved,Arjun Reddy,Legal,48,Yes,2
+TCK10940,25/04/2024 16:31,2024-04-26 04:14,ACC,New Access Request,Medium,Resolved,Priya Nair,Finance,24,No,2
+TCK10259,2024-06-20 22:41,2024-06-21 01:06,Hard ware,Keyboard/Mouse,Low,Resolved,Rohan Mehta,Operations,48,No,5
+TCK11392,14/02/2024 10:19,2024-02-16 04:19,Software,Software Installation,Medium,Closed,Divya Menon,Legal,24,Yes,
+TCK11535,17-Jan-2024 16:34,2024-01-18 12:37,hardware,Laptop Issue,Low,Reopened,Rohan Mehta,Marketing,48,No,
+TCK10208,08/03/2024 16:29,,SW,Application Crash,Medium,Open,Aarav Sharma,Finance,24,,
+TCK11551,2024-03-16 06:53,16/03/2024 13:13,Network ,LAN Down,High,Closed,Divya Menon,Finance,8,No,5
